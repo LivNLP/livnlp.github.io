@@ -21,15 +21,15 @@
 #   place: UMass, USA
 #   sub: NLP
 
-- name: NAACL
-  year: 2019
-  id: naacl19
-  link: http://naacl2019.org/calls/papers/
-  deadline: "2018-12-03 23:59:00"
-  timezone: UTC-12
-  date: June 2-7, 2019
-  place: Minneapolis, USA
-  sub: NLP
+#- name: NAACL
+#  year: 2019
+#  id: naacl19
+#  link: http://naacl2019.org/calls/papers/
+#  deadline: "2018-12-03 23:59:00"
+#  timezone: UTC-12
+#  date: June 2-7, 2019
+#  place: Minneapolis, USA
+#  sub: NLP
 
 - name: ICML
   year: 2019
@@ -50,6 +50,16 @@
   date: August 3-7, 2019
   place: Anchorage, Alaska, USA
   sub: DM
+
+- name: SEM
+  year: 2019
+  id: sem19
+  link: http://starsem.org/2019/
+  deadline: "2019-03-06 23:59:00"
+  timezone: UTC-12
+  date: June 6-7, 2019
+  place: Minneapolis, USA (Co-located with NAACL)
+  sub: NLP
 
 - name: SIGIR
   year: 2019
@@ -91,15 +101,15 @@
   place: Florence, Italy
   sub: NLP
 
-- name: NIPS
-  year: 2018
-  id: nips18
-  link: https://nips.cc/Conferences/2018
-  deadline: "2018-05-18 13:00:00"
-  timezone: America/Los_Angeles
-  date: December 3-8, 2018
-  place: "Palais des Congr\xE8s de Montr\xE9al, Montr\xE9al, Canada"
-  sub: ML
+#- name: NIPS
+#  year: 2018
+#  id: nips18
+#  link: https://nips.cc/Conferences/2018
+#  deadline: "2018-05-18 13:00:00"
+#  timezone: America/Los_Angeles
+#  date: December 3-8, 2018
+#  place: "Palais des Congr\xE8s de Montr\xE9al, Montr\xE9al, Canada"
+#  sub: ML
 
 - name: EMNLP-IJCNLP
   year: 2019
@@ -111,52 +121,52 @@
   place: Hong Kong
   sub: NLP
 
-- name: CoNLL
-  year: 2018
-  id: conll18
-  link: http://www.conll.org/
-  deadline: "2018-06-01 23:59:59"
-  timezone: Etc/GMT+12
-  date: October 31 - November 1, 2018
-  place: Brussels, Belgium
-  sub: NLP
+#- name: CoNLL
+#  year: 2018
+#  id: conll18
+#  link: http://www.conll.org/
+#  deadline: "2018-06-01 23:59:59"
+#  timezone: Etc/GMT+12
+#  date: October 31 - November 1, 2018
+#  place: Brussels, Belgium
+#  sub: NLP
 
-- name: ICDM
-  year: 2018
-  id: icdm2018
-  link: http://icdm2018.org/
-  deadline: "2018-06-05 23:59:59"
-  timezone: Etc/GMT-7
-  date: November 17-20, 2018
-  place: Singapore
-  sub: ML
+# - name: ICDM
+#   year: 2018
+#   id: icdm2018
+#   link: http://icdm2018.org/
+#   deadline: "2018-06-05 23:59:59"
+#   timezone: Etc/GMT-7
+#   date: November 17-20, 2018
+#   place: Singapore
+#   sub: ML
 
-- name: AAAI
-  year: 2019
-  id: aaai19
-  link: https://aaai.org/Conferences/AAAI-19/
-  deadline: "2018-09-05 23:59:59"
-  timezone: Etc/GMT+10
-  date: January 27 - February 1, 2019
-  place: Hilton Hawaiian Village, Honolulu, Hawaii, USA
-  sub: AI
+# - name: AAAI
+#   year: 2019
+#   id: aaai19
+#   link: https://aaai.org/Conferences/AAAI-19/
+#   deadline: "2018-09-05 23:59:59"
+#   timezone: Etc/GMT+10
+#   date: January 27 - February 1, 2019
+#   place: Hilton Hawaiian Village, Honolulu, Hawaii, USA
+#   sub: AI
 
-- name: ICLR
-  year: 2019
-  id: iclr19
-  link: http://iclr.cc/
-  deadline: "2018-09-27 17:59:59"
-  timezone: America/New_York
-  date: May 6-9, 2019
-  place: New Orleans, Louisiana, US
-  sub: ML
+# - name: ICLR
+#   year: 2019
+#   id: iclr19
+#   link: http://iclr.cc/
+#   deadline: "2018-09-27 17:59:59"
+#   timezone: America/New_York
+#   date: May 6-9, 2019
+#   place: New Orleans, Louisiana, US
+#   sub: ML
 
-- name: AISTATS
-  year: 2019
-  id: aistats19
-  link: https://www.aistats.org/
-  deadline: "2018-10-04 23:59:59"
-  timezone: America/Los_Angeles
-  date: April 16-18, 2019
-  place: Naha, Okinawa, Japan
-  sub: ML
+# - name: AISTATS
+#   year: 2019
+#   id: aistats19
+#   link: https://www.aistats.org/
+#   deadline: "2018-10-04 23:59:59"
+#   timezone: America/Los_Angeles
+#   date: April 16-18, 2019
+#   place: Naha, Okinawa, Japan
+#   sub: ML

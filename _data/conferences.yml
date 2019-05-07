@@ -1,125 +1,17 @@
 
 ---
 
-# - name: WWW
-#   year: 2019
-#   id: www19
-#   link: https://www2019.thewebconf.org/
-#   deadline: "2018-11-05 23:59:00"
-#   timezone: Etc/GMT-7
-#   date: May 13-17, 2019
-#   place: San Francisco, CA, USA
-#   sub: DM
+############## NLP venues
 
-# - name: AKBC
+# - name: ACL
 #   year: 2019
-#   id: akbc19
-#   link: http://www.akbc.ws/
-#   deadline: "2018-11-16 23:59:59"
-#   timezone: UTC
-#   date: May 20-22, 2019
-#   place: UMass, USA
+#   id: acl19
+#   link: http://acl2019.org/
+#   deadline: "2019-03-04 23:59:00"
+#   timezone: Etc/GMT+12
+#   date: July 28-August 2, 2019
+#   place: Florence, Italy
 #   sub: NLP
-
-#- name: NAACL
-#  year: 2019
-#  id: naacl19
-#  link: http://naacl2019.org/calls/papers/
-#  deadline: "2018-12-03 23:59:00"
-#  timezone: UTC-12
-#  date: June 2-7, 2019
-#  place: Minneapolis, USA
-#  sub: NLP
-
-- name: ICML
-  year: 2019
-  id: icml19
-  link: https://icml.cc/Conferences/2019
-  deadline: "2019-01-23 15:59:00"
-  timezone: America/Los_Angeles
-  date: June 10-15, 2019
-  place: Long Beach Convention Center, Long Beach, USA
-  sub: ML
-
-- name: KDD
-  year: 2019
-  id: kdd19
-  link: http://www.kdd.org/kdd2019
-  deadline: "2019-02-03 23:59:00"
-  timezone: Etc/GMT-7
-  date: August 3-7, 2019
-  place: Anchorage, Alaska, USA
-  sub: DM
-
-- name: SEM
-  year: 2019
-  id: sem19
-  link: http://starsem.org/2019/
-  deadline: "2019-03-06 23:59:00"
-  timezone: UTC-12
-  date: June 6-7, 2019
-  place: Minneapolis, USA (Co-located with NAACL)
-  sub: NLP
-
-- name: SIGIR
-  year: 2019
-  id: sigir19
-  link: http://sigir.org/sigir2019/
-  deadline: "2019-02-01 23:59:00"
-  timezone: Etc/GMT-7
-  date: July 21-25, 2019
-  place: Paris, France
-  sub: DM
-
-- name: COLT
-  year: 2019
-  id: colt19
-  link: http://www.learningtheory.org/colt2019/
-  deadline: "2019-02-01 23:00:00"
-  timezone: EST
-  date: June 25-28, 2019
-  place: Phoenix, AZ
-  sub: ML
-
-- name: IJCAI
-  year: 2019
-  id: ijcai19
-  link: https://www.ijcai19.org/
-  deadline: "2019-02-25 23:59:59"
-  timezone: Etc/GMT
-  date: August 10-16, 2019
-  place: Macau, China
-  sub: AI
-
-- name: ACL
-  year: 2019
-  id: acl19
-  link: http://acl2019.org/
-  deadline: "2019-03-04 23:59:00"
-  timezone: Etc/GMT+12
-  date: July 28-August 2, 2019
-  place: Florence, Italy
-  sub: NLP
-  
- - name: repl4nlp
-   year: 2019
-   id: repl4nlp19
-   link: https://sites.google.com/view/repl4nlp2019
-   deadline: "2019-04-26 23:59:00"
-   timezone: Etc/GMT+12
-   date: July 28-August 2, 2019
-   place: Florence, Italy
-   sub: NLP
-
-#- name: NIPS
-#  year: 2018
-#  id: nips18
-#  link: https://nips.cc/Conferences/2018
-#  deadline: "2018-05-18 13:00:00"
-#  timezone: America/Los_Angeles
-#  date: December 3-8, 2018
-#  place: "Palais des Congr\xE8s de Montr\xE9al, Montr\xE9al, Canada"
-#  sub: ML
 
 - name: EMNLP-IJCNLP
   year: 2019
@@ -131,17 +23,70 @@
   place: Hong Kong
   sub: NLP
 
-#- name: CoNLL
-#  year: 2018
-#  id: conll18
-#  link: http://www.conll.org/
-#  deadline: "2018-06-01 23:59:59"
-#  timezone: Etc/GMT+12
-#  date: October 31 - November 1, 2018
-#  place: Brussels, Belgium
+
+- name: CoNLL
+  year: 2019
+  id: conll
+  link: http://www.conll.org/2019
+  deadline: "2019-05-31 23:59:00"
+  timezone: UTC-12
+  date: November 3-4, 2019
+  place: Hong Kong
+  sub: NLP
+
+#- name: NAACL
+#  year: 2019
+#  id: naacl19
+#  link: http://naacl2019.org/calls/papers/
+#  deadline: "2018-12-03 23:59:00"
+#  timezone: UTC-12
+#  date: June 2-7, 2019
+#  place: Minneapolis, USA
 #  sub: NLP
 
-# - name: ICDM
+# - name: SEM
+#   year: 2019
+#   id: sem19
+#   link: http://starsem.org/2019/
+#   deadline: "2019-03-06 23:59:00"
+#   timezone: UTC-12
+#   date: June 6-7, 2019
+#   place: Minneapolis, USA (Co-located with NAACL)
+#   sub: NLP
+
+#### DM venues
+
+# - name: KDD
+#   year: 2019
+#   id: kdd19
+#   link: http://www.kdd.org/kdd2019
+#   deadline: "2019-02-03 23:59:00"
+#   timezone: Etc/GMT-7
+#   date: August 3-7, 2019
+#   place: Anchorage, Alaska, USA
+#   sub: DM
+
+# - name: SIGIR
+#   year: 2019
+#   id: sigir19
+#   link: http://sigir.org/sigir2019/
+#   deadline: "2019-02-01 23:59:00"
+#   timezone: Etc/GMT-7
+#   date: July 21-25, 2019
+#   place: Paris, France
+#   sub: DM
+
+- name: CIKM
+  year: 2019
+  id: cikm
+  link: http://www.wsdm-conference.org/2020/
+  deadline: "2019-08-12 23:59:00"
+  timezone: Etc/GMT-7
+  date: Feb 5-9, 2020
+  place: Houston, Texas
+  sub: DM
+
+  # - name: ICDM
 #   year: 2018
 #   id: icdm2018
 #   link: http://icdm2018.org/
@@ -151,15 +96,40 @@
 #   place: Singapore
 #   sub: ML
 
-# - name: AAAI
+# - name: WWW
 #   year: 2019
-#   id: aaai19
-#   link: https://aaai.org/Conferences/AAAI-19/
-#   deadline: "2018-09-05 23:59:59"
-#   timezone: Etc/GMT+10
-#   date: January 27 - February 1, 2019
-#   place: Hilton Hawaiian Village, Honolulu, Hawaii, USA
-#   sub: AI
+#   id: www19
+#   link: https://www2019.thewebconf.org/
+#   deadline: "2018-11-05 23:59:00"
+#   timezone: Etc/GMT-7
+#   date: May 13-17, 2019
+#   place: San Francisco, CA, USA
+#   sub: DM
+
+
+
+  
+## ML venues
+
+# - name: ICML
+#   year: 2019
+#   id: icml19
+#   link: https://icml.cc/Conferences/2019
+#   deadline: "2019-01-23 15:59:00"
+#   timezone: America/Los_Angeles
+#   date: June 10-15, 2019
+#   place: Long Beach Convention Center, Long Beach, USA
+#   sub: ML
+
+#- name: NIPS
+#  year: 2018
+#  id: nips18
+#  link: https://nips.cc/Conferences/2018
+#  deadline: "2018-05-18 13:00:00"
+#  timezone: America/Los_Angeles
+#  date: December 3-8, 2018
+#  place: "Palais des Congr\xE8s de Montr\xE9al, Montr\xE9al, Canada"
+#  sub: ML
 
 # - name: ICLR
 #   year: 2019
@@ -180,3 +150,17 @@
 #   date: April 16-18, 2019
 #   place: Naha, Okinawa, Japan
 #   sub: ML
+
+##### AI venues
+
+# - name: AAAI
+#   year: 2019
+#   id: aaai19
+#   link: https://aaai.org/Conferences/AAAI-19/
+#   deadline: "2018-09-05 23:59:59"
+#   timezone: Etc/GMT+10
+#   date: January 27 - February 1, 2019
+#   place: Hilton Hawaiian Village, Honolulu, Hawaii, USA
+#   sub: AI
+
+

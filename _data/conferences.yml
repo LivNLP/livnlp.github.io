@@ -23,7 +23,6 @@
 #   place: Hong Kong
 #   sub: NLP
 
-
 - name: CoNLL
   year: 2019
   id: conll
@@ -34,7 +33,7 @@
   place: Hong Kong
   sub: NLP
 
-  - name: PACLING
+- name: PACLING
   year: 2019
   id: pacling
   link: https://pacling2019.fpt.edu.vn/call-for-paper/
@@ -86,9 +85,9 @@
 #   place: Paris, France
 #   sub: DM
 
-- name: CIKM
+- name: WSDM
   year: 2019
-  id: cikm
+  id: wsdm
   link: http://www.wsdm-conference.org/2020/
   deadline: "2019-08-12 23:59:00"
   timezone: Etc/GMT-7
@@ -111,7 +110,7 @@
   id: www19
   link: https://www2020.thewebconf.org/
   deadline: "2019-10-07 23:59:00"
-  timezone: UTC-12
+  timezone: 
   date: April 20-24, 2020
   place: San Francisco, CA, USA
   note: Abstract deadline Oct 7

@@ -13,15 +13,15 @@
 #   place: Florence, Italy
 #   sub: NLP
 
-- name: EMNLP-IJCNLP
-  year: 2019
-  id: emnlp19
-  link: https://www.emnlp-ijcnlp2019.org/
-  deadline: "2019-05-21 23:59:59"
-  timezone: UTC-7
-  date: November 5-7, 2019
-  place: Hong Kong
-  sub: NLP
+# - name: EMNLP-IJCNLP
+#   year: 2019
+#   id: emnlp19
+#   link: https://www.emnlp-ijcnlp2019.org/
+#   deadline: "2019-05-21 23:59:59"
+#   timezone: UTC-7
+#   date: November 5-7, 2019
+#   place: Hong Kong
+#   sub: NLP
 
 
 - name: CoNLL
@@ -32,6 +32,16 @@
   timezone: UTC-12
   date: November 3-4, 2019
   place: Hong Kong
+  sub: NLP
+
+  - name: PACLING
+  year: 2019
+  id: pacling
+  link: https://pacling2019.fpt.edu.vn/call-for-paper/
+  deadline: "2019-06-31 23:59:00"
+  timezone: UTC-12
+  date: October 11-13, 2019
+  place: Hanoi, Vietnam
   sub: NLP
 
 #- name: NAACL
@@ -96,15 +106,16 @@
 #   place: Singapore
 #   sub: ML
 
-# - name: WWW
-#   year: 2019
-#   id: www19
-#   link: https://www2019.thewebconf.org/
-#   deadline: "2018-11-05 23:59:00"
-#   timezone: Etc/GMT-7
-#   date: May 13-17, 2019
-#   place: San Francisco, CA, USA
-#   sub: DM
+- name: WWW
+  year: 2019
+  id: www19
+  link: https://www2020.thewebconf.org/
+  deadline: "2019-10-07 23:59:00"
+  timezone: UTC-12
+  date: April 20-24, 2020
+  place: San Francisco, CA, USA
+  note: Abstract deadline Oct 7
+  sub: DM
 
 
 

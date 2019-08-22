@@ -23,25 +23,25 @@
 #   place: Hong Kong
 #   sub: NLP
 
-- name: CoNLL
-  year: 2019
-  id: conll
-  link: http://www.conll.org/2019
-  deadline: "2019-05-31 23:59:00"
-  timezone: UTC-12
-  date: November 3-4, 2019
-  place: Hong Kong
-  sub: NLP
+# - name: CoNLL
+#   year: 2019
+#   id: conll
+#   link: http://www.conll.org/2019
+#   deadline: "2019-05-31 23:59:00"
+#   timezone: UTC-12
+#   date: November 3-4, 2019
+#   place: Hong Kong
+#   sub: NLP
 
-- name: PACLING
-  year: 2019
-  id: pacling
-  link: https://pacling2019.fpt.edu.vn/call-for-paper/
-  deadline: "2019-06-15 23:59:00"
-  timezone: UTC-12
-  date: October 11-13, 2019
-  place: Hanoi, Vietnam
-  sub: NLP
+# - name: PACLING
+#   year: 2019
+#   id: pacling
+#   link: https://pacling2019.fpt.edu.vn/call-for-paper/
+#   deadline: "2019-06-15 23:59:00"
+#   timezone: UTC-12
+#   date: October 11-13, 2019
+#   place: Hanoi, Vietnam
+#   sub: NLP
 
 #- name: NAACL
 #  year: 2019
@@ -62,6 +62,18 @@
 #   date: June 6-7, 2019
 #   place: Minneapolis, USA (Co-located with NAACL)
 #   sub: NLP
+
+# - name: SEM
+  year: 2020
+  id: lrec
+  link: https://lrec2020.lrec-conf.org/en/about/important-dates/
+  deadline: "2019-11-25 23:59:00"
+  timezone: UTC-12
+  date: May 13-14, 2020
+  place: Marseielle
+  sub: NLP
+
+
 
 #### DM venues
 
@@ -85,15 +97,15 @@
 #   place: Paris, France
 #   sub: DM
 
-- name: WSDM
-  year: 2019
-  id: wsdm
-  link: http://www.wsdm-conference.org/2020/
-  deadline: "2019-08-12 23:59:00"
-  timezone: Etc/GMT-7
-  date: Feb 5-9, 2020
-  place: Houston, Texas
-  sub: DM
+# - name: WSDM
+#   year: 2019
+#   id: wsdm
+#   link: http://www.wsdm-conference.org/2020/
+#   deadline: "2019-08-12 23:59:00"
+#   timezone: Etc/GMT-7
+#   date: Feb 5-9, 2020
+#   place: Houston, Texas
+#   sub: DM
 
   # - name: ICDM
 #   year: 2018
@@ -163,14 +175,14 @@
 
 ##### AI venues
 
-# - name: AAAI
-#   year: 2019
-#   id: aaai19
-#   link: https://aaai.org/Conferences/AAAI-19/
-#   deadline: "2018-09-05 23:59:59"
-#   timezone: Etc/GMT+10
-#   date: January 27 - February 1, 2019
-#   place: Hilton Hawaiian Village, Honolulu, Hawaii, USA
-#   sub: AI
+- name: AAAI
+  year: 2020
+  id: aaai
+  link: https://aaai.org/Conferences/AAAI-20/aaai20call/
+  deadline: "2019-09-05 23:59:59"
+  timezone: UTC-10
+  date: Feb 7-12
+  place: New York
+  sub: AI
 
 

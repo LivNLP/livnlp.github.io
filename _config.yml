@@ -1,11 +1,33 @@
-theme: jekyll-theme-cayman
+title: UoL NLP Group
+description: University of Liverpool, Natural Language Processing Group
+show_downloads: true
 
-title:        University of Liverpool, Natural Language Processing Group
-baseurl:      ""
-paginate:     1
-locale:       "en"
+baseurl: "" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
+url: "https://livnlp.github.io" # change this to the base hostname & protocol for your site
 
-# About/contact
-author:
-  name:       Danushka Bollegala
-  url:        https://danushka.net
+
+google_analytics:
+
+# cayman-blog date format
+# refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
+cayman-blog:
+  date_format: "%b %-d, %Y"
+
+theme: jekyll-theme-cayman-blog
+
+# social
+author: bollegala
+image: /thumbnail-jumbo.png
+twitter:
+  username: lorepirri
+
+plugins:
+  - jekyll-target-blank
+
+target-blank:
+    rel: nofollow
+
+twitter:
+  username: Bollegala
+
+header_page_refs: ['publications', 'reading']

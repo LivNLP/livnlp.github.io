@@ -1,0 +1,20 @@
+---
+layout: default
+---
+
+<script>
+  function unhide(divID) {
+      var item = document.getElementById(divID);
+      if (item) {
+          item.className=(item.className=='hidden')?'unhidden':'hidden';
+      }
+}
+</script>
+
+<article>
+
+  <div>
+    {{ content }}
+  </div>
+
+</article>

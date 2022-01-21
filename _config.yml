@@ -1,13 +1,11 @@
-title: NLP/ML/AI Conference Deadlines 
-description: Countdowns to top NLP/ML/AI conference deadlines [credit to https://github.com/abhshkdz/ai-deadlines]
-author: Danushka Bollegala
+theme: jekyll-theme-cayman
 
-domain: "github.com/Bollegala/ai-deadlines"
-baseurl: ""
+title:        University of Liverpool, Natural Language Processing Group
+baseurl:      ""
+paginate:     1
+locale:       "en"
 
-twitter_username: bollegala
-github_username: bollegala
-github_repo: https://github.com/Bollegala/ai-deadlines
-
-markdown: kramdown
-ga_id: UA-36274081-2
+# About/contact
+author:
+  name:       Danushka Bollegala
+  url:        https://danushka.net

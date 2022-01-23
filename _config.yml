@@ -2,6 +2,7 @@ title: UoL NLP Group
 description: University of Liverpool, Natural Language Processing Group
 show_downloads: true
 
+
 baseurl: "" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
 url: "https://livnlp.github.io" # change this to the base hostname & protocol for your site
 
@@ -29,5 +30,11 @@ target-blank:
 
 twitter:
   username: Bollegala
+
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
+
+
 
 header_page_refs: ['publications', 'reading']

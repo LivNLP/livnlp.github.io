@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: home
 ---
 
 We are the Natural Language Processing Research Group at the Department of Computer Science, University of Liverpool.
@@ -14,7 +14,7 @@ We are the Natural Language Processing Research Group at the Department of Compu
 - Michael Abaho (PhD Student)
 - Jodie Chou (PhD Student)
 - Haochen Luo (Undergraduate Student)
-- Xiaohang Tang (Undergraduate Student)
+- [Xiaohang Tang](https://xiaohang-tang.github.io/) (Undergraduate Student)
 
 
 # Alumni

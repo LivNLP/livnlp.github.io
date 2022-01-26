@@ -30,7 +30,7 @@ We meet on a weely basis to discuss recent research papers. Here is the schedule
 | 17/11/21	| Micheal	| When does Further Pre-training MLM Help? An Empirical Study on Task-Oriented Dialog Pre-training	|
 | 24/11/21	| Jodie	| ConSeC: Word Sense Disambiguation as Continuous Sense Comprehension	|
 | 19/01/22	| Danushka	| Knowlege base completion meets transfer learning	|
-| 15/12/21	| Huda	| |	
+| 15/12/21	| Huda	| |	CoLAKE: Contextualized Language and Knowledge Embedding |
 | 01/12/22	| Jodie	| |	
 | 01/12/22	| Michael	| |
 

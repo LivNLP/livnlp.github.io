@@ -13,6 +13,7 @@ We are the Natural Language Processing Research Group at the Department of Compu
 - James O'Neill (PhD Student)
 - Michael Abaho (PhD Student)
 - Jodie Chou (PhD Student)
+- [Yoichi Ishibashi](https://yoichi1484.github.io/) (visiting PhD student, NAIST)
 - Haochen Luo (Undergraduate Student)
 - [Xiaohang Tang](https://xiaohang-tang.github.io/) (Undergraduate Student)
 

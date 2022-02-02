@@ -13,8 +13,12 @@ We meet on a weely basis to discuss recent research papers. Here is the schedule
 
 | Date | Speaker | Title |
 | ----- | ------- | ----- |
-| 01/12/22	| Michael	| |
-| 01/12/22	| Jodie	| ESC: Redesigning WSD with Extractive Sense Comprehension |	
+| 08/08/22	| Danushka| |
+| 01/03/22	| James	| |
+| 22/02/22	| Huda	| |
+| 15/02/22	| Angrosh	| |
+| 08/02/22	| Michael	| |
+| 02/02/22	| Jodie	| ESC: Redesigning WSD with Extractive Sense Comprehension |	
 | 26/01/22	| Huda |	CoLAKE: Contextualized Language and Knowledge Embedding |
 | 19/01/22	| Danushka	| Knowlege base completion meets transfer learning	|
 | 24/11/21	| Jodie	| ConSeC: Word Sense Disambiguation as Continuous Sense Comprehension	|

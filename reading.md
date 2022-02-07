@@ -17,7 +17,7 @@ We meet on a weely basis to discuss recent research papers. Here is the schedule
 | 01/03/22	| James	| |
 | 22/02/22	| Huda	| |
 | 15/02/22	| Angrosh	| |
-| 08/02/22	| Michael	| |
+| 08/02/22	| Michael	| Making Pre-trained Language Models Better Few-shot Learners |
 | 02/02/22	| Jodie	| ESC: Redesigning WSD with Extractive Sense Comprehension |	
 | 26/01/22	| Huda |	CoLAKE: Contextualized Language and Knowledge Embedding |
 | 19/01/22	| Danushka	| Knowlege base completion meets transfer learning	|

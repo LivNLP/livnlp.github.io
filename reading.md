@@ -13,10 +13,10 @@ We meet on a weely basis to discuss recent research papers. Here is the schedule
 
 | Date | Speaker | Title |
 | ----- | ------- | ----- |
-| 08/08/22	| Danushka| |
+| 08/03/22	| Angrosh| |
 | 01/03/22	| James	| |
 | 22/02/22	| Huda	| |
-| 15/02/22	| Angrosh	| |
+| 15/02/22	| Danushka	| [Avoiding Inference Heuristics in Few-shot Prompt-based Finetuning](https://aclanthology.org/2021.emnlp-main.713/)|
 | 08/02/22	| Michael	| Making Pre-trained Language Models Better Few-shot Learners |
 | 02/02/22	| Jodie	| ESC: Redesigning WSD with Extractive Sense Comprehension |	
 | 26/01/22	| Huda |	CoLAKE: Contextualized Language and Knowledge Embedding |

@@ -15,7 +15,7 @@ We meet on a weely basis to discuss recent research papers. Here is the schedule
 | ----- | ------- | ----- |
 | 08/03/22	| Angrosh| |
 | 01/03/22	| James	| |
-| 22/02/22	| Huda	| |
+| 22/02/22	| Huda	| [Entity Concept-enhanced Few-shot Relation Extraction](https://aclanthology.org/2021.acl-short.124.pdf)| 
 | 15/02/22	| Danushka	| [Avoiding Inference Heuristics in Few-shot Prompt-based Finetuning](https://aclanthology.org/2021.emnlp-main.713/)|
 | 08/02/22	| Michael	| Making Pre-trained Language Models Better Few-shot Learners |
 | 02/02/22	| Jodie	| ESC: Redesigning WSD with Extractive Sense Comprehension |	

@@ -13,7 +13,17 @@ We meet on a weely basis to discuss recent research papers. Here is the schedule
 
 | Date | Speaker | Title |
 | ----- | ------- | ----- |
-| 08/03/22	| James| |
+| 17/05/22 | Danushka | |
+| 10/05/22 | Angrosh | |
+| 03/05/22 | Huda | |
+| 26/04/22 | Jodie | |
+| 19/04/22 | Michael | |
+| 12/04/22 | Danushka | |
+| 05/04/22 | Angrosh | |
+| 29/03/22 | Huda | |
+| 22/03/22 | Jodie | |
+| 15/03/22 | Michael | |
+| 08/03/22	| James/Danushka | |
 | 01/03/22	| Angrosh	| Relation Classification with Entity Type Restriction |
 | 22/02/22	| Huda	| [Entity Concept-enhanced Few-shot Relation Extraction](https://aclanthology.org/2021.acl-short.124.pdf)| 
 | 15/02/22	| Danushka	| [Avoiding Inference Heuristics in Few-shot Prompt-based Finetuning](https://aclanthology.org/2021.emnlp-main.713/)|

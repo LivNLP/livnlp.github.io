@@ -21,7 +21,7 @@ We meet on a weely basis to discuss recent research papers. Here is the schedule
 | 12/04/22 | Danushka | |
 | 05/04/22 | Angrosh | |
 | 29/03/22 | Huda | |
-| 22/03/22 | Jodie | |
+| 22/03/22 | Jodie |[Word sense disambiguation: Towards interactive context exploitation from both word and sense perspectives](https://aclanthology.org/2021.acl-long.406/) |
 | 15/03/22 | Michael | [CROSSFIT : A Few-shot Learning Challenge for Cosstask generalisation in NLP](https://aclanthology.org/2021.emnlp-main.572.pdf)|
 | 08/03/22	| Danushka | [PairRE: Knowledge Graph Embeddings via Paired Relation Vectors](https://aclanthology.org/2021.acl-long.336/)|
 | 01/03/22	| Angrosh	| Relation Classification with Entity Type Restriction |

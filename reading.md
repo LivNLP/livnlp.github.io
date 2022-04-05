@@ -18,8 +18,8 @@ We meet on a weely basis to discuss recent research papers. Here is the schedule
 | 03/05/22 | Huda | |
 | 26/04/22 | Jodie | |
 | 19/04/22 | Michael | |
-| 12/04/22 | Danushka | |
-| 05/04/22 | Angrosh | |
+| 12/04/22 | Angrosh | |
+| 05/04/22 | Danushka | [Generating Datasets with Pretrained Language Models](https://aclanthology.org/2021.emnlp-main.555/)|
 | 29/03/22 | Huda | [Exploring Task Difficulty for Few-Shot Relation Extraction](https://aclanthology.org/2021.emnlp-main.204.pdf)|
 | 22/03/22 | Jodie |[Word sense disambiguation: Towards interactive context exploitation from both word and sense perspectives](https://aclanthology.org/2021.acl-long.406/) |
 | 15/03/22 | Michael | [CROSSFIT : A Few-shot Learning Challenge for Cosstask generalisation in NLP](https://aclanthology.org/2021.emnlp-main.572.pdf)|

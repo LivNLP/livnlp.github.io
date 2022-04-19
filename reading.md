@@ -13,12 +13,11 @@ We meet on a weely basis to discuss recent research papers. Here is the schedule
 
 | Date | Speaker | Title |
 | ----- | ------- | ----- |
-| 17/05/22 | Danushka | |
-| 10/05/22 | Angrosh | |
-| 03/05/22 | Huda | |
-| 26/04/22 | Jodie | |
-| 19/04/22 | Michael | |
-| 12/04/22 | Angrosh | |
+| 10/05/22 | Danushka | |
+| 03/05/22 | Angrosh | |
+| 26/05/22 | Huda | |
+| 19/04/22 | Jodie |[Sense Embeddings are also Biased--Evaluating Social Biases in Static and Contextualised Sense Embeddings](https://arxiv.org/abs/2203.07523) |
+| 12/04/22 | Michael | [Position-based Prompting for Health Outcome Generation](https://arxiv.org/abs/2204.03489)|
 | 05/04/22 | Danushka | [Generating Datasets with Pretrained Language Models](https://aclanthology.org/2021.emnlp-main.555/)|
 | 29/03/22 | Huda | [Exploring Task Difficulty for Few-Shot Relation Extraction](https://aclanthology.org/2021.emnlp-main.204.pdf)|
 | 22/03/22 | Jodie |[Word sense disambiguation: Towards interactive context exploitation from both word and sense perspectives](https://aclanthology.org/2021.acl-long.406/) |

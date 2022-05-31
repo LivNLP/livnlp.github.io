@@ -17,7 +17,7 @@ We meet on a weely basis to discuss recent research papers. Here is the schedule
 | 14/06/22 | Huda | |
 | 07/06/22 | Jodie | |
 | 31/05/22 | Michael | |
-| 17/05/22 | Danushka | |
+| 17/05/22 | Danushka | ACL summary|
 | 10/05/22 | Angrosh | [Label Verbalization and Entailment for Effective Zero- and Few-Shot Relation Extraction](https://aclanthology.org/2021.emnlp-main.92/)|
 | 26/05/22 | Huda | [Learning to Borrow -- Relation Representation for Without-Mention Entity-Pairs for Knowledge Graph Completion](https://arxiv.org/abs/2204.13097)|
 | 19/04/22 | Jodie |[Sense Embeddings are also Biased--Evaluating Social Biases in Static and Contextualised Sense Embeddings](https://arxiv.org/abs/2203.07523) |

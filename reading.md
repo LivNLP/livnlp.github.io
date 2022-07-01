@@ -13,9 +13,14 @@ We meet on a weely basis to discuss recent research papers. Here is the schedule
 
 | Date | Speaker | Title |
 | ----- | ------- | ----- |
-| 28/06/22 | Angrosh | |
-| 21/06/22 | Huda | |
-| 14/06/22 | Jodie | |
+| 09/08/22 | Angrosh | |
+| 02/08/22 | Jodie | |
+| 26/07/22 | Huda | |
+| 19/07/22 | Michael | |
+| 12/07/22 | Danushka | |
+| 05/07/22 | Angrosh | |
+| 28/06/22 | Jodie | [Nibbling at the Hard Core of Word Sense Disambiguation](https://aclanthology.org/2022.acl-long.324/) |
+| 14/06/22 | Huda | [Learning to Borrow -- Relation Representation for Without-Mention Entity-Pairs for Knowledge Graph Completion](https://arxiv.org/abs/2204.13097)|
 | 07/06/22 | Michael |[Meta-learning via Language Model In-context Tuning](https://aclanthology.org/2022.acl-long.53.pdf) |
 | 17/05/22 | Danushka | ACL summary|
 | 10/05/22 | Angrosh | [Label Verbalization and Entailment for Effective Zero- and Few-Shot Relation Extraction](https://aclanthology.org/2021.emnlp-main.92/)|

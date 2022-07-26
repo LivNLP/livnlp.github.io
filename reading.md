@@ -16,9 +16,9 @@ We meet on a weely basis to discuss recent research papers. Here is the schedule
 | 09/08/22 | Angrosh | |
 | 02/08/22 | Jodie | |
 | 26/07/22 | Huda | |
-| 19/07/22 | Michael | |
-| 12/07/22 | Danushka | |
-| 05/07/22 | Angrosh | |
+| 19/07/22 | Michael |[Evidentiality-guided Generation for Knowledge-Intensive NLP Tasks)[https://aclanthology.org/2022.naacl-main.162/) |
+| 12/07/22 | Danushka |[Fantastically Ordered Prompts and Where to Find Them: Overcoming Few-Shot Prompt Order Sensitivity](https://aclanthology.org/2022.acl-long.556/) |
+| 05/07/22 | Angrosh | [IsoBN: Fine-Tuning BERT with Isotropic Batch Normalization](https://arxiv.org/abs/2005.02178)|
 | 28/06/22 | Jodie | [Nibbling at the Hard Core of Word Sense Disambiguation](https://aclanthology.org/2022.acl-long.324/) |
 | 14/06/22 | Huda | [Learning to Borrow -- Relation Representation for Without-Mention Entity-Pairs for Knowledge Graph Completion](https://arxiv.org/abs/2204.13097)|
 | 07/06/22 | Michael |[Meta-learning via Language Model In-context Tuning](https://aclanthology.org/2022.acl-long.53.pdf) |

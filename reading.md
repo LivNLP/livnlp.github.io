@@ -14,7 +14,7 @@ We meet on a weely basis to discuss recent research papers. Here is the schedule
 | Date | Speaker | Title |
 | ----- | ------- | ----- |
 | 16/08/22 | Angrosh | |
-| 09/08/22 | Jodie | |
+| 09/08/22 | Jodie | [MetaICL: Learning to Learn In Context] |(https://aclanthology.org/2022.naacl-main.201.pdf) |
 | 02/08/22 | Huda | [On Transferability of Prompt Tuning for Natural Language Processing](https://aclanthology.org/2022.naacl-main.290/) and   [Learning to Transfer Prompts for Text Generation](https://aclanthology.org/2022.naacl-main.257/)|
 | 26/07/22 | Michael |[Evidentiality-guided Generation for Knowledge-Intensive NLP Tasks](https://aclanthology.org/2022.naacl-main.162/) |
 | 12/07/22 | Danushka |[Fantastically Ordered Prompts and Where to Find Them: Overcoming Few-Shot Prompt Order Sensitivity](https://aclanthology.org/2022.acl-long.556/) |

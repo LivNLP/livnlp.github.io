@@ -13,8 +13,16 @@ We meet on a weely basis to discuss recent research papers. Here is the schedule
 
 | Date | Speaker | Title |
 | ----- | ------- | ----- |
-| 27/09/22 | Jodie | |
-| 20/09/22 | Huda | |
+| 29/12/22 | Danushka | |
+| 22/11/22 | Jodie | |
+| 15/11/22 | Aida | |
+| 08/11/22 | Huda | |
+| 01/11/22 | Tianhui | |
+| 25/10/22 | Procheta | |
+| 18/10/22 | Mike | |
+| 11/10/22 | Danushka | |
+| 04/10/22 | Huda | |
+| 27/09/22 | Tianhui | |
 | 20/09/22 | Procheta | |
 | 13/09/22 | Angrosh | |
 | 06/09/22 | Danushka | |

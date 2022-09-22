@@ -13,20 +13,21 @@ We meet on a weely basis to discuss recent research papers. Here is the schedule
 
 | Date | Speaker | Title |
 | ----- | ------- | ----- |
-| 29/12/22 | Danushka | |
-| 22/11/22 | Jodie | |
-| 15/11/22 | Aida | |
-| 08/11/22 | Huda | |
-| 01/11/22 | Tianhui | |
-| 25/10/22 | Procheta | |
-| 18/10/22 | Mike | |
-| 11/10/22 | Danushka | |
-| 04/10/22 | Huda | |
-| 27/09/22 | Tianhui | |
-| 20/09/22 | Procheta | |
-| 13/09/22 | Angrosh | |
-| 06/09/22 | Danushka | |
-| 09/08/22 | Jodie | [MetaICL: Learning to Learn In Context](https://aclanthology.org/2022.naacl-main.201.pdf) |
+| 15/12/22 | Mike | |
+| 08/12/22 | Tulika | |
+| 01/12/22 | Danushka | |
+| 24/11/22 | Jodie | |
+| 17/11/22 | Aida | |
+| 10/11/22 | Huda | |
+| 03/11/22 | Tianhui | |
+| 27/10/22 | Tulika | |
+| 20/10/22 | Mike | |
+| 13/10/22 | Huda | |
+| 06/10/22 | Tianhui | |
+| 29/09/22 | Procheta | |
+| 22/09/22 | Danushka | [IR like a SIR: Sense-enhanced Information Retrieval for Multiple Languages](https://aclanthology.org/2021.emnlp-main.79/)|
+| 08/09/22 | Danushka | [Word2Box: Capturing Set-Theoretic Semantics of Words using Box Embeddings](https://aclanthology.org/2022.acl-long.161/)|
+| 23/08/22 | Jodie | [MetaICL: Learning to Learn In Context](https://aclanthology.org/2022.naacl-main.201.pdf) |
 | 02/08/22 | Huda | [On Transferability of Prompt Tuning for Natural Language Processing](https://aclanthology.org/2022.naacl-main.290/) and   [Learning to Transfer Prompts for Text Generation](https://aclanthology.org/2022.naacl-main.257/)|
 | 26/07/22 | Michael |[Evidentiality-guided Generation for Knowledge-Intensive NLP Tasks](https://aclanthology.org/2022.naacl-main.162/) |
 | 12/07/22 | Danushka |[Fantastically Ordered Prompts and Where to Find Them: Overcoming Few-Shot Prompt Order Sensitivity](https://aclanthology.org/2022.acl-long.556/) |

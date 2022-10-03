@@ -24,7 +24,7 @@ We meet on a weely basis to discuss recent research papers. Here is the schedule
 | 20/10/22 | Mike | |
 | 13/10/22 | Huda | |
 | 06/10/22 | Tianhui | |
-| 29/09/22 | Procheta | |
+| 29/09/22 | Procheta | Bridging the Gap Between Indexing and Retrieval for Differentiable Search Index with Query Generation(https://arxiv.org/abs/2206.10128)|
 | 22/09/22 | Danushka | [IR like a SIR: Sense-enhanced Information Retrieval for Multiple Languages](https://aclanthology.org/2021.emnlp-main.79/)|
 | 08/09/22 | Danushka | [Word2Box: Capturing Set-Theoretic Semantics of Words using Box Embeddings](https://aclanthology.org/2022.acl-long.161/)|
 | 23/08/22 | Jodie | [MetaICL: Learning to Learn In Context](https://aclanthology.org/2022.naacl-main.201.pdf) |

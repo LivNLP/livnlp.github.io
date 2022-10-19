@@ -13,17 +13,17 @@ We meet on a weely basis to discuss recent research papers. Here is the schedule
 
 | Date | Speaker | Title |
 | ----- | ------- | ----- |
-| 15/12/22 | Mike | |
-| 08/12/22 | Tulika | |
-| 01/12/22 | Danushka | |
-| 24/11/22 | Jodie | |
-| 17/11/22 | Aida | |
-| 10/11/22 | Huda | |
-| 03/11/22 | Tianhui | |
-| 27/10/22 | Tulika | |
-| 20/10/22 | Mike | |
-| 13/10/22 | Huda | |
-| 06/10/22 | Tianhui | |
+| 22/12/22 | Mike | |
+| 15/12/22 | Tulika | |
+| 08/12/22 | Danushka | |
+| 01/12/22 | Jodie | |
+| 24/11/22 | Aida | |
+| 17/11/22 | Huda | |
+| 10/11/22 | Danushka | |
+| 03/11/22 | Tulika | |
+| 27/10/22 | Mike | |
+| 13/10/22 | Tianhui | [Enhancing Topic-to-Essay Generation with External Commonsense Knowledge](https://aclanthology.org/P19-1193/)|
+| 06/10/22 | Huda | [Document-Level Relation Extraction with Sentences Importance Estimation and Focusing](https://aclanthology.org/2022.naacl-main.212/)|
 | 29/09/22 | Procheta | [Bridging the Gap Between Indexing and Retrieval for Differentiable Search Index with Query Generation](https://arxiv.org/abs/2206.10128)|
 | 22/09/22 | Danushka | [IR like a SIR: Sense-enhanced Information Retrieval for Multiple Languages](https://aclanthology.org/2021.emnlp-main.79/)|
 | 08/09/22 | Danushka | [Word2Box: Capturing Set-Theoretic Semantics of Words using Box Embeddings](https://aclanthology.org/2022.acl-long.161/)|

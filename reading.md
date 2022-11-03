@@ -20,8 +20,8 @@ We meet on a weely basis to discuss recent research papers. Here is the schedule
 | 24/11/22 | Aida | |
 | 17/11/22 | Huda | |
 | 10/11/22 | Danushka | |
-| 03/11/22 | Tulika | |
-| 27/10/22 | Mike | |
+| 03/11/22 | Tulika | [Dr. Can See: Towards a Multi-modal Disease Diagnosis Virtual Assistant](https://dl.acm.org/doi/abs/10.1145/3511808.3557296)|
+| 27/10/22 | Mike | [An End-to-end Model for Entity-level Relation Extraction using Multi-instance Learning](https://aclanthology.org/2021.eacl-main.319/)|
 | 13/10/22 | Tianhui | [Enhancing Topic-to-Essay Generation with External Commonsense Knowledge](https://aclanthology.org/P19-1193/)|
 | 06/10/22 | Huda | [Document-Level Relation Extraction with Sentences Importance Estimation and Focusing](https://aclanthology.org/2022.naacl-main.212/)|
 | 29/09/22 | Procheta | [Bridging the Gap Between Indexing and Retrieval for Differentiable Search Index with Query Generation](https://arxiv.org/abs/2206.10128)|

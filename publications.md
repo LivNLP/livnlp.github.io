@@ -8,6 +8,245 @@ order: 1
 
 
 <ol reversed>
+	
+	<h2>2022</h2>
+	
+	<li>Yi Zhou and Danushka Bollegala:
+<strong>On the Curious case of l2 norm of Sense Embeddings</strong>,
+Proc. of the 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP 2022), Abu Dabi, December, 2022.
+<!-- <a href="https://arxiv.org/abs/2205.09867"><img src="../images/PDF.png" width="30" height ="10"></a> -->
+<a href = "javascript:unhide('Zhou-EMNLP-2022');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "Zhou-EMNLP-2022" class="hidden">
+<pre style="text-align: left">
+@inproceedings{Zhou:EMNLP:2022,
+  author = {Yi Zhou and Danushka Bollegala},  
+  title = {On the Curious case of $\ell_2$ norm of Sense Embeddings},
+  booktitle = {Proc. of 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP 2022)},
+  year = {2022}
+}
+</pre></div></li>
+
+
+<li>Masahiro Kaneko, Danushka Bollegala, and Naoaki Okazaki:
+<strong>Gender Bias in Meta-Embedding</strong>, Proc. of the 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP 2022), Abu Dabi, December, 2022.
+<a href="https://arxiv.org/abs/2205.09867"><img src="../images/PDF.png" width="30" height ="10"></a>
+<a href = "javascript:unhide('kaneko-MEbias-2022');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "kaneko-MEbias-2022" class="hidden">
+<pre style="text-align: left">
+@inproceedings{Kaneko:EMNLP:2022,
+  url = {https://arxiv.org/abs/2205.09867},  
+  author = {Kaneko, Masahiro and Bollegala, Danushka and Okazaki, Naoaki},  
+  title = {Gender Bias in Meta-Embeddings},
+  booktitle = {Proc. of 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP 2022)},
+  year = {2022}
+}
+</pre></div></li>
+
+<li>Masahiro Kaneko, Danushka Bollegala and Naoaki Okazaki:
+<strong>Debiasing isn't enough! -- On the Effectiveness of Debiasing MLMs and their Social Biases in Downstream Tasks</strong>,
+Proc. of the 29th International Conference on Computational Linguistics (COLING 2022), Gyeongju, Republic of Korea, October, 2022.
+<a href="https://aclanthology.org/2022.coling-1.111/"><img src="../images/PDF.png" width="30" height ="10"></a>
+<a href = "javascript:unhide('kaneko-coling2022');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "kaneko-coling2022" class="hidden">
+<pre style="text-align: left">
+@inproceedings{kaneko-etal-2022-debiasing,
+    title = "Debiasing Isn{'}t Enough! {--} on the Effectiveness of Debiasing {MLM}s and Their Social Biases in Downstream Tasks",
+    author = "Kaneko, Masahiro  and
+      Bollegala, Danushka  and
+      Okazaki, Naoaki",
+    booktitle = "Proceedings of the 29th International Conference on Computational Linguistics",
+    month = oct,
+    year = "2022",
+    address = "Gyeongju, Republic of Korea",
+    publisher = "International Committee on Computational Linguistics",
+    url = "https://aclanthology.org/2022.coling-1.111",
+    pages = "1299--1310",
+    abstract = "We study the relationship between task-agnostic intrinsic and task-specific extrinsic social bias evaluation measures for MLMs, and find that there exists only a weak correlation between these two types of evaluation measures. Moreover, we find that MLMs debiased using different methods still re-learn social biases during fine-tuning on downstream tasks. We identify the social biases in both training instances as well as their assigned labels as reasons for the discrepancy between intrinsic and extrinsic bias evaluation measurements. Overall, our findings highlight the limitations of existing MLM bias evaluation measures and raise concerns on the deployment of MLMs in downstream applications using those measures.",
+}
+</pre></div></li>
+
+<li>Tadashi Tsubota, Danushka Bollegala, Yang Zhao, Yingzi Jin and Tomotake Kozu:
+<strong>Improvement of intervention information detection for automated clinical literature screening during systematic review</strong>,
+Journal of Biomedical Informatics, August, 2022.
+<a href="https://doi.org/10.1016/j.jbi.2022.104185"><img src="../images/PDF.png" width="30" height ="10"></a>
+<a href = "javascript:unhide('Tsubota-2022');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "Tsubota-2022" class="hidden">
+<pre style="text-align: left">
+@article{TSUBOTA2022104185,
+	author = {Tadashi Tsubota and Danushka Bollegala and Yang Zhao and Yingzi Jin and Tomotake Kozu},
+	journal = {Journal of Biomedical Informatics},
+	pages = {104185},
+  doi = {doi.org/10.1016/j.jbi.2022.104185},
+	title = {Improvement of intervention information detection for automated clinical literature screening during systematic review},
+	year = {2022}}
+</pre></div></li>
+
+
+<li>Xiaohang Tang, Yi Zhou and Danushka Bollegala:
+<strong>Learning Dynamic Contextualised Word Embeddings via Template-based Temporal Adaptation</strong>,
+arXiv, 2022.
+<a href="https://arxiv.org/abs/2208.10734"><img src="../images/PDF.png" width="30" height ="10"></a>
+<a href = "javascript:unhide('DCWE-2022');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "DCWE-2022" class="hidden">
+<pre style="text-align: left">
+@misc{https://doi.org/10.48550/arxiv.2208.10734,
+  doi = {10.48550/ARXIV.2208.10734},  
+  url = {https://arxiv.org/abs/2208.10734},  
+  author = {Tang, Xiaohang and Zhou, Yi and Bollegala, Danushka},  
+  keywords = {Computation and Language (cs.CL), FOS: Computer and information sciences, FOS: Computer and information sciences},  
+  title = {Learning Dynamic Contextualised Word Embeddings via Template-based Temporal Adaptation},  
+  publisher = {arXiv},  
+  year = {2022},  
+  copyright = {arXiv.org perpetual, non-exclusive license}
+}
+</pre></div></li>
+
+
+<li>Samantha Durdy, Michael Gaultois, Vladimir Gusev, Danushka Bollegala and Matthew J. Rosseinsky:
+<strong>Random projections and Kernelised Leave One Cluster Out Cross-Validation: Universal baselines and evaluation tools for supervised machine learning for materials properties</strong>, Digital Discovery, 2022.
+<a href="https://arxiv.org/abs/2206.08841"><img src="../images/PDF.png" width="30" height ="10"></a>
+<a href = "javascript:unhide('sam-loco-cv-2022');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "sam-loco-cv-2022" class="hidden">
+<pre style="text-align: left">
+@article{Durdy:2022,
+	author = {Samantha Durdy and Michael Gaultois and Vladimir Gusev and Danushka Bollegala and Matthew J. Rosseinsky},
+	title = {Random projections and Kernelised Leave One Cluster Out Cross-Validation: Universal baselines and evaluation tools for supervised machine learning for materials properties},
+  journal = {Digital Discovery},
+	year = {2022}}
+  }
+</pre></div></li>
+
+
+<li>Danushka Bollegala:
+<strong>Learning Meta Word Embeddings by Unsupervised Weighted Concatenation of Source Embeddings</strong>,
+Proc. of 31st International Joint Conference on Artificial Intelligence (IJCAI-ECAI), Vienna, Austria, July, 2022.
+<a href="https://arxiv.org/abs/2204.12386"><img src="../images/PDF.png" width="30" height ="10"></a>
+<a href = "javascript:unhide('bollegala-ijcai-main2022');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "bollegala-ijcai-main2022" class="hidden">
+<pre style="text-align: left">
+@inproceedings{Bollegala:IJCAIa:2022,
+	author = {Danushka Bollegala},
+	booktitle = {Proc. of the 31st International Joint Conference on Artificial Intelligence (IJCAI-ECAI)},
+	title = {Learning Meta Word Embeddings by Unsupervised Weighted Concatenation of Source Embeddings},
+	year = {2022}}
+</pre></div></li>
+
+
+<li>Danushka Bollegala and James O'Neill:
+<strong>A Survey on Word Meta-Embedding Learning</strong>,
+Proc. of 31st International Joint Conference on Artificial Intelligence (IJCAI-ECAI), Vienna, Austria, July, 2022.
+<a href="https://arxiv.org/abs/2204.11660"><img src="../images/PDF.png" width="30" height ="10"></a>
+<a href = "javascript:unhide('bollegala-ijcai2022');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "bollegala-ijcai2022" class="hidden">
+<pre style="text-align: left">
+@inproceedings{Bollegala:IJCAIb:2022,
+	author = {Danushka Bollegala and James O'Neill},
+	booktitle = {Proc. of the 31st International Joint Conference on Artificial Intelligence (IJCAI-ECAI)},
+	title = {A Survey on Word Meta-Embedding Learning},
+	year = {2022}}
+</pre></div></li>
+
+<li>Masahiro Kaneko,  Aizhan Imankulova, Danushka Bollegala and Naoaki Okazaki:
+<strong>Gender Bias in Masked Language Models for Multiple Languages </strong>,
+Proc. of the Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL), Seattle, USA, 2022.
+<a href="https://arxiv.org/abs/2205.00551"><img src="../images/PDF.png" width="30" height ="10"></a>
+<a href = "javascript:unhide('kaneko-naacl2022');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "kaneko-naacl2022" class="hidden">
+<pre style="text-align: left">
+@inproceedings{Kaneko:NAACL:2022,
+	author = {Masahiro Kaneko and Aizhan Imankulova and Danushka Bollegala and Naoaki Okazaki},
+	booktitle = {Proc. of the Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL)},
+	title = {Gender Bias in Masked Language Models for Multiple Languages},
+	year = {2022}}
+</pre></div></li>
+
+
+<li>Huda Hakami, Mona Hakami, Angrosh Mandya and Danushka Bollegala:
+<strong>Learning to Borrow -- Relation Representation for Without-Mention Entity-Pairs for Knowledge Graph Completion</strong>,
+Proc. of the Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL), Seattle, USA, 2022.
+<a href="https://arxiv.org/abs/2204.13097"><img src="../images/PDF.png" width="30" height ="10"></a>
+<a href = "javascript:unhide('huda-naacl2022');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "huda-naacl2022" class="hidden">
+<pre style="text-align: left">
+@inproceedings{Hakami:NAACL:2022,
+	author = {Huda Hakami and Mona Hakami and Angrosh Mandya and Danushka Bollegala},
+	booktitle = {Proc. of the Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL)},
+	title = {Learning to Borrow -- Relation Representation for Without-Mention Entity-Pairs for Knowledge Graph Completion},
+	year = {2022}}
+</pre></div></li>
+
+
+<li>Danushka Bollegala, Tomoya Machide and Ken-ichi Kawarabayashi:
+<strong>Query Obfuscation by Semantic Decomposition</strong>,
+Proc. of the 13th Language Resources and Evaluation Conference (LREC), Marseille, France, 2022.
+<a href="https://arxiv.org/abs/1909.05819"><img src="../images/PDF.png" width="30" height ="10"></a>
+<a href = "javascript:unhide('bollegala-lrec2022');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "bollegala-lrec2022" class="hidden">
+<pre style="text-align: left">
+@inproceedings{Bollegala:LREC:2022,
+	author = {Danushka Bollegala and Tomoya Machide and Ken-ichi Kawarabayash},
+	booktitle = {Proc. of the 13th Language Resources and Evaluation Conference (LREC)},
+	title = {Query Obfuscation by Semantic Decomposition},
+	year = {2022}}
+</pre></div></li>
+
+<li>Keigo Takahashi and Danushka Bollegala:
+<strong>Unsupervised Attention-based Sentence-Level Meta-Embeddings from Contextualised Language Models</strong>,
+Proc. of the 13th Language Resources and Evaluation Conference (LREC), Marseille, France, 2022.
+<a href="../papers/takahashi-lrec2022.pdf"><img src="../images/PDF.png" width="30" height ="10"></a>
+<a href = "javascript:unhide('takahashi-lrec2022');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "takahashi-lrec2022" class="hidden">
+<pre style="text-align: left">
+@inproceedings{Takahashi:LREC:2022,
+	author = {Keigo Takahashi and Danushka Bollegala},
+	booktitle = {Proc. of the 13th Language Resources and Evaluation Conference (LREC)},
+	title = {Unsupervised Attention-based Sentence-Level Meta-Embeddings from Contextualised Language Models},
+	year = {2022}}
+</pre></div></li>
+
+
+
+<li>Micheal Abaho, Danushka Bollegala, Paula Williamson and Susanna Dodd:
+<strong>Position-based Prompting for Health Outcome Generation</strong>,
+Proc. of The 21st BioNLP workshop associated with the ACL SIGBIOMED special interest group, Dublin, Ireland, 2022.
+ <a href="https://arxiv.org/abs/2204.03489"><img src="../images/PDF.png" width="30" height ="10"></a> 
+<a href = "javascript:unhide('abaho-bionlp');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "abaho-bionlp" class="hidden">
+<pre style="text-align: left">
+@inproceedings{Abaho:2022,
+	author = {Micheal Abaho and Danushka Bollegala and Paula Williamson and Susanna Dodd},
+	booktitle = {Proc. of the 21st BioNLP workshop associated with the ACL SIGBIOMED special interest group},
+	title = {Position-based Prompting for Health Outcome Generation},
+	year = {2022}}
+</pre></div></li>
+
+<li>Yi Zhou, Masahiro Kaneko and Danushka Bollegala:
+<strong>Sense Embeddings are also Biased -- Evaluating Social Biases in Static and Contextualised Sense Embeddings</strong>,
+Proc. of the 60th Annual Meeting of the Association for Computational Linguistics, Dublin, Ireland, 2022.
+<a href="https://arxiv.org/abs/2203.07523"><img src="../images/PDF.png" width="30" height ="10"></a>
+<a href = "javascript:unhide('Zhou-ACL');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "Zhou-ACL" class="hidden">
+<pre style="text-align: left">
+@inproceedings{Zhou:2022,
+	author = {Yi Zhou and Masahiro Kaneko and Danushka Bollegala},
+	booktitle = {Proc. of the 60th Annual Meeting of the Association for Computational Linguistics},
+	title = {Sense Embeddings are also Biased--Evaluating Social Biases in Static and Contextualised Sense Embeddings},
+	year = {2022}}
+</pre></div></li>
+
+<li>Masahiro Kaneko and Danushka Bollegala:
+<strong>Unmasking the Mask -- Evaluating Social Biases in Masked Language Models</strong>,
+　Proc. of the 36th AAAI Conference on Artificial Intelligence, Vancouver, Canada, 2022.
+<a href="https://arxiv.org/abs/2104.07496"><img src="../images/PDF.png" width="30" height ="10"></a>
+<a href = "javascript:unhide('kaneko-AUL');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "kaneko-AUL" class="hidden">
+<pre style="text-align: left">
+@inproceedings{Kaneko:2022,
+	author = {Masahiro Kaneko and Danushka Bollegala},
+	booktitle = {Proc. of the 36th AAAI Conference on Artificial Intelligence},
+	title = {Unmasking the Mask -- Evaluating Social Biases in Masked Language Models},
+	year = {2022}}
+</pre></div></li>
 
 <h2>2021</h2>
 

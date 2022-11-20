@@ -18,7 +18,7 @@ We meet on a weely basis to discuss recent research papers. Here is the schedule
 | 08/12/22 | Danushka | |
 | 01/12/22 | Jodie | |
 | 24/11/22 | Aida | |
-| 17/11/22 | Huda | |
+| 17/11/22 | Huda | [Deep Bidirectional Language-Knowledge Graph Pretraining](https://arxiv.org/abs/2210.09338)|
 | 10/11/22 | Danushka | [Learning To Retrieve Prompts for In-Context Learning](https://aclanthology.org/2022.naacl-main.191/)|
 | 03/11/22 | Tulika | [Dr. Can See: Towards a Multi-modal Disease Diagnosis Virtual Assistant](https://dl.acm.org/doi/abs/10.1145/3511808.3557296)|
 | 27/10/22 | Mike | [An End-to-end Model for Entity-level Relation Extraction using Multi-instance Learning](https://aclanthology.org/2021.eacl-main.319/)|

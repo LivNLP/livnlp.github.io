@@ -13,10 +13,15 @@ We meet on a weely basis to discuss recent research papers. Here is the schedule
 
 | Date | Speaker | Title |
 | ----- | ------- | ----- |
-| 22/12/22 | Mike | |
-| 15/12/22 | Tulika | |
-| 08/12/22 | Danushka | |
-| 01/12/22 | Jodie | |
+| 23/02/23 | Tulika | |
+| 16/02/23 |  Procheta| |
+| 09/02/23 | Danushka | |
+| 02/02/23 |  Jodie| |
+| 19/01/23 | Huda| |
+| 05/01/23 | Mike | |
+| 22/12/22 | Tulika | [Many Hands Make Light Work: Using Essay Traits to Automatically Score Essays](https://aclanthology.org/2022.naacl-main.106)|
+| 15/12/22 | Jodie and Danushka | EMNLP 2022 Summary|
+| 01/12/22 | Jodie | [ESimCSE: Enhanced Sample Building Method for Contrastive Learning of Unsupervised Sentence Embedding](https://aclanthology.org/2022.coling-1.342/)|
 | 24/11/22 | Aida | [MelBERT: Metaphor Detection via Contextualized Late Interaction using Metaphorical Identification Theories](https://aclanthology.org/2021.naacl-main.141/)|
 | 17/11/22 | Huda | [Deep Bidirectional Language-Knowledge Graph Pretraining](https://arxiv.org/abs/2210.09338)|
 | 10/11/22 | Danushka | [Learning To Retrieve Prompts for In-Context Learning](https://aclanthology.org/2022.naacl-main.191/)|

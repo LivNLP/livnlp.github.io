@@ -13,11 +13,11 @@ We meet on a weely basis to discuss recent research papers. Here is the schedule
 
 | Date | Speaker | Title |
 | ----- | ------- | ----- |
-| 23/02/23 | Tulika | |
-| 16/02/23 |  Procheta| |
-| 09/02/23 | Danushka | |
-| 02/02/23 |  Jodie| |
-| 19/01/23 | Huda| |
+| 16/02/23 | Tulika | |
+| 09/02/23 |  Procheta| |
+| 02/02/23 | Danushka | |
+| 26/01/23 |  Jodie| |
+| 19/01/23 | Huda| [FPC: Fine-tuning with Prompt Curriculum for Relation Extraction](https://aclanthology.org/2022.aacl-main.78/) |
 | 05/01/23 | Mike |[Generative Knowledge Graph Construction: A Review](https://preview.aclanthology.org/emnlp-22-ingestion/2022.emnlp-main.1/) |
 | 22/12/22 | Tulika | [Many Hands Make Light Work: Using Essay Traits to Automatically Score Essays](https://aclanthology.org/2022.naacl-main.106)|
 | 15/12/22 | Jodie and Danushka | EMNLP 2022 Summary|

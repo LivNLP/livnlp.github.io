@@ -13,6 +13,13 @@ We meet on a weely basis to discuss recent research papers. Here is the schedule
 
 | Date | Speaker | Title |
 | ----- | ------- | ----- |
+| 06/03/23 | Tulika | |
+| 30/03/23 | Procheta | |
+| 23/03/23 | Danushka | |
+| 16/03/23 | Jodie | |
+| 09/03/23 | Huda | |
+| 02/03/23 | Mike | |
+| 23/02/23 | Tianhui| |
 | 16/02/23 | Tulika | |
 | 09/02/23 |  Procheta| |
 | 02/02/23 | Danushka | |

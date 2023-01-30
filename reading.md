@@ -23,7 +23,7 @@ We meet on a weely basis to discuss recent research papers. Here is the schedule
 | 16/02/23 | Tulika | |
 | 09/02/23 |  Procheta| |
 | 02/02/23 | Danushka | |
-| 26/01/23 |  Jodie| |
+| 26/01/23 |  Jodie| [Retrieval Augmentation for Commonsense Reasoning: A Unified Approach](https://arxiv.org/abs/2210.12887)|
 | 19/01/23 | Huda| [FPC: Fine-tuning with Prompt Curriculum for Relation Extraction](https://aclanthology.org/2022.aacl-main.78/) |
 | 05/01/23 | Mike |[Generative Knowledge Graph Construction: A Review](https://preview.aclanthology.org/emnlp-22-ingestion/2022.emnlp-main.1/) |
 | 22/12/22 | Tulika | [Many Hands Make Light Work: Using Essay Traits to Automatically Score Essays](https://aclanthology.org/2022.naacl-main.106)|

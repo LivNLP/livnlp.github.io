@@ -24,7 +24,7 @@ We meet on a weely basis to discuss recent research papers. Here is the schedule
 | 23/02/23 | Tianhui| |
 | 16/02/23 | Tulika | |
 | 09/02/23 |  Procheta| |
-| 02/02/23 | Danushka | |
+| 02/02/23 | Danushka | [Accelerating Large-Scale Inference with Anisotropic Vector Quantization](https://arxiv.org/abs/1908.10396)|
 | 26/01/23 |  Jodie| [Retrieval Augmentation for Commonsense Reasoning: A Unified Approach](https://arxiv.org/abs/2210.12887)|
 | 19/01/23 | Huda| [FPC: Fine-tuning with Prompt Curriculum for Relation Extraction](https://aclanthology.org/2022.aacl-main.78/) |
 | 05/01/23 | Mike |[Generative Knowledge Graph Construction: A Review](https://preview.aclanthology.org/emnlp-22-ingestion/2022.emnlp-main.1/) |

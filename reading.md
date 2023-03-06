@@ -13,15 +13,15 @@ We meet on a weely basis to discuss recent research papers. Here is the schedule
 
 | Date | Speaker | Title |
 | ----- | ------- | ----- |
-| 20/03/23 | Tulika | |
-| 13/03/23 | Procheta | |
-| 06/03/23 | Danushka | |
-| 30/03/23 | Jodie | |
-| 23/03/23 | Mike | |
-| 16/03/23 | Huda | |
-| 09/03/23 | Xiaohang | |
-| 02/03/23 | Gaifan | |
-| 23/02/23 | Tianhui| |
+| 27/03/23 | Tulika | |
+| 20/03/23 | Procheta | |
+| 13/03/23 | Danushka | |
+| 06/03/23 | Jodie | |
+| 30/03/23 | Mike | |
+| 23/03/23 | Huda | |
+| 16/03/23 | Xiaohang | |
+| 09/03/23 | Gaifan | |
+| 02/03/23 | Tianhui| [Metric-guided Distillation: Distilling Knowledge from the Metric to Ranker and Retriever for Generative Commonsense Reasoning](https://aclanthology.org/2022.emnlp-main.53/)|
 | 16/02/23 | Tulika | [Aspect-Controllable Opinion Summarization](https://aclanthology.org/2021.emnlp-main.528/)|
 | 09/02/23 |  Procheta|[Dialog Inpainting: Turning Documents into Dialogs](https://arxiv.org/abs/2205.09073v1) |
 | 02/02/23 | Danushka | [Accelerating Large-Scale Inference with Anisotropic Vector Quantization](https://arxiv.org/abs/1908.10396)|

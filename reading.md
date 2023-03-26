@@ -18,7 +18,7 @@ We meet on a weely basis to discuss recent research papers. Here is the schedule
 | 13/04/23 | Danushka | |
 | 06/04/23 | Jodie | |
 | 30/03/23 | Mike | |
-| 23/03/23 | Huda | |
+| 23/03/23 | Huda | [Do Pre-trained Models Benefit Knowledge Graph Completion? A Reliable Evaluation and a Reasonable Approach](https://aclanthology.org/2022.findings-acl.282/)|
 | 16/03/23 | Xiaohang | [Time-Aware Language Models as Temporal Knowledge Bases](https://aclanthology.org/2022.tacl-1.15/)|
 | 09/03/23 | Gaifan | [Compressing Sentence Representation for Semantic Retrieval via Homomorphic Projective Distillation](https://aclanthology.org/2022.findings-acl.64/)|
 | 02/03/23 | Tianhui| [Metric-guided Distillation: Distilling Knowledge from the Metric to Ranker and Retriever for Generative Commonsense Reasoning](https://aclanthology.org/2022.emnlp-main.53/)|

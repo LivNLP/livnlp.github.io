@@ -11,7 +11,7 @@ We are the Natural Language Processing Research Group at the Department of Compu
 - [Dr. Bei Peng](https://beipeng.github.io/) (Lecturer, Department of Computer Science, University of Liverpool)
 - [Dr. Huda Hakami](https://scholar.google.com/citations?user=c1M8KpwAAAAJ&hl=en) (Lecturer, Taif University)
 - [Dr. Masahiro Kaneko](https://sites.google.com/view/masahirokaneko) (Post-Doc, Tokyo Institute of Technology)
-- Michael Abaho (PhD Student)
+- [Dr. Micheal Abaho] (https://michealabaho.github.io/) (Research Scientist, University of Liverpool)
 - [Yi Zhou (Jodie)](https://jodiechou.github.io)(PhD Student)
 - [Yoichi Ishibashi](https://yoichi1484.github.io/) (visiting PhD student, NAIST)
 - [Xiaohang Tang](https://xiaohang-tang.github.io/) (Undergraduate Student)

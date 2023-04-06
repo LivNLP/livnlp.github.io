@@ -16,8 +16,8 @@ We meet on a weely basis to discuss recent research papers. Here is the schedule
 | 27/04/23 | Tulika | |
 | 20/04/23 | Procheta | |
 | 13/04/23 | Danushka | |
-| 06/04/23 | Jodie | |
-| 30/03/23 | Mike | |
+| 06/04/23 | Mike | [Eider: Empowering Document-level Relation Extraction with Efficient Evidence Extraction and Inference-stage Fusion](https://aclanthology.org/2022.findings-acl.23/)|
+| 30/03/23 | Jodie | [XLM-V: Overcoming the Vocabulary Bottleneck in Multilingual Masked Language Models](https://arxiv.org/abs/2301.10472) |
 | 23/03/23 | Huda | [Do Pre-trained Models Benefit Knowledge Graph Completion? A Reliable Evaluation and a Reasonable Approach](https://aclanthology.org/2022.findings-acl.282/)|
 | 16/03/23 | Xiaohang | [Time-Aware Language Models as Temporal Knowledge Bases](https://aclanthology.org/2022.tacl-1.15/)|
 | 09/03/23 | Gaifan | [Compressing Sentence Representation for Semantic Retrieval via Homomorphic Projective Distillation](https://aclanthology.org/2022.findings-acl.64/)|

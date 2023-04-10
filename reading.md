@@ -13,6 +13,14 @@ We meet on a weely basis to discuss recent research papers. Here is the schedule
 
 | Date | Speaker | Title |
 | ----- | ------- | ----- |
+| 22/06/23 | Tulika | |
+| 15/06/23 | Procheta | |
+| 08/06/23 | Skipped due to NLP Symposium | |
+| 01/06/23 | Danushka | |
+| 25/05/23 | Mike | |
+| 18/05/23 | Jodie | |
+| 11/05/23 | Huda | |
+| 04/05/23 | Tianhui | |
 | 27/04/23 | Tulika | |
 | 20/04/23 | Procheta | |
 | 13/04/23 | Danushka | |

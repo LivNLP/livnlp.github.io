@@ -21,9 +21,9 @@ We meet on a weely basis to discuss recent research papers. Here is the schedule
 | 18/05/23 | Jodie | |
 | 11/05/23 | Huda | |
 | 04/05/23 | Tianhui | |
-| 27/04/23 | Danushka | |
-| 20/04/23 | Procheta | |
-| 13/04/23 | Tulika | |
+| 27/04/23 | Danushka | [Generated Knowledge Prompting for Commonsense Reasoning](https://aclanthology.org/2022.acl-long.225/)|
+| 20/04/23 | Procheta | ["Why Should I Trust You?": Explaining the Predictions of Any Classifier](https://arxiv.org/abs/1602.04938)|
+| 13/04/23 | Tulika | ECIR conference update|
 | 06/04/23 | Mike | [Eider: Empowering Document-level Relation Extraction with Efficient Evidence Extraction and Inference-stage Fusion](https://aclanthology.org/2022.findings-acl.23/)|
 | 30/03/23 | Jodie | [XLM-V: Overcoming the Vocabulary Bottleneck in Multilingual Masked Language Models](https://arxiv.org/abs/2301.10472) |
 | 23/03/23 | Huda | [Do Pre-trained Models Benefit Knowledge Graph Completion? A Reliable Evaluation and a Reasonable Approach](https://aclanthology.org/2022.findings-acl.282/)|

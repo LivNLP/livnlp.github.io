@@ -20,7 +20,7 @@ We meet on a weely basis to discuss recent research papers. Here is the schedule
 | 25/05/23 | Mike | |
 | 18/05/23 | Jodie | |
 | 11/05/23 | Huda | |
-| 04/05/23 | Tianhui | |
+| 04/05/23 | Tianhui | [Multimodal Chain-of-Thought Reasoning in Language Models](https://arxiv.org/abs/2302.00923)|
 | 27/04/23 | Danushka | [Generated Knowledge Prompting for Commonsense Reasoning](https://aclanthology.org/2022.acl-long.225/)|
 | 20/04/23 | Procheta | ["Why Should I Trust You?": Explaining the Predictions of Any Classifier](https://arxiv.org/abs/1602.04938)|
 | 13/04/23 | Tulika | ECIR conference update|

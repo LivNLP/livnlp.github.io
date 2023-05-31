@@ -12,9 +12,10 @@ We are the Natural Language Processing Research Group at the Department of Compu
 - [Dr. Huda Hakami](https://scholar.google.com/citations?user=c1M8KpwAAAAJ&hl=en) (Lecturer, Taif University)
 - [Dr. Masahiro Kaneko](https://sites.google.com/view/masahirokaneko) (Post-Doc, Tokyo Institute of Technology)
 - [Dr. Micheal Abaho](https://mykelismyname.github.io/micheal/) (Research Scientist, University of Liverpool)
-- [Yi Zhou (Jodie)](https://jodiechou.github.io)(PhD Student)
+- [Dr. Yi Zhou (Jodie)](https://jodiechou.github.io)(post-doc, Cardiff University)
 - [Yoichi Ishibashi](https://yoichi1484.github.io/) (visiting PhD student, NAIST)
-- [Xiaohang Tang](https://xiaohang-tang.github.io/) (Undergraduate Student)
+- [Xiaohang Tang](https://xiaohang-tang.github.io/) (Undergraduate student)
+- Saleem Alotabi (PhD student)
 
 
 # Alumni

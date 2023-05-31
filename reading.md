@@ -16,8 +16,8 @@ We meet on a weely basis to discuss recent research papers. Here is the schedule
 | 22/06/23 | Tulika | |
 | 15/06/23 | Procheta | |
 | 08/06/23 | Skipped due to NLP Symposium | |
-| 01/06/23 | Danushka | |
-| 25/05/23 | Mike | |
+| 01/06/23 | Danushka |[Diversifying Content Generation for Commonsense Reasoning with Mixture of Knowledge Graph Experts](https://aclanthology.org/2022.findings-acl.149/) |
+| 25/05/23 | Mike | [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/abs/2201.11903)|
 | 18/05/23 | Jodie |[We're Afraid Language Models Aren't Modeling Ambiguity](https://arxiv.org/abs/2304.14399)|
 | 11/05/23 | Huda | [Decoupling Mixture-of-Graphs: Unseen Relational Learning for Knowledge Graph Completion by Fusing Ontology and Textual Experts](https://aclanthology.org/2022.coling-1.196/)|
 | 04/05/23 | Tianhui | [Multimodal Chain-of-Thought Reasoning in Language Models](https://arxiv.org/abs/2302.00923)|

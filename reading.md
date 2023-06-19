@@ -13,8 +13,14 @@ We meet on a weely basis to discuss recent research papers. Here is the schedule
 
 | Date | Speaker | Title |
 | ----- | ------- | ----- |
-| 22/06/23 | Tulika | |
-| 15/06/23 | Procheta | |
+| 07/09/23 | Danushka | |
+| 20/07/23 | Jodie | |
+| 13/07/23 | No meeting (ACL@Toronto) | |
+| 06/07/23 | Mike | |
+| 29/06/23 | Huda | |
+| 29/06/23 | Tianhui | |
+| 22/06/23 | No meeting (EMNLP preparations) | |
+| 15/06/23 | Procheta | Tutorial rehersal |
 | 08/06/23 | Skipped due to NLP Symposium | |
 | 01/06/23 | Danushka |[Diversifying Content Generation for Commonsense Reasoning with Mixture of Knowledge Graph Experts](https://aclanthology.org/2022.findings-acl.149/) |
 | 25/05/23 | Mike | [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/abs/2201.11903)|

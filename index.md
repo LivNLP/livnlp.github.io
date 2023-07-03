@@ -24,6 +24,6 @@ We are the Natural Language Processing Research Group at the Department of Compu
 - [Dr. Xia Cui](https://www.linkedin.com/in/xia-cui/) (Lecturer, Manchester Metropolitan University)
 - [Dr. Pavithra Rajendran](https://www.linkedin.com/in/pavithra-rajendran-ph-d-1094a675/) (NLP Researcher, NHS)
 - [Dr. James O'Neill](https://www.linkedin.com/in/james-o-neill-1923b86b/) (ML Scientist, Huawei)
-- Haochen Luo (MSc student, University of Oxford)
+- [Haochen Luo](https://www.linkedin.com/in/haochen-luo-3a1290188/) (MSc student, University of Oxford)
 
 

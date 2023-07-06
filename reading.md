@@ -17,7 +17,7 @@ We meet on a weely basis to discuss recent research papers. Here is the schedule
 | 07/09/23 | Jodie | |
 | 20/07/23 | Danushka (ACL update) | |
 | 13/07/23 | No meeting (ACL@Toronto) | |
-| 06/07/23 | Huda |[Multi-CLS BERT: An Efficient Alternative to Traditional Ensembling. ](https://arxiv.org/pdf/2210.05043.pdf) [poster](https://ken77921.github.io/assets/pdf/ACL_2023_multi-cls_poster.pdf), [presentation](https://screenpal.com/watch/c01hjIVBXqN)  |
+| 06/07/23 | Huda |[Multi-CLS BERT: An Efficient Alternative to Traditional Ensembling. ](https://arxiv.org/pdf/2210.05043.pdf) [poster](https://ken77921.github.io/assets/pdf/ACL_2023_multi-cls_poster.pdf) and [presentation](https://screenpal.com/watch/c01hjIVBXqN)  |
 | 29/06/23 | Tianhui | LoRA: Low-Rank Adaptation of Large Language Models(https://arxiv.org/abs/2106.09685)|
 | 22/06/23 | No meeting (EMNLP preparations) | |
 | 15/06/23 | Procheta | Tutorial rehersal |

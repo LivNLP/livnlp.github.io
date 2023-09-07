@@ -13,8 +13,9 @@ We meet on a weely basis to discuss recent research papers. Here is the schedule
 
 | Date | Speaker | Title |
 | ----- | ------- | ----- |
-| 14/09/23 | Mike | |
-| 07/09/23 | Jodie | |
+| 22/09/23 | Mike | |
+| 14/09/23 | Jodie | |
+| 07/09/23 | Danushka | [XL-LEXEME: WiC Pretrained Model for Cross-Lingual LEXical sEMantic changE](https://aclanthology.org/2023.acl-short.135/)|
 | 20/07/23 | Danushka (ACL update) | |
 | 13/07/23 | No meeting (ACL@Toronto) | |
 | 06/07/23 | Huda |[Multi-CLS BERT: An Efficient Alternative to Traditional Ensembling. ](https://arxiv.org/pdf/2210.05043.pdf) [poster](https://ken77921.github.io/assets/pdf/ACL_2023_multi-cls_poster.pdf) and [presentation](https://screenpal.com/watch/c01hjIVBXqN)  |

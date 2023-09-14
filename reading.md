@@ -14,7 +14,7 @@ We meet on a weely basis to discuss recent research papers. Here is the schedule
 | Date | Speaker | Title |
 | ----- | ------- | ----- |
 | 22/09/23 | Mike | |
-| 14/09/23 | Jodie | |
+| 14/09/23 | Jodie | [Having Beer after Prayer? Measuring Cultural Bias in Large Language Models](https://arxiv.org/abs/2305.14456)|
 | 07/09/23 | Danushka | [XL-LEXEME: WiC Pretrained Model for Cross-Lingual LEXical sEMantic changE](https://aclanthology.org/2023.acl-short.135/)|
 | 20/07/23 | Danushka (ACL update) | |
 | 13/07/23 | No meeting (ACL@Toronto) | |

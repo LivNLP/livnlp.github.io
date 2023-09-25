@@ -13,7 +13,13 @@ We meet on a weely basis to discuss recent research papers. Here is the schedule
 
 | Date | Speaker | Title |
 | ----- | ------- | ----- |
-| 22/09/23 | Mike | |
+| 03/11/23 | Jodie | |
+| 27/10/23 | Danushka | |
+| 20/10/23 | Huda | |
+| 13/10/23 | Tianhui | |
+| 06/10/23 | Procheta | |
+| 29/09/23 | Tulika | |
+| 22/09/23 | Mike |[Should You Mask 15% in Masked Language Modeling?](https://aclanthology.org/2023.eacl-main.217/) |
 | 14/09/23 | Jodie | [Having Beer after Prayer? Measuring Cultural Bias in Large Language Models](https://arxiv.org/abs/2305.14456)|
 | 07/09/23 | Danushka | [XL-LEXEME: WiC Pretrained Model for Cross-Lingual LEXical sEMantic changE](https://aclanthology.org/2023.acl-short.135/)|
 | 20/07/23 | Danushka (ACL update) | |

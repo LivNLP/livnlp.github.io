@@ -15,7 +15,7 @@ We meet on a weely basis to discuss recent research papers. Here is the schedule
 | ----- | ------- | ----- |
 | 03/11/23 | Jodie | |
 | 27/10/23 | Danushka | |
-| 20/10/23 | Huda |[Direct Fact Retrieval from Knowledge Graphs without Entity Linking](https://aclanthology.org/2023.acl-long.558.pdf) |
+| 20/10/23 | Huda | [Direct Fact Retrieval from Knowledge Graphs without Entity Linking](https://aclanthology.org/2023.acl-long.558.pdf)|
 | 13/10/23 | Tianhui | |
 | 10/06/23 | Tulika | |
 | 29/09/23 | Procheta | [Self-Refine: Iterative Refinement with Self-Feedback](https://arxiv.org/abs/2303.17651)|

@@ -13,7 +13,15 @@ We meet on a weely basis to discuss recent research papers. Here is the schedule
 
 | Date | Speaker | Title |
 | ----- | ------- | ----- |
-| 10/11/23 | Jodie | |
+| 19/01/24 | Huda | |
+| 12/01/24 | Tulika | |
+| 05/01/24 | Procheta | |
+| 15/12/23 | Danushka, Meng, Jodie | EMNLP-23 overview |
+| 08/12/23 | No meeting due to EMNLP | |
+| 01/12/23 | Liangfang | |
+| 24/11/23 |  Mike| |
+| 17/11/23 | Tianhui | IJCNLP-AACL 2023 Overview | |
+| 10/11/23 | Jodie | [Assessing Multilingual Fairness in Pre-trained Multimodal Representations](https://aclanthology.org/2022.findings-acl.211/) |
 | 03/11/23 | No meeting due to IJCNLP-AACL | |
 | 27/10/23 | Danushka |[Discovering Universal Geometry in Embeddings with ICA](https://arxiv.org/abs/2305.13175) |
 | 20/10/23 | Huda | [Direct Fact Retrieval from Knowledge Graphs without Entity Linking](https://aclanthology.org/2023.acl-long.558.pdf)|

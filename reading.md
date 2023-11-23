@@ -13,13 +13,16 @@ We meet on a weely basis to discuss recent research papers. Here is the schedule
 
 | Date | Speaker | Title |
 | ----- | ------- | ----- |
-| 19/01/24 | Huda | |
+| 09/02/24 | Junjie | |
+| 02/02/24 | Huda | |
+| 26/01/24 | Saleem | |
+| 19/01/24 | Mike | |
 | 12/01/24 | Tulika | |
 | 05/01/24 | Procheta | |
 | 15/12/23 | Danushka, Meng, Jodie | EMNLP-23 overview |
 | 08/12/23 | No meeting due to EMNLP | |
 | 01/12/23 | Liangfang | |
-| 24/11/23 |  Mike| |
+| 24/11/23 |  Danushka | [An Information-theoretic Approach to Prompt Engineering Without Ground Truth Labels](https://aclanthology.org/2022.acl-long.60/)|
 | 17/11/23 | Tianhui | IJCNLP-AACL 2023 Overview | |
 | 10/11/23 | Jodie | [Assessing Multilingual Fairness in Pre-trained Multimodal Representations](https://aclanthology.org/2022.findings-acl.211/) |
 | 03/11/23 | No meeting due to IJCNLP-AACL | |

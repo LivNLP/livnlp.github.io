@@ -15,7 +15,7 @@ We meet on a weely basis to discuss recent research papers. Here is the schedule
 | ----- | ------- | ----- |
 | 09/02/24 | Junjie | |
 | 02/02/24 | Huda | |
-| 26/01/24 | Saleem | |
+| 26/01/24 | Salem | |
 | 19/01/24 | Mike | |
 | 12/01/24 | Tulika | |
 | 05/01/24 | Procheta | |

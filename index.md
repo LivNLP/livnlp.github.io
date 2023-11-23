@@ -13,9 +13,9 @@ We are the Natural Language Processing Research Group at the Department of Compu
 - [Dr. Masahiro Kaneko](https://sites.google.com/view/masahirokaneko) (Post-Doc, Tokyo Institute of Technology)
 - [Dr. Micheal Abaho](https://mykelismyname.github.io/micheal/) (Research Scientist, University of Liverpool)
 - [Dr. Yi Zhou (Jodie)](https://jodiechou.github.io)(post-doc, Cardiff University)
-- [Yoichi Ishibashi](https://yoichi1484.github.io/) (visiting PhD student, NAIST)
-- [Xiaohang Tang](https://xiaohang-tang.github.io/) (Undergraduate student)
-- Saleem Alotabi (PhD student)
+- Tianhui Zhang (Phd student, Liverpool)
+- Lingfang Li (PhD student, Liverpool)
+- Saleem Alotabi (PhD student, Liverpool)
 
 
 # Alumni
@@ -25,5 +25,7 @@ We are the Natural Language Processing Research Group at the Department of Compu
 - [Dr. Pavithra Rajendran](https://www.linkedin.com/in/pavithra-rajendran-ph-d-1094a675/) (NLP Researcher, NHS)
 - [Dr. James O'Neill](https://www.linkedin.com/in/james-o-neill-1923b86b/) (ML Scientist, Huawei)
 - [Haochen Luo](https://www.linkedin.com/in/haochen-luo-3a1290188/) (MSc student, University of Oxford)
+- [Xiaohang Tang](https://xiaohang-tang.github.io/) (PhD student at Virginia Tech)
+- [Yoichi Ishibashi](https://yoichi1484.github.io/) (PDRA at Kyoto University)
 
 

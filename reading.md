@@ -15,13 +15,13 @@ We meet on a weely basis to discuss recent research papers. Here is the schedule
 | ----- | ------- | ----- |
 | 16/02/24 | Junjie | |
 | 09/02/24 | Huda | |
-| 02/02/24 | Salem | |
+| 02/02/24 | Procheta | |
 | 26/01/24 | Mike | |
-| 19/01/24 | Tulika | |
-| 12/01/24 | Procheta | |
+| 19/01/24 | Tulika | [Towards Understanding Omission in Dialogue Summarization](https://aclanthology.org/2023.acl-long.798.pdf)|
+| 12/01/24 | Saleem | [Towards Interpretable Mental Health Analysis LLMs](https://aclanthology.org/2023.emnlp-main.370/)|
 | 15/12/23 | Danushka, Meng, Jodie | EMNLP-23 overview |
 | 08/12/23 | No meeting due to EMNLP | |
-| 01/12/23 | Liangfang | |
+| 01/12/23 | Liangfang | [Interpreting Language Models with Contrastive Explanations](https://arxiv.org/abs/2202.10419) |
 | 24/11/23 |  Danushka | [An Information-theoretic Approach to Prompt Engineering Without Ground Truth Labels](https://aclanthology.org/2022.acl-long.60/)|
 | 17/11/23 | Tianhui | IJCNLP-AACL 2023 Overview | |
 | 10/11/23 | Jodie | [Assessing Multilingual Fairness in Pre-trained Multimodal Representations](https://aclanthology.org/2022.findings-acl.211/) |

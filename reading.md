@@ -13,6 +13,15 @@ We meet on a weely basis to discuss recent research papers. Here is the schedule
 
 | Date | Speaker | Title |
 | ----- | ------- | ----- |
+| 16/04/24 | Procheta | |
+| 12/04/24 | Mike | |
+| 05/04/24 | Tulika | |
+| 29/03/24 | Saleem | |
+| 22/03/24 | Liangfeng | |
+| 15/03/24 | Tianhui | |
+| 08/03/24 | Jodie | |
+| 01/03/24 | Jack | |
+| 23/02/24 | Danushka | |
 | 16/02/24 | Junjie | |
 | 09/02/24 | Huda | |
 | 02/02/24 | Procheta |[Exploiting Language Characteristics for Legal Domain-Specific Language Model Pretraining](https://aclanthology.org/2023.findings-eacl.190/) |

@@ -15,8 +15,8 @@ We meet on a weely basis to discuss recent research papers. Here is the schedule
 | ----- | ------- | ----- |
 | 16/02/24 | Junjie | |
 | 09/02/24 | Huda | |
-| 02/02/24 | Procheta | |
-| 26/01/24 | Mike | |
+| 02/02/24 | Procheta |[Exploiting Language Characteristics for Legal Domain-Specific Language Model Pretraining](https://aclanthology.org/2023.findings-eacl.190/) |
+| 26/01/24 | Mike | [G-Eval: NLG Evaluation using Gpt-4 with Better Human Alignment](https://aclanthology.org/2023.emnlp-main.153/)|
 | 19/01/24 | Tulika | [Towards Understanding Omission in Dialogue Summarization](https://aclanthology.org/2023.acl-long.798.pdf)|
 | 12/01/24 | Saleem | [Towards Interpretable Mental Health Analysis LLMs](https://aclanthology.org/2023.emnlp-main.370/)|
 | 15/12/23 | Danushka, Meng, Jodie | EMNLP-23 overview |

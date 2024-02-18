@@ -15,7 +15,7 @@ We are the Natural Language Processing Research Group at the Department of Compu
 - [Dr. Yi Zhou (Jodie)](https://jodiechou.github.io)(post-doc, Cardiff University)
 - [Tianhui Zhang](https://tianhuizhang.github.io/) (Phd student, Liverpool)
 - Lingfang Li (PhD student, Liverpool)
-- Saleem Alotabi (PhD student, Liverpool)
+- [Salem Alotaibi](https://salotaibi.github.io/) (PhD student, Liverpool)
 
 
 # Alumni

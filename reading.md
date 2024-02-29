@@ -13,16 +13,16 @@ We meet on a weely basis to discuss recent research papers. Here is the schedule
 
 | Date | Speaker | Title 
 | ----- | ------- | ----- 
-| 16/04/24 | Procheta | 
-| 12/04/24 | Mike | 
-| 05/04/24 | Tulika | 
-| 29/03/24 | Saleem | 
-| 22/03/24 | Liangfeng | 
-| 15/03/24 | Tianhui | 
-| 08/03/24 | Jodie | 
-| 01/03/24 | Jack | 
-| 23/02/24 | Danushka | 
-| 16/02/24 | Junjie | 
+| 26/04/24 | Procheta | 
+| 19/04/24 | Mike | 
+| 12/04/24 | Tulika | 
+| 05/03/24 | Saleem | 
+| 29/03/24 | Liangfeng | 
+| 22/03/24 | Tianhui | 
+| 15/03/24 | Jodie | 
+| 08/03/24 | Jack | 
+| 01/03/24 | Danushka | [In-Contextual Gender Bias Suppression for Large Language Models](https://arxiv.org/abs/2309.07251)
+| 23/02/24 | Junjie | [Why Does Surprisal From Larger Transformer-Based Language Models Provide a Poorer Fit to Human Reading Times?](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00548/115371/Why-Does-Surprisal-From-Larger-Transformer-Based)
 | 09/02/24 | Huda | [PromptAgent: Strategic Planning with Language Models Enables Expert-level Prompt Optimization](https://arxiv.org/abs/2310.16427)
 | 02/02/24 | Procheta |[Exploiting Language Characteristics for Legal Domain-Specific Language Model Pretraining](https://aclanthology.org/2023.findings-eacl.190/) 
 | 26/01/24 | Mike | [G-Eval: NLG Evaluation using Gpt-4 with Better Human Alignment](https://aclanthology.org/2023.emnlp-main.153/)

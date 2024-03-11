@@ -20,7 +20,7 @@ We meet on a weely basis to discuss recent research papers. Here is the schedule
 | 29/03/24 | Liangfeng | 
 | 22/03/24 | Tianhui | 
 | 15/03/24 | Jodie | 
-| 08/03/24 | Jack | 
+| 08/03/24 | Jack | [From Text to Structure: Using Large Language Models to Support the Development of Legal Expert Systems](https://arxiv.org/abs/2311.04911)
 | 01/03/24 | Danushka | [In-Contextual Gender Bias Suppression for Large Language Models](https://arxiv.org/abs/2309.07251)
 | 23/02/24 | Junjie | [Why Does Surprisal From Larger Transformer-Based Language Models Provide a Poorer Fit to Human Reading Times?](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00548/115371/Why-Does-Surprisal-From-Larger-Transformer-Based)
 | 09/02/24 | Huda | [PromptAgent: Strategic Planning with Language Models Enables Expert-level Prompt Optimization](https://arxiv.org/abs/2310.16427)

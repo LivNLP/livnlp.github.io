@@ -16,8 +16,8 @@ We meet on a weely basis to discuss recent research papers. Here is the schedule
 | 03/05/24 | Procheta | 
 | 26/04/24 | Mike | 
 | 19/04/24 | Tulika | 
-| 12/03/24 | Saleem | 
-| 05/03/24 | Liangfeng | 
+| 12/04/24 | Saleem | 
+| 05/04/24 | Liangfeng | [Learning to Explain: An Information-Theoretic Perspective on Model Interpretation](https://arxiv.org/abs/1802.07814)
 | 22/03/24 | Tianhui | [Semantic Uncertainty: Linguistic Invariances for Uncertainty Estimation in Natural Language Generation](https://arxiv.org/abs/2302.09664)
 | 15/03/24 | Jodie | [Evaluating Bias and Fairness in Gender-Neutral Pretrained Vision-and-Language Models](https://aclanthology.org/2023.emnlp-main.525/)
 | 08/03/24 | Jack | [From Text to Structure: Using Large Language Models to Support the Development of Legal Expert Systems](https://arxiv.org/abs/2311.04911)

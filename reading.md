@@ -13,10 +13,10 @@ We meet on a weely basis to discuss recent research papers. Here is the schedule
 
 | Date | Speaker | Title 
 | ----- | ------- | ----- 
-| 03/05/24 | Procheta | 
-| 26/04/24 | Mike | 
-| 19/04/24 | Tulika | 
-| 12/04/24 | Saleem | 
+| 03/05/24 | Mike | 
+| 26/04/24 | No meeting due to NLP4SocialGood Symposium | 
+| 19/04/24 | Tianhui | [How Easily do Irrelevant Inputs Skew the Responses of Large Language Models?](https://arxiv.org/abs/2404.03302)
+| 12/04/24 | Tulika | [DisorBERT: A Double Domain Adaptation Model for Detecting Signs of Mental Disorders in Social Media](https://aclanthology.org/2023.acl-long.853.pdf)
 | 05/04/24 | Liangfeng | [Learning to Explain: An Information-Theoretic Perspective on Model Interpretation](https://arxiv.org/abs/1802.07814)
 | 22/03/24 | Tianhui | [Semantic Uncertainty: Linguistic Invariances for Uncertainty Estimation in Natural Language Generation](https://arxiv.org/abs/2302.09664)
 | 15/03/24 | Jodie | [Evaluating Bias and Fairness in Gender-Neutral Pretrained Vision-and-Language Models](https://aclanthology.org/2023.emnlp-main.525/)

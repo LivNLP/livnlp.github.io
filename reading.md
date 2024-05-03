@@ -13,7 +13,8 @@ We meet on a weely basis to discuss recent research papers. Here is the schedule
 
 | Date | Speaker | Title 
 | ----- | ------- | ----- 
-| 03/05/24 | Mike | 
+| 03/05/24 | Mike | [KnowCoder: Coding Structured Knowledge into LLMs for
+Universal Information Extraction](https://arxiv.org/pdf/2403.07969)
 | 26/04/24 | No meeting due to NLP4SocialGood Symposium | 
 | 19/04/24 | Tianhui | [How Easily do Irrelevant Inputs Skew the Responses of Large Language Models?](https://arxiv.org/abs/2404.03302)
 | 12/04/24 | Tulika | [DisorBERT: A Double Domain Adaptation Model for Detecting Signs of Mental Disorders in Social Media](https://aclanthology.org/2023.acl-long.853.pdf)

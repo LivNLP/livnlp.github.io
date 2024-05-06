@@ -13,6 +13,16 @@ We meet on a weely basis to discuss recent research papers. Here is the schedule
 
 | Date | Speaker | Title 
 | ----- | ------- | ----- 
+| 12/06/24 | Mike | 
+| 05/06/24 | Tianhui | 
+| 28/06/24 | Tulika | 
+| 21/06/24 | Liangfeng | 
+| 14/06/24 | Tianhui | 
+| 07/06/24 | Jodie | 
+| 31/05/24 | Jack | 
+| 24/05/24 | Danushka | 
+| 17/05/24 | Huda | 
+| 10/05/24 | Procheta | 
 | 03/05/24 | Mike | [KnowCoder: Coding Structured Knowledge into LLMs for Universal Information Extraction](https://arxiv.org/pdf/2403.07969)
 | 26/04/24 | No meeting due to NLP4SocialGood Symposium | 
 | 19/04/24 | Tianhui | [How Easily do Irrelevant Inputs Skew the Responses of Large Language Models?](https://arxiv.org/abs/2404.03302)

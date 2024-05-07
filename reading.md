@@ -13,21 +13,22 @@ We meet on a weely basis to discuss recent research papers. Here is the schedule
 
 | Date | Speaker | Title 
 | ----- | ------- | ----- 
-| 12/06/24 | Mike | 
-| 05/06/24 | Tianhui | 
-| 28/06/24 | Tulika | 
-| 21/06/24 | Liangfeng | 
-| 14/06/24 | Tianhui | 
-| 07/06/24 | Jodie | 
-| 31/05/24 | Jack | 
-| 24/05/24 | Danushka | 
-| 17/05/24 | Huda | 
-| 10/05/24 | Procheta | 
+| 19/07/24 | Mike | 
+| 12/07/24 | Tianhui | 
+| 05/07/24 | Tulika | 
+| 28/06/24 | Lingfang | 
+| 21/06/24 | Tianhui | 
+| 14/06/24 | Jodie | 
+| 07/05/24 | Jack | 
+| 31/05/24 | Danushka | 
+| 24/05/24 | Huda | 
+| 17/05/24 | Procheta |
+| 10/05/24 | No meeting due to PhD workshop |
 | 03/05/24 | Mike | [KnowCoder: Coding Structured Knowledge into LLMs for Universal Information Extraction](https://arxiv.org/pdf/2403.07969)
 | 26/04/24 | No meeting due to NLP4SocialGood Symposium | 
 | 19/04/24 | Tianhui | [How Easily do Irrelevant Inputs Skew the Responses of Large Language Models?](https://arxiv.org/abs/2404.03302)
 | 12/04/24 | Tulika | [DisorBERT: A Double Domain Adaptation Model for Detecting Signs of Mental Disorders in Social Media](https://aclanthology.org/2023.acl-long.853.pdf)
-| 05/04/24 | Liangfeng | [Learning to Explain: An Information-Theoretic Perspective on Model Interpretation](https://arxiv.org/abs/1802.07814)
+| 05/04/24 | Lingfang | [Learning to Explain: An Information-Theoretic Perspective on Model Interpretation](https://arxiv.org/abs/1802.07814)
 | 22/03/24 | Tianhui | [Semantic Uncertainty: Linguistic Invariances for Uncertainty Estimation in Natural Language Generation](https://arxiv.org/abs/2302.09664)
 | 15/03/24 | Jodie | [Evaluating Bias and Fairness in Gender-Neutral Pretrained Vision-and-Language Models](https://aclanthology.org/2023.emnlp-main.525/)
 | 08/03/24 | Jack | [From Text to Structure: Using Large Language Models to Support the Development of Legal Expert Systems](https://arxiv.org/abs/2311.04911)
@@ -40,7 +41,7 @@ We meet on a weely basis to discuss recent research papers. Here is the schedule
 | 12/01/24 | Saleem | [Towards Interpretable Mental Health Analysis LLMs](https://aclanthology.org/2023.emnlp-main.370/)
 | 15/12/23 | Danushka, Meng, Jodie | EMNLP-23 overview 
 | 08/12/23 | No meeting due to EMNLP | 
-| 01/12/23 | Liangfang | [Interpreting Language Models with Contrastive Explanations](https://arxiv.org/abs/2202.10419) 
+| 01/12/23 | Lingfang | [Interpreting Language Models with Contrastive Explanations](https://arxiv.org/abs/2202.10419) 
 | 24/11/23 |  Danushka | [An Information-theoretic Approach to Prompt Engineering Without Ground Truth Labels](https://aclanthology.org/2022.acl-long.60/)
 | 17/11/23 | Tianhui | IJCNLP-AACL 2023 Overview | 
 | 10/11/23 | Jodie | [Assessing Multilingual Fairness in Pre-trained Multimodal Representations](https://aclanthology.org/2022.findings-acl.211/) 

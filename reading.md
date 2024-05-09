@@ -19,7 +19,7 @@ We meet on a weely basis to discuss recent research papers. Here is the schedule
 | 28/06/24 | Lingfang | 
 | 21/06/24 | Tianhui | 
 | 14/06/24 | Jodie | 
-| 07/05/24 | Jack | 
+| 07/06/24 | Jack | 
 | 31/05/24 | Danushka | 
 | 24/05/24 | Huda | 
 | 17/05/24 | Procheta |

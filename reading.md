@@ -20,9 +20,9 @@ We meet on a weely basis to discuss recent research papers. Here is the schedule
 | 21/06/24 | Tianhui | 
 | 14/06/24 | Jodie | 
 | 07/06/24 | Jack | 
-| 31/05/24 | Danushka | 
-| 24/05/24 | Huda | 
-| 17/05/24 | Procheta |
+| 31/05/24 | Huda | 
+| 24/05/24 | Procheta | [Interpretability in the Wild: a Circuit for Indirect Object Identification in GPT-2 small](https://arxiv.org/abs/2211.00593)
+| 17/05/24 | Danushka | [Vera: A General-Purpose Plausibility Estimation Model for Commonsense Statements](https://aclanthology.org/2023.emnlp-main.81/)
 | 10/05/24 | No meeting due to PhD workshop |
 | 03/05/24 | Mike | [KnowCoder: Coding Structured Knowledge into LLMs for Universal Information Extraction](https://arxiv.org/pdf/2403.07969)
 | 26/04/24 | No meeting due to NLP4SocialGood Symposium | 

@@ -20,7 +20,7 @@ We meet on a weely basis to discuss recent research papers. Here is the schedule
 | 21/06/24 | Tianhui | 
 | 14/06/24 | Jodie | 
 | 07/06/24 | Jack | 
-| 31/05/24 | Huda | 
+| 31/05/24 | Huda | [ANALOGYKB: Unlocking Analogical Reasoning of Language Models with A Million-scale Knowledge Base](https://arxiv.org/abs/2305.05994)
 | 24/05/24 | Procheta | [Interpretability in the Wild: a Circuit for Indirect Object Identification in GPT-2 small](https://arxiv.org/abs/2211.00593)
 | 17/05/24 | Danushka | [Vera: A General-Purpose Plausibility Estimation Model for Commonsense Statements](https://aclanthology.org/2023.emnlp-main.81/)
 | 10/05/24 | No meeting due to PhD workshop |

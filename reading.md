@@ -13,13 +13,14 @@ We meet on a weely basis to discuss recent research papers. Here is the schedule
 
 | Date | Speaker | Title 
 | ----- | ------- | ----- 
+| 06/09/24 | Danushka | (First meeting after summer break)
 | 19/07/24 | Mike | 
 | 12/07/24 | Tianhui | 
 | 05/07/24 | Tulika | 
 | 28/06/24 | Lingfang | 
-| 21/06/24 | Tianhui | 
-| 14/06/24 | Jodie | 
-| 07/06/24 | Jack | 
+| 21/06/24 | Jodie | 
+| 14/06/24 | No meeting due to EMNLP submission deadline | 
+| 07/06/24 | Jack | [Automated Claim Matching with Large Language Models: Empowering Fact-Checkers in the Fight Against Misinformation](https://dl.acm.org/doi/10.1145/3589335.3651910)
 | 31/05/24 | Huda | [ANALOGYKB: Unlocking Analogical Reasoning of Language Models with A Million-scale Knowledge Base](https://arxiv.org/abs/2305.05994)
 | 24/05/24 | Procheta | [Interpretability in the Wild: a Circuit for Indirect Object Identification in GPT-2 small](https://arxiv.org/abs/2211.00593)
 | 17/05/24 | Danushka | [Vera: A General-Purpose Plausibility Estimation Model for Commonsense Statements](https://aclanthology.org/2023.emnlp-main.81/)

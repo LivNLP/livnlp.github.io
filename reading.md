@@ -18,7 +18,7 @@ We meet on a weely basis to discuss recent research papers. Here is the schedule
 | 12/07/24 | Tianhui | 
 | 05/07/24 | Tulika | 
 | 28/06/24 | Lingfang | 
-| 21/06/24 | Jodie | 
+| 21/06/24 | Jodie | [CVQA: Culturally-diverse Multilingual Visual Question Answering Benchmark](https://arxiv.org/abs/2406.05967)
 | 14/06/24 | No meeting due to EMNLP submission deadline | 
 | 07/06/24 | Jack | [Automated Claim Matching with Large Language Models: Empowering Fact-Checkers in the Fight Against Misinformation](https://dl.acm.org/doi/10.1145/3589335.3651910)
 | 31/05/24 | Huda | [ANALOGYKB: Unlocking Analogical Reasoning of Language Models with A Million-scale Knowledge Base](https://arxiv.org/abs/2305.05994)

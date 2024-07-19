@@ -14,10 +14,10 @@ We meet on a weely basis to discuss recent research papers. Here is the schedule
 | Date | Speaker | Title 
 | ----- | ------- | ----- 
 | 06/09/24 | Danushka | (First meeting after summer break)
-| 19/07/24 | Mike | 
-| 12/07/24 | Tianhui | 
-| 05/07/24 | Tulika | 
-| 28/06/24 | Lingfang | 
+| 26/07/24 | Mike | [ARES: An Automated Evaluation Framework for Retrieval-Augmented Generation Systems](https://aclanthology.org/2024.naacl-long.20/)
+| 19/07/24 | Tulika| [SummEdits: Measuring LLM Ability at Factual Reasoning Through The Lens of Summarization](https://aclanthology.org/2023.emnlp-main.600/)
+| 12/07/24 | Tianhui | [UNcommonsense Reasoning: Abductive Reasoning about Uncommon Situations](https://aclanthology.org/2024.naacl-long.469/)
+| 28/06/24 | Lingfang | [What is Your Data Worth to GPT? LLM-Scale Data Valuation with Influence Functions](https://arxiv.org/abs/2405.13954)
 | 21/06/24 | Jodie | [CVQA: Culturally-diverse Multilingual Visual Question Answering Benchmark](https://arxiv.org/abs/2406.05967)
 | 14/06/24 | No meeting due to EMNLP submission deadline | 
 | 07/06/24 | Jack | [Automated Claim Matching with Large Language Models: Empowering Fact-Checkers in the Fight Against Misinformation](https://dl.acm.org/doi/10.1145/3589335.3651910)

@@ -13,6 +13,21 @@ We meet on a weely basis to discuss recent research papers. Here is the schedule
 
 | Date | Speaker | Title 
 | ----- | ------- | ----- 
+| 20/12/24 |  | 
+| 13/12/24 |  | 
+| 06/12/24 |  | 
+| 29/11/24 |  | 
+| 22/11/24 |  | 
+| 15/11/24 | Danushka | 
+| 08/11/24 | Gaifan | 
+| 01/11/24 | Mike | 
+| 25/10/24 | Tulika  | 
+| 18/10/24 | Tianhui | 
+| 11/10/24 | Lingfang | 
+| 04/10/24 | Jodie | 
+| 27/09/24 | Jack | 
+| 20/09/24 | Huda | 
+| 13/09/24 | Procheta | 
 | 06/09/24 | Danushka | (First meeting after summer break)
 | 26/07/24 | Mike | [ARES: An Automated Evaluation Framework for Retrieval-Augmented Generation Systems](https://aclanthology.org/2024.naacl-long.20/)
 | 19/07/24 | Tulika| [SummEdits: Measuring LLM Ability at Factual Reasoning Through The Lens of Summarization](https://aclanthology.org/2023.emnlp-main.600/)

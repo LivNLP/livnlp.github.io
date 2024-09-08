@@ -28,7 +28,7 @@ We meet on a weely basis to discuss recent research papers. Here is the schedule
 | 27/09/24 | Jack | 
 | 20/09/24 | Huda | 
 | 13/09/24 | Procheta | 
-| 06/09/24 | Danushka | (Mission Impossible Language Models)[https://aclanthology.org/2024.acl-long.787]
+| 06/09/24 | Danushka | [Mission Impossible Language Models](https://aclanthology.org/2024.acl-long.787)
 | 26/07/24 | Mike | [ARES: An Automated Evaluation Framework for Retrieval-Augmented Generation Systems](https://aclanthology.org/2024.naacl-long.20/)
 | 19/07/24 | Tulika| [SummEdits: Measuring LLM Ability at Factual Reasoning Through The Lens of Summarization](https://aclanthology.org/2023.emnlp-main.600/)
 | 12/07/24 | Tianhui | [UNcommonsense Reasoning: Abductive Reasoning about Uncommon Situations](https://aclanthology.org/2024.naacl-long.469/)

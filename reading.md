@@ -24,7 +24,7 @@ We meet on a weely basis to discuss recent research papers. Here is the schedule
 | 25/10/24 | Tulika  | 
 | 18/10/24 | Tianhui | 
 | 11/10/24 | Lingfang | 
-| 04/10/24 | Jodie | 
+| 04/10/24 | Jodie | [Debiasing Vision-Language Models via Biased Prompts](https://arxiv.org/abs/2302.00070)
 | 27/09/24 | Jack | 
 | 20/09/24 | Huda | [Adaptive-RAG: Learning to Adapt Retrieval-Augmented Large Language Models through Question Complexity](https://aclanthology.org/2024.naacl-long.389.pdf)
 | 13/09/24 | Procheta | [Skill-Mix: a Flexible and Expandable Family of Evaluations for AI models](https://arxiv.org/abs/2310.17567)

@@ -26,7 +26,7 @@ We meet on a weely basis to discuss recent research papers. Here is the schedule
 | 11/10/24 | Lingfang | 
 | 04/10/24 | Jodie | 
 | 27/09/24 | Jack | 
-| 20/09/24 | Huda | [Adaptive-RAG: Learning to Adapt Retrieval-Augmented Large Language Models through Question Complexity] (https://aclanthology.org/2024.naacl-long.389.pdf)
+| 20/09/24 | Huda | [Adaptive-RAG: Learning to Adapt Retrieval-Augmented Large Language Models through Question Complexity](https://aclanthology.org/2024.naacl-long.389.pdf)
 | 13/09/24 | Procheta | [Skill-Mix: a Flexible and Expandable Family of Evaluations for AI models](https://arxiv.org/abs/2310.17567)
 | 06/09/24 | Danushka | [Mission Impossible Language Models](https://aclanthology.org/2024.acl-long.787)
 | 26/07/24 | Mike | [ARES: An Automated Evaluation Framework for Retrieval-Augmented Generation Systems](https://aclanthology.org/2024.naacl-long.20/)

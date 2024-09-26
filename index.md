@@ -8,6 +8,7 @@ We are the Natural Language Processing Research Group at the Department of Compu
 - [Professor Danushka Bollegala](https://danushka.net/) (Professor University of Liverpool, Amazon Scholar)
 - [Dr. Procheta Sen](https://procheta.github.io/sprocheta/) (Lecturer, Department of Computer Science, University of Liverpool)
 - [Dr. Tulika Saha](https://sahatulika15.github.io/index.html) (Lecturer, Department of Computer Science, University of Liverpool)
+- [Dr. Meng Fang](https://mengf1.github.io/) (Lecturer, Department of Computer Science, University of Liverpool)
 - [Dr. Bei Peng](https://beipeng.github.io/) (Lecturer, Department of Computer Science, University of Liverpool)
 - [Dr. Huda Hakami](https://scholar.google.com/citations?user=c1M8KpwAAAAJ&hl=en) (Lecturer, Taif University)
 - [Dr. Masahiro Kaneko](https://sites.google.com/view/masahirokaneko) (Post-Doc, Tokyo Institute of Technology)

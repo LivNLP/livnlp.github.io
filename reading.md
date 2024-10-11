@@ -23,7 +23,7 @@ We meet on a weely basis to discuss recent research papers. Here is the schedule
 | 01/11/24 | Mike | 
 | 25/10/24 | Tulika  | 
 | 18/10/24 | Tianhui | 
-| 11/10/24 | Lingfang | 
+| 11/10/24 | Lingfang | [Interpretability in the Wild: a Circuit for Indirect Object Identification in GPT-2 small](https://arxiv.org/abs/2211.00593)
 | 04/10/24 | Jodie | [Debiasing Vision-Language Models via Biased Prompts](https://arxiv.org/abs/2302.00070)
 | 27/09/24 | Jack | [“I’d Like to Have an Argument, Please”: Argumentative Reasoning in Large Language Models](https://arxiv.org/abs/2309.16938)
 | 20/09/24 | Huda | [Adaptive-RAG: Learning to Adapt Retrieval-Augmented Large Language Models through Question Complexity](https://aclanthology.org/2024.naacl-long.389.pdf)

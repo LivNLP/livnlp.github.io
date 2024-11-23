@@ -17,9 +17,9 @@ We meet on a weely basis to discuss recent research papers. Here is the schedule
 | 13/12/24 |  Procheta| 
 | 06/12/24 | Masaru Isonuma | 
 | 29/11/24 | Taichi | 
-| 22/11/24 | Zhidong Ling  | 
-| 15/11/24 | Gaifan | 
-| 08/11/24 | Danushka | 
+| 22/11/24 | Zhidong Ling  | Construction of Evaluation Dataset for Japanese Semantic Change Detection |
+| 15/11/24 | Gaifan | [Understanding Higher-Order Correlations Among Semantic Components in Embeddings](https://aclanthology.org/2024.emnlp-main.169/)
+| 08/11/24 | Danushka | [Increasing Diversity While Maintaining Accuracy: Text Data Generation with Large Language Models and Human Interventions](https://aclanthology.org/2023.acl-long.34/)
 | 01/11/24 | Mike | [Large Language Model Is Not a Good Few-shot Information Extractor, but a Good Reranker for Hard Samples!](https://aclanthology.org/2023.findings-emnlp.710/)
 | 25/10/24 | Tulika  | [Rethinking Task-Oriented Dialogue Systems: From Complex Modularity to Zero-Shot Autonomous Agent](https://aclanthology.org/2024.acl-long.152/)
 | 18/10/24 | Tianhui | [Commonsense Knowledge Editing Based on Free-Text in LLMs](https://openreview.net/pdf/e7e42d5abe37458f69cf2f3a9020773c1eb89d3e.pdf)

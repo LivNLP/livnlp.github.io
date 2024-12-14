@@ -14,9 +14,9 @@ We meet on a weely basis to discuss recent research papers. Here is the schedule
 | Date | Speaker | Title 
 | ----- | ------- | ----- 
 | 20/12/24 | Huda | 
-| 13/12/24 |  Procheta| 
-| 06/12/24 | Masaru Isonuma | 
-| 29/11/24 | Taichi | 
+| 13/12/24 | Masaru Isonuma | Controlling Training Data for Model Interpretability and Safety
+| 06/12/24 |  Procheta| [Finding Transformer Circuits with Edge Pruning](https://arxiv.org/abs/2406.16778)
+| 29/11/24 | Taichi | [Chain-of-Dictionary Prompting Elicits Translation in Large Language Models](https://aclanthology.org/2024.emnlp-main.55/)
 | 22/11/24 | Zhidong Ling  | Construction of Evaluation Dataset for Japanese Semantic Change Detection |
 | 15/11/24 | Gaifan | [Understanding Higher-Order Correlations Among Semantic Components in Embeddings](https://aclanthology.org/2024.emnlp-main.169/)
 | 08/11/24 | Danushka | [Increasing Diversity While Maintaining Accuracy: Text Data Generation with Large Language Models and Human Interventions](https://aclanthology.org/2023.acl-long.34/)

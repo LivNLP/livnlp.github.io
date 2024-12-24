@@ -13,7 +13,16 @@ We meet on a weely basis to discuss recent research papers. Here is the schedule
 
 | Date | Speaker | Title 
 | ----- | ------- | ----- 
-| 20/12/24 | Huda | 
+| 07/03/25|  Procheta |
+| 28/02/25|  Gaifan|
+| 21/02/25|  Mike |
+| 14/02/25| Tulika |
+| 07/02/25| Tianhui |
+| 31/01/25|  Lingfang |
+| 24/01/25|  Jodie |
+| 17/01/25|  Jack |
+| 10/01/25| Danushka |
+| 20/12/24 | Huda | [G-Retriever: Retrieval-Augmented Generation for Textual Graph Understanding and Question Answering](https://arxiv.org/abs/2402.07630)
 | 13/12/24 | Masaru Isonuma | Controlling Training Data for Model Interpretability and Safety
 | 06/12/24 |  Procheta| [Finding Transformer Circuits with Edge Pruning](https://arxiv.org/abs/2406.16778)
 | 29/11/24 | Taichi | [Chain-of-Dictionary Prompting Elicits Translation in Large Language Models](https://aclanthology.org/2024.emnlp-main.55/)

@@ -18,9 +18,9 @@ We meet on a weely basis to discuss recent research papers. Here is the schedule
 | 21/02/25|  Mike |
 | 14/02/25| Tulika |
 | 07/02/25| Tianhui |
-| 31/01/25|  Lingfang |
+| 31/01/25|  Jack |
 | 24/01/25|  Jodie |
-| 17/01/25|  Jack |
+| 17/01/25|  Lingfang |
 | 10/01/25| Danushka |
 | 20/12/24 | Huda | [G-Retriever: Retrieval-Augmented Generation for Textual Graph Understanding and Question Answering](https://arxiv.org/abs/2402.07630)
 | 13/12/24 | Masaru Isonuma | Controlling Training Data for Model Interpretability and Safety

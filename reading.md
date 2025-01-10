@@ -13,6 +13,7 @@ We meet on a weely basis to discuss recent research papers. Here is the schedule
 
 | Date | Speaker | Title 
 | ----- | ------- | ----- 
+| 14/03.25 | Huda |
 | 07/03/25|  Procheta |
 | 28/02/25|  Gaifan|
 | 21/02/25|  Mike |

@@ -21,7 +21,7 @@ We meet on a weely basis to discuss recent research papers. Here is the schedule
 | 07/02/25| Tianhui |
 | 31/01/25|  Jack |
 | 24/01/25|  Jodie |
-| 17/01/25|  Lingfang |
+| 17/01/25|  Lingfang | [Extracting Interpretable Task-Specific Circuits from Large Language Models for Faster Inference](https://arxiv.org/abs/2412.15750)
 | 10/01/25| Danushka | [Linguistically Conditioned Semantic Textual Similarity](https://aclanthology.org/2024.acl-long.64/)
 | 20/12/24 | Huda | [G-Retriever: Retrieval-Augmented Generation for Textual Graph Understanding and Question Answering](https://arxiv.org/abs/2402.07630)
 | 13/12/24 | Masaru Isonuma | Controlling Training Data for Model Interpretability and Safety

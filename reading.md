@@ -20,7 +20,7 @@ We meet on a weely basis to discuss recent research papers. Here is the schedule
 | 14/02/25| Tulika |
 | 07/02/25| Tianhui |
 | 31/01/25|  Jack |
-| 24/01/25|  Jodie |
+| 24/01/25|  Jodie | [Evaluating Language Models as Synthetic Data Generators](https://arxiv.org/abs/2412.03679)
 | 17/01/25|  Lingfang | [Extracting Interpretable Task-Specific Circuits from Large Language Models for Faster Inference](https://arxiv.org/abs/2412.15750)
 | 10/01/25| Danushka | [Linguistically Conditioned Semantic Textual Similarity](https://aclanthology.org/2024.acl-long.64/)
 | 20/12/24 | Huda | [G-Retriever: Retrieval-Augmented Generation for Textual Graph Understanding and Question Answering](https://arxiv.org/abs/2402.07630)

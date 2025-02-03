@@ -13,13 +13,13 @@ We meet on a weely basis to discuss recent research papers. Here is the schedule
 
 | Date | Speaker | Title 
 | ----- | ------- | ----- 
-| 14/03.25 | Huda |
-| 07/03/25|  Procheta |
-| 28/02/25|  Gaifan|
-| 21/02/25|  Mike |
-| 14/02/25| Tulika |
-| 07/02/25| Tianhui |
-| 31/01/25|  Jack |
+| 28/03/25 | Huda |
+| 21/03/25|  Procheta |
+| 14/03/25|  Gaifan|
+| 07/03/25|  Mike |
+| 28/02/25| Tulika |
+| 21/02/25| Tianhui |
+| 07/02/25|  Jack |
 | 24/01/25|  Jodie | [Evaluating Language Models as Synthetic Data Generators](https://arxiv.org/abs/2412.03679)
 | 17/01/25|  Lingfang | [Extracting Interpretable Task-Specific Circuits from Large Language Models for Faster Inference](https://arxiv.org/abs/2412.15750)
 | 10/01/25| Danushka | [Linguistically Conditioned Semantic Textual Similarity](https://aclanthology.org/2024.acl-long.64/)

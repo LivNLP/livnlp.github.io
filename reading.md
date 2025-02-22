@@ -16,10 +16,10 @@ We meet on a weely basis to discuss recent research papers. Here is the schedule
 | 28/03/25 | Huda |
 | 21/03/25|  Procheta |
 | 14/03/25|  Gaifan|
-| 07/03/25|  Mike |
-| 28/02/25| Tulika |
-| 21/02/25| Tianhui |
-| 07/02/25|  Jack |
+| 07/03/25|  Tulika |
+| 28/02/25| Mike |
+| 21/02/25| Tianhui |[DeepSeek-V2: A Strong, Economical, and Efficient Mixture-of-Experts Language Model](https://arxiv.org/abs/2405.04434)
+| 07/02/25|  Jack | [LegalReasoner: A Multi-Stage Framework for Legal Judgment Prediction via Large Language Models and Knowledge Integration](https://ieeexplore.ieee.org/document/10750819)
 | 24/01/25|  Jodie | [Evaluating Language Models as Synthetic Data Generators](https://arxiv.org/abs/2412.03679)
 | 17/01/25|  Lingfang | [Extracting Interpretable Task-Specific Circuits from Large Language Models for Faster Inference](https://arxiv.org/abs/2412.15750)
 | 10/01/25| Danushka | [Linguistically Conditioned Semantic Textual Similarity](https://aclanthology.org/2024.acl-long.64/)

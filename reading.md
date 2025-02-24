@@ -13,9 +13,9 @@ We meet on a weely basis to discuss recent research papers. Here is the schedule
 
 | Date | Speaker | Title 
 | ----- | ------- | ----- 
-| 28/03/25 | Huda |
+| 28/03/25 | Gaifan |
 | 21/03/25|  Procheta |
-| 14/03/25|  Gaifan|
+| 14/03/25|  Huda|
 | 07/03/25|  Tulika |
 | 28/02/25| Mike |
 | 21/02/25| Tianhui |[DeepSeek-V2: A Strong, Economical, and Efficient Mixture-of-Experts Language Model](https://arxiv.org/abs/2405.04434)

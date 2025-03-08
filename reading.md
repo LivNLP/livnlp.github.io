@@ -16,7 +16,7 @@ We meet on a weely basis to discuss recent research papers. Here is the schedule
 | 28/03/25 | Gaifan |
 | 21/03/25|  Procheta |
 | 14/03/25|  Huda|
-| 07/03/25|  Tulika |
+| 07/03/25|  Tulika | [Mitigating large language model hallucinations via autonomous knowledge graph-based retrofitting](https://dl.acm.org/doi/10.1609/aaai.v38i16.29770)
 | 28/02/25| Mike |[Reasons to Reject? Aligning Language Models with Judgments](https://aclanthology.org/2024.findings-acl.730.pdf)
 | 21/02/25| Tianhui |[DeepSeek-V2: A Strong, Economical, and Efficient Mixture-of-Experts Language Model](https://arxiv.org/abs/2405.04434)
 | 07/02/25|  Jack | [LegalReasoner: A Multi-Stage Framework for Legal Judgment Prediction via Large Language Models and Knowledge Integration](https://ieeexplore.ieee.org/document/10750819)

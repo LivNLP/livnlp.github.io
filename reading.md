@@ -30,8 +30,8 @@ We meet on a weely basis to discuss recent research papers. Here is the schedule
 | 02/05/25|  Jack |
 | 25/04/25|  Cancelled due to ICLR in Singapore|
 | 18/04/25|  Jodie |
-| 11/04/25|  Lingfang|
-| 04/04/25| Danushka |
+| 11/04/25|  Lingfang| [Reducing Hallucinations in Vision-Language Models via Latent Space Steering](https://arxiv.org/abs/2410.15778)
+| 04/04/25| Danushka | [Circuit Tracing: Revealing Computational Graphs in Language Models](https://transformer-circuits.pub/2025/attribution-graphs/methods.html)
 | 28/03/25 | Gaifan | [Measuring Implicit Bias in Explicitly Unbiased Large Language Models](https://arxiv.org/abs/2402.04105)
 | 21/03/25|  Procheta | [Emergent Misalignment: Narrow finetuning can produce broadly misaligned LLMs](https://arxiv.org/abs/2502.17424)
 | 14/03/25|  Huda| [Decoding on Graphs: Faithful and Sound Reasoning on Knowledge Graphs through Generation of Well-Formed Chains](https://arxiv.org/abs/2410.18415)

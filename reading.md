@@ -20,16 +20,14 @@ We meet on a weely basis to discuss recent research papers. Here is the schedule
 | 11/07/25|  |
 | 04/07/25|  |
 | 27/06/25|  |
-| 20/06/25|  |
-| 13/06/25|  Gaifan |
-| 06/06/25|  Procheta |
-| 30/05/25|  Huda |
-| 23/05/25|  Tulika |
-| 16/05/25|  Mike |
-| 09/05/25|  Tianhui |
-| 02/05/25|  Jack |
-| 25/04/25|  Cancelled due to ICLR in Singapore|
-| 18/04/25|  Jodie |
+| 20/06/25|  Gaifan |
+| 13/06/25|  Procheta |
+| 06/06/25|  Huda |
+| 30/05/25|  Tulika |
+| 23/05/25|  Mike |
+| 16/05/25|  Tianhui |
+| 09/05/25|  Jack |
+| 02/05/25|  Jodie | [Investigating Bias in LLM-Based Bias Detection: Disparities between LLMs and Human Perception](https://aclanthology.org/2025.coling-main.709/)
 | 11/04/25|  Lingfang| [Reducing Hallucinations in Vision-Language Models via Latent Space Steering](https://arxiv.org/abs/2410.15778)
 | 04/04/25| Danushka | [Circuit Tracing: Revealing Computational Graphs in Language Models](https://transformer-circuits.pub/2025/attribution-graphs/methods.html)
 | 28/03/25 | Gaifan | [Measuring Implicit Bias in Explicitly Unbiased Large Language Models](https://arxiv.org/abs/2402.04105)

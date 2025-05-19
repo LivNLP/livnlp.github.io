@@ -25,8 +25,7 @@ We meet on a weely basis to discuss recent research papers. Here is the schedule
 | 06/06/25|  Huda |
 | 30/05/25|  Tulika |
 | 23/05/25|  Mike |
-| 16/05/25|  Tianhui |
-| 09/05/25|  Jack |
+| 16/05/25|  Tianhui | [Learning Dynamics of LLM fine-tuning](https://openreview.net/forum?id=tPNHOoZFl9)
 | 02/05/25|  Jodie | [Investigating Bias in LLM-Based Bias Detection: Disparities between LLMs and Human Perception](https://aclanthology.org/2025.coling-main.709/)
 | 11/04/25|  Lingfang| [Reducing Hallucinations in Vision-Language Models via Latent Space Steering](https://arxiv.org/abs/2410.15778)
 | 04/04/25| Danushka | [Circuit Tracing: Revealing Computational Graphs in Language Models](https://transformer-circuits.pub/2025/attribution-graphs/methods.html)

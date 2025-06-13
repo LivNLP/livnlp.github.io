@@ -21,8 +21,8 @@ We meet on a weely basis to discuss recent research papers. Here is the schedule
 | 04/07/25| Danushka |
 | 27/06/25| Gaifan |
 | 20/06/25|  Procheta |
-| 13/06/25|  Mike |
-| 06/06/25|  Tulika |
+| 13/06/25|  Mike |[Chain of Agents: Large Language Models Collaborating on Long-Context Tasks](https://proceedings.neurips.cc/paper_files/paper/2024/hash/ee71a4b14ec26710b39ee6be113d7750-Abstract-Conference.html)
+| 06/06/25|  Tulika |[Debate on Graph: a Flexible and Reliable Reasoning Framework for Large Language Models](https://arxiv.org/pdf/2409.03155)
 | 30/05/25|  Huda | [PathRAG: Pruning Graph-based Retrieval Augmented Generation with Relational Path](https://arxiv.org/pdf/2502.14902)
 | 16/05/25|  Tianhui | [Learning Dynamics of LLM fine-tuning](https://openreview.net/forum?id=tPNHOoZFl9)
 | 02/05/25|  Jodie | [Investigating Bias in LLM-Based Bias Detection: Disparities between LLMs and Human Perception](https://aclanthology.org/2025.coling-main.709/)

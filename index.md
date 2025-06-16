@@ -13,7 +13,7 @@ We are the Natural Language Processing Research Group at the Department of Compu
 - [Dr. Masahiro Kaneko](https://sites.google.com/view/masahirokaneko) (Post-Doc, Tokyo Institute of Technology)
 - [Dr. Micheal Abaho](https://mykelismyname.github.io/micheal/) (Research Scientist, University of Liverpool)
 - [Dr. Yi Zhou (Jodie)](https://jodiechou.github.io)(Lecturer, Cardiff University)
-- [Tianhui Zhang](https://tianhuizhang.github.io/) (Phd student, University of Liverpool)
+- [Tianhui Zhang](https://avatagarde.github.io/) (Phd student, University of Liverpool)
 - Gaifan Zhang (PhD student, University of Liverpool
 - Lingfang Li (PhD student, University of Liverpool)
 - [Salem Alotaibi](https://salotaibi.github.io/) (PhD student, Liverpool)

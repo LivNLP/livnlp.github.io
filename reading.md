@@ -20,7 +20,7 @@ We meet on a weely basis to discuss recent research papers. Here is the schedule
 | 11/07/25|  Lingfang|
 | 04/07/25| Danushka |
 | 27/06/25| Gaifan |
-| 20/06/25|  Procheta |
+| 20/06/25|  Procheta |[Llama See, Llama Do: A Mechanistic Perspective on Contextual Entrainment and Distraction in LLMs](https://arxiv.org/abs/2505.09338)
 | 13/06/25|  Mike |[Chain of Agents: Large Language Models Collaborating on Long-Context Tasks](https://proceedings.neurips.cc/paper_files/paper/2024/hash/ee71a4b14ec26710b39ee6be113d7750-Abstract-Conference.html)
 | 06/06/25|  Tulika |[Debate on Graph: a Flexible and Reliable Reasoning Framework for Large Language Models](https://arxiv.org/pdf/2409.03155)
 | 30/05/25|  Huda | [PathRAG: Pruning Graph-based Retrieval Augmented Generation with Relational Path](https://arxiv.org/pdf/2502.14902)

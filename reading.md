@@ -13,10 +13,17 @@ We meet on a weely basis to discuss recent research papers. Here is the schedule
 
 | Date | Speaker | Title 
 | ----- | ------- | -----
+| 14/11/25|  Huda |
+| 07/11/25|  Cancelled due to EMNLP 2025 in Suzhou |
+| 31/10/25|  Tianhui |
+| 24/10/25|  Lingfang |
+| 17/10/25|  Gaifan |
+| 10/10/25|  Jack |
+| 03/10/25|  Mike |
 | 26/09/25|  Procheta |
 | 19/09/25|  Tulika |
-| 12/09/25|  Jack |
-| 05/09/25|  Huda |
+| 12/09/25|  Danushka |
+| 05/09/25|  Huda | [GNN-RAG: Graph Neural Retrieval for Efficient Large Language Model Reasoning on Knowledge Graphs](https://aclanthology.org/2025.findings-acl.856/)
 | 25/07/25|  Cancelled due to ACL 2025 in Vienna|
 | 18/07/25|  Tianhui | [Lexical Diversity-aware Relevance Assessment for Retrieval-Augmented Generation](https://openreview.net/forum?id=omv3VfVIQt)
 | 11/07/25|  Lingfang| [Tracking the Feature Dynamics in LLM Training: A Mechanistic Study](https://arxiv.org/abs/2412.17626)

@@ -20,9 +20,9 @@ We meet on a weely basis to discuss recent research papers. Here is the schedule
 | 17/10/25|  Gaifan |
 | 10/10/25|  Jack |
 | 03/10/25|  Mike |
-| 26/09/25|  Procheta |
-| 19/09/25|  Tulika |
-| 12/09/25|  Danushka |
+| 26/09/25|  Danushka |
+| 19/09/25|  Procheta |
+| 12/09/25|  Danushka | [A New Formulation of Zipf’s Meaning-Frequency Law through Contextual Diversity](https://aclanthology.org/2025.acl-long.744/)
 | 05/09/25|  Huda | [GNN-RAG: Graph Neural Retrieval for Efficient Large Language Model Reasoning on Knowledge Graphs](https://aclanthology.org/2025.findings-acl.856/)
 | 25/07/25|  Cancelled due to ACL 2025 in Vienna|
 | 18/07/25|  Tianhui | [Lexical Diversity-aware Relevance Assessment for Retrieval-Augmented Generation](https://openreview.net/forum?id=omv3VfVIQt)

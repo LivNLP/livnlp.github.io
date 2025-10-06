@@ -19,8 +19,8 @@ We meet on a weely basis to discuss recent research papers. Here is the schedule
 | 24/10/25|  Lingfang |
 | 17/10/25|  Gaifan |
 | 10/10/25|  Jack |
-| 03/10/25|  Mike |
-| 26/09/25|  Danushka |
+| 03/10/25|  Mike | [RetroLLM: Empowering Large Language Models to Retrieve Fine-grained Evidence within Generation](https://aclanthology.org/2025.acl-long.819/)
+| 26/09/25|   |　Cancelled due to ICLR/EACL submission DL
 | 19/09/25|  Procheta | [Sparse Autoencoders Find Highly Interpretable Features in Language Models](https://arxiv.org/abs/2309.08600)
 | 12/09/25|  Danushka | [A New Formulation of Zipf’s Meaning-Frequency Law through Contextual Diversity](https://aclanthology.org/2025.acl-long.744/)
 | 05/09/25|  Huda | [GNN-RAG: Graph Neural Retrieval for Efficient Large Language Model Reasoning on Knowledge Graphs](https://aclanthology.org/2025.findings-acl.856/)

@@ -17,7 +17,7 @@ We meet on a weely basis to discuss recent research papers. Here is the schedule
 | 07/11/25|  Cancelled due to EMNLP 2025 in Suzhou |
 | 31/10/25|  Tianhui |
 | 24/10/25|  Lingfang |
-| 17/10/25|  Gaifan |
+| 17/10/25|  Gaifan | [Token Prepending: A Training-Free Approach for Eliciting Better Sentence Embeddings from LLMs](https://aclanthology.org/2025.acl-long.159.pdf)
 | 10/10/25|  Jack | [Argumentative Large Language Models for Explainable and Contestable Claim Verification](https://arxiv.org/abs/2405.02079)
 | 03/10/25|  Mike | [RetroLLM: Empowering Large Language Models to Retrieve Fine-grained Evidence within Generation](https://aclanthology.org/2025.acl-long.819/)
 | 26/09/25|   |　Cancelled due to ICLR/EACL submission DL

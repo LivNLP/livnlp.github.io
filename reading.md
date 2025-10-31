@@ -14,8 +14,8 @@ We meet on a weely basis to discuss recent research papers. Here is the schedule
 | Date | Speaker | Title 
 | ----- | ------- | -----
 | 19/12/25|   Gaifan |
-| 12/12/25|  Mike |
-| 05/12/25|  Tulika |
+| 12/12/25|  Tulika |
+| 05/12/25|  Mike |
 | 28/11/25|  Procheta |
 | 21/11/25|  Danushka |
 | 14/11/25|  Huda |

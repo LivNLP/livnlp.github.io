@@ -9,8 +9,17 @@ layout: default
 <div class="team-container">
   {% for member in site.data.team %}
     <div class="team-member">
-      <img src="{{ member.image | relative_url }}" alt="{{ member.name }}" class="profile-pic">
-      <h3>{{ member.name }}</h3>
+      
+      {% if member.website %}
+        <a href="{{ member.website }}" target="_blank" class="member-link">
+          <img src="{{ member.image | relative_url }}" alt="{{ member.name }}" class="profile-pic">
+          <h3>{{ member.name }}</h3>
+        </a>
+      {% else %}
+        <img src="{{ member.image | relative_url }}" alt="{{ member.name }}" class="profile-pic">
+        <h3>{{ member.name }}</h3>
+      {% endif %}
+
       <span class="role">{{ member.role }}</span>
       <p class="description">{{ member.description }}</p>
     </div>
@@ -62,6 +71,24 @@ layout: default
     font-size: 0.9em;
     line-height: 1.4;
   }
+
+  .member-link {
+  text-decoration: none; /* Removes the standard underline */
+  color: inherit;        /* Keeps the text black/dark instead of blue */
+  display: block;        /* Ensures the link wraps the elements properly */
+}
+
+/* Optional: Add a hover effect so people know it's clickable */
+  .member-link:hover .profile-pic {
+    opacity: 0.8;            /* Slight fade on image */
+    border-color: #007bff;   /* Change border color on hover */
+    transition: 0.3s;
+}
+
+  .member-link:hover h3 {
+    color: #007bff;          /* Change text color on hover */
+    text-decoration: underline;
+}
 </style>
 
 <div>

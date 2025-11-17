@@ -1,0 +1,77 @@
+- name: Danushka Bollegala
+  role: Professor and Amazon Scholar (University of Liverpool)
+  image: /images/members/danushka.jpg
+  description: Representation Learning, Information Retrieval
+  website: https://danushka.net/
+
+- name: Procheta Sen
+  role: Lecturer (University of Liverpool)
+  image: /images/members/procheta.jpg
+  description: Mechanistic Interpretability, Information Retrieval
+  website: https://procheta.github.io/
+
+- name: Meng Fang
+  role: Lecturer (University of Liverpool)
+  image: /images/members/meng.jpg
+  description: Agentic AI, Robotics
+  website: https://mengfn.github.io/
+
+- name: Tulika Saha
+  role: Assistant Professor (International Institute of Information Technology, Bangalore, India)
+  image: /images/members/tulika.jpg
+  description: Dialogue systems
+  website: https://sahatulika15.github.io/
+
+- name: Bei Peng
+  role: Lecturer (University of Sheffield)
+  image: /images/members/bpeng.png
+  description: Reinforcement Learning, Multi Agent Systems
+  website: https://beipeng.github.io/
+
+- name: Masahiro Kaneko
+  role:  (MBZUAI, Abu Dhabi)
+  image: /images/members/kaneko.jpg
+  description: AI safety, Social Biases
+  website: https://sites.google.com/view/masahirokaneko/english
+
+- name: Huda Hakami
+  role: Lecturer (Taif University, Saudi Arabia)
+  image: /images/members/huda.png
+  description: Relation representation, Knowledge Graphs
+  website: https://scholar.google.com/citations?user=c1M8KpwAAAAJ&hl=en
+
+- name: Micheal Abaho
+  role: Research Associate 
+  image: /images/members/micheal.jpg
+  description: Medical information extraction
+  website: https://mykelismyname.github.io/micheal/
+
+- name: Yi Zhou (Jodie)
+  role: Lecturer (Cardiff University)
+  image: /images/members/jodie.png
+  description: Social biases, word senses
+  website: https://jodiechou.github.io
+
+- name: Taichi Aida
+  role: Research Scientist (NEC, Japan)
+  image: /images/members/aida.jpg
+  description: Temporal semantics
+  website: https://sites.google.com/view/a1da
+
+- name: Tianhui Zhang
+  role: PhD student (University of Liverpool)
+  image: /images/members/tianhui.jpg
+  description: Diverse Commonsense Generation
+  website: https://avatagarde.github.io/
+
+- name: Gaifan Zhang
+  role: PhD student (University of Liverpool)
+  image: /images/members/gaifan.jpg
+  description: LLM embeddings, compression
+  website: https://www.linkedin.com/in/gaifan1218/
+
+- name: Lingfang Li
+  role: PhD student (University of Liverpool)
+  image: /images/members/lingfang.png
+  description: Mechanistic interpretability
+  website: https://livnlp.github.io/

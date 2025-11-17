@@ -3,7 +3,11 @@ layout: home
 ---
 
 We are the Natural Language Processing Research Group at the Department of Computer Science, University of Liverpool.
+You can find information about our group, research and our reading group here.
+If you would like to join the reading group please get in touch with Danushka. 
 
+
+<!-- 
 # People
 - [Professor Danushka Bollegala](https://danushka.net/) (Professor University of Liverpool, Amazon Scholar)
 - [Dr. Procheta Sen](https://procheta.github.io/sprocheta/) (Lecturer, Department of Computer Science, University of Liverpool)
@@ -13,11 +17,13 @@ We are the Natural Language Processing Research Group at the Department of Compu
 - [Dr. Masahiro Kaneko](https://sites.google.com/view/masahirokaneko) (RA, MBUZAI)
 - [Dr. Micheal Abaho](https://mykelismyname.github.io/micheal/) (RA, University of Liverpool)
 - [Dr. Yi Zhou (Jodie)](https://jodiechou.github.io)(Lecturer, Cardiff University)
-- [Dr. Taichi Aida](https://sites.google.com/view/a1da) (Researc Scientist, NEC)
+- [Dr. Taichi Aida](https://sites.google.com/view/a1da) (Research Scientist, NEC)
 - [Tianhui Zhang](https://avatagarde.github.io/) (Phd student, University of Liverpool)
 - Gaifan Zhang (PhD student, University of Liverpool
 - Lingfang Li (PhD student, University of Liverpool)
 - Taisei Yamamoto (PhD student, University of Tokyo)
+-->
+
 
 # Alumni
 - [Dr. Angrosh Mandya](https://scholar.google.com/citations?user=V2IwYWQAAAAJ&hl=en) (former University Teacher, University of Liverpool)

@@ -3,9 +3,67 @@ layout: default
 ---
 
 <div>
-
   <img src="/images/home2.png" alt="Class Header" style="width: 100%; height: auto;">
+</div>
 
+<div class="team-container">
+  {% for member in site.data.team %}
+    <div class="team-member">
+      <img src="{{ member.image | relative_url }}" alt="{{ member.name }}" class="profile-pic">
+      <h3>{{ member.name }}</h3>
+      <span class="role">{{ member.role }}</span>
+      <p class="description">{{ member.description }}</p>
+    </div>
+  {% endfor %}
+</div>
+
+<style>
+  /* The Container: A flexible grid */
+  .team-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    gap: 30px;
+    margin-top: 30px;
+  }
+
+  /* Individual Member Card */
+  .team-member {
+    text-align: center;
+    padding: 20px;
+    background-color: #f9f9f9; /* Optional: light grey background */
+    border-radius: 10px;       /* Optional: rounded corners for card */
+  }
+
+  /* The Circular Headshot */
+  .profile-pic {
+    width: 150px;        /* Fixed width */
+    height: 150px;       /* Fixed height (must match width) */
+    object-fit: cover;   /* CRITICAL: Prevents squishing if image isn't square */
+    border-radius: 50%;  /* This makes it a circle */
+    border: 3px solid #ddd; /* Optional: border around the circle */
+    margin-bottom: 15px;
+  }
+
+  /* Typography */
+  .team-member h3 {
+    margin: 10px 0 5px 0;
+    font-size: 1.2em;
+  }
+
+  .role {
+    color: #666;
+    font-weight: bold;
+    font-size: 0.9em;
+    display: block;
+    margin-bottom: 10px;
+  }
+
+  .description {
+    font-size: 0.9em;
+    line-height: 1.4;
+  }
+</style>
+
+<div>
   <br> {{ content }}
-
 </div>

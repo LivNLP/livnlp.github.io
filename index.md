@@ -24,7 +24,7 @@ We are the Natural Language Processing Research Group at the Department of Compu
 - [Dr. Mohammed Alsuhaibani](https://www.linkedin.com/in/suhibani/?originalSubdomain=sa) (Assisant Professor, Quassium University)
 - [Dr. Xia Cui](https://www.linkedin.com/in/xia-cui/) (Lecturer, Manchester Metropolitan University)
 - [Dr. Pavithra Rajendran](https://www.linkedin.com/in/pavithra-rajendran-ph-d-1094a675/) (NLP Researcher, NHS)
-- [Dr. James O'Neill](https://www.linkedin.com/in/james-o-neill-1923b86b/) (ML Scientist, Huawei)
+- [Dr. James O'Neill](https://www.linkedin.com/in/james-o-neill-1923b86b/) (Senior ML Researcher, Intercom)
 - [Haochen Luo](https://www.linkedin.com/in/haochen-luo-3a1290188/) (MSc student, University of Oxford)
 - [Xiaohang Tang](https://xiaohang-tang.github.io/) (PhD student at Virginia Tech)
 - [Yoichi Ishibashi](https://yoichi1484.github.io/) (PDRA at Kyoto University)

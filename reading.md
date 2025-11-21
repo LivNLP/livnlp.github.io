@@ -18,7 +18,7 @@ We meet on a weely basis to discuss recent research papers. Here is the schedule
 | 05/12/25|  Mike |
 | 28/11/25|  Procheta |
 | 21/11/25|  Danushka |
-| 14/11/25|  Huda |
+| 21/11/25|  Huda | [Enhancing Large Language Model for Knowledge Graph Completion via Structure-Aware Alignment-Tuning](https://aclanthology.org/2025.emnlp-main.1061/)
 | 07/11/25|  Cancelled due to EMNLP 2025 in Suzhou |
 | 31/10/25|  Tianhui | [Jointly Reinforcing Diversity and Quality in Language Model Generations](https://arxiv.org/abs/2509.02534)
 | 24/10/25|  Lingfang | [Understanding Dataset Difficulty with v-Usable Information](https://arxiv.org/abs/2110.08420)

@@ -13,9 +13,9 @@ We meet on a weely basis to discuss recent research papers. Here is the schedule
 
 | Date | Speaker | Title 
 | ----- | ------- | -----
-| 19/12/25|   Gaifan |
+| 16/12/25|   Gaifan |
+| 09/01/25|  Mike |
 | 12/12/25|  Tulika |
-| 05/12/25|  Mike |
 | 05/12/25|  Procheta |
 | 28/11/25|  Danushka | EMNLP 2025 overview
 | 21/11/25|  Huda | [Enhancing Large Language Model for Knowledge Graph Completion via Structure-Aware Alignment-Tuning](https://aclanthology.org/2025.emnlp-main.1061/)

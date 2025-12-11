@@ -13,10 +13,15 @@ We meet on a weely basis to discuss recent research papers. Here is the schedule
 
 | Date | Speaker | Title 
 | ----- | ------- | -----
-| 16/12/25|   Gaifan |
+| 20/02/25|   Danushka |
+| 13/02/25|   Jodie |
+| 06/02/25|   Huda |
+| 30/01/25|   Tianhui |
+| 23/01/25|   Lingfang |
+| 16/01/25|   Gaifan |
 | 09/01/25|  Mike |
 | 12/12/25|  Tulika |
-| 05/12/25|  Procheta |
+| 05/12/25|  Procheta | [On Relation-Specific Neurons in Large Language Models](https://aclanthology.org/2025.emnlp-main.52/)
 | 28/11/25|  Danushka | EMNLP 2025 overview
 | 21/11/25|  Huda | [Enhancing Large Language Model for Knowledge Graph Completion via Structure-Aware Alignment-Tuning](https://aclanthology.org/2025.emnlp-main.1061/)
 | 07/11/25|  Cancelled due to EMNLP 2025 in Suzhou |

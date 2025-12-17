@@ -20,7 +20,7 @@ We meet on a weely basis to discuss recent research papers. Here is the schedule
 | 23/01/25|   Lingfang |
 | 16/01/25|   Gaifan |
 | 09/01/25|  Mike |
-| 12/12/25|  Tulika |
+| 12/12/25|  Tulika | [Think-on-Graph 2.0: Deep and Faithful Large Language Model Reasoning with Knowledge-guided Retrieval Augmented Generatio](https://arxiv.org/abs/2407.10805)
 | 05/12/25|  Procheta | [On Relation-Specific Neurons in Large Language Models](https://aclanthology.org/2025.emnlp-main.52/)
 | 28/11/25|  Danushka | EMNLP 2025 overview
 | 21/11/25|  Huda | [Enhancing Large Language Model for Knowledge Graph Completion via Structure-Aware Alignment-Tuning](https://aclanthology.org/2025.emnlp-main.1061/)

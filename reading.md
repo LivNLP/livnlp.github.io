@@ -13,12 +13,13 @@ We meet on a weely basis to discuss recent research papers. Here is the schedule
 
 | Date | Speaker | Title 
 | ----- | ------- | -----
-| 20/02/25|   Micheal |
-| 13/02/25|   Jodie |
-| 06/02/25|   Huda |
-| 30/01/25|   Tianhui |
-| 23/01/25|   Lingfang |
-| 16/01/25|   Gaifan |
+| 27/02/25|   Micheal |
+| 20/02/25|   Jodie |
+| 13/02/25|   Huda |
+| 06/02/25|   Tianhui |
+| 30/01/25|   Lingfang |
+| 23/01/25|   Gaifan | [EMO: Embedding Model Distillation via Intra-Model Relation and Optimal Transport Alignments](https://aclanthology.org/2025.emnlp-main.385/)
+| 16/01/25|  Cancelled
 | 09/01/25|  Danushka | [Static Word Embeddings for Sentence Semantic Representation](https://aclanthology.org/2025.emnlp-main.316/)
 | 12/12/25|  Tulika | [Think-on-Graph 2.0: Deep and Faithful Large Language Model Reasoning with Knowledge-guided Retrieval Augmented Generatio](https://arxiv.org/abs/2407.10805)
 | 05/12/25|  Procheta | [On Relation-Specific Neurons in Large Language Models](https://aclanthology.org/2025.emnlp-main.52/)

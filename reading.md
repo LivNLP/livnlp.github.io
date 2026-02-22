@@ -13,6 +13,12 @@ We meet on a weely basis to discuss recent research papers. Here is the schedule
 
 | Date | Speaker | Title 
 | ----- | ------- | -----
+| 24/04/25|   Lingfang |
+| 17/04/25|   Gaifan |
+| 10/04/25|   Jack |
+| 03/04/25|   Procheta |
+| 27/02/25|   Danushka |
+| 20/02/25|   Huda |
 | 13/02/25|   Micheal |
 | 06/03/25|   Jodie |
 | 27/02/25|   No meeting |

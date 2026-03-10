@@ -13,14 +13,14 @@ We meet on a weely basis to discuss recent research papers. Here is the schedule
 
 | Date | Speaker | Title 
 | ----- | ------- | -----
-| 24/04/25|   Lingfang |
-| 17/04/25|   Gaifan |
-| 10/04/25|   Jack |
-| 03/04/25|   Procheta |
-| 27/02/25|   Danushka |
-| 20/02/25|   Huda |
-| 13/02/25|   Micheal |
-| 06/03/25|   Jodie |
+| 01/05/25|   Lingfang |
+| 24/04/25|   Gaifan |
+| 17/04/25|   Jack |
+| 10/04/25|   Procheta |
+| 03/04/25|   Danushka |
+| 27/02/25|   Huda |
+| 20/02/25|   Micheal |
+| 13/03/25|   Jodie |
 | 27/02/25|   No meeting |
 | 20/02/25|   Tianhui | [Diverse, not Short: A Length-Controlled Data Selection Strategy for Improving Response Diversity of Language Models](https://aclanthology.org/2025.emnlp-main.1721/)
 | 13/02/25|   Roxana Goworek | Zero-shot cross-lingual transfer for word senses 

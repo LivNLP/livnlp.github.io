@@ -13,20 +13,28 @@ We meet on a weely basis to discuss recent research papers. Here is the schedule
 
 | Date | Speaker | Title 
 | ----- | ------- | -----
-| 01/05/25|   Lingfang |
-| 22/04/25|   Xia (Guest Talk) | obust NLP in the Wild: Learning from Disagreement, Imbalance and Human Complexity
-| 17/04/25|   Jack |
-| 10/04/25|   Procheta |
-| 03/04/25|   Danushka |
-| 27/02/25|   Micheal |
-| 20/02/25|   Huda |
-| 13/03/25|   Jodie | [See It from My Perspective: How Language Affects Cultural Bias in Image Understanding](https://arxiv.org/abs/2406.11665)
-| 27/02/25|   No meeting |
-| 20/02/25|   Tianhui | [Diverse, not Short: A Length-Controlled Data Selection Strategy for Improving Response Diversity of Language Models](https://aclanthology.org/2025.emnlp-main.1721/)
-| 13/02/25|   Roxana Goworek (Guest Talk) | Zero-shot cross-lingual transfer for word senses 
-| 06/02/25|   Lingfang | [Linear Steerability in Language Models: When It Emerges and How It Evolves](https://aclanthology.org/2025.findings-emnlp.969)
-| 23/01/25|   Gaifan | [EMO: Embedding Model Distillation via Intra-Model Relation and Optimal Transport Alignments](https://aclanthology.org/2025.emnlp-main.385/)
-| 09/01/25|  Danushka | [Static Word Embeddings for Sentence Semantic Representation](https://aclanthology.org/2025.emnlp-main.316/)
+| 26/06/26 | Lingfang
+| 19/06/26| Jack |
+| 12/06/26 | Procheta|
+| 05/06/26| Danushka |
+| 29/05/26| Micheal |
+| 22/05/26| Huda |
+| 15/05/26| Jodie |
+| 08/05/26| Tianhui |
+| 01/05/26|   Lingfang |
+| 22/04/26|   Xia (Guest Talk) | Robust NLP in the Wild: Learning from Disagreement, Imbalance and Human Complexity
+| 17/04/26|   Jack |
+| 10/04/26|   Procheta |
+| 03/04/26|   Danushka |
+| 27/02/26|   Micheal |
+| 20/02/26|   Huda |
+| 13/03/26|   Jodie | [See It from My Perspective: How Language Affects Cultural Bias in Image Understanding](https://arxiv.org/abs/2406.11665)
+| 27/02/26|   No meeting |
+| 20/02/26|   Tianhui | [Diverse, not Short: A Length-Controlled Data Selection Strategy for Improving Response Diversity of Language Models](https://aclanthology.org/2025.emnlp-main.1721/)
+| 13/02/26|   Roxana Goworek (Guest Talk) | Zero-shot cross-lingual transfer for word senses 
+| 06/02/26|   Lingfang | [Linear Steerability in Language Models: When It Emerges and How It Evolves](https://aclanthology.org/2025.findings-emnlp.969)
+| 23/01/26|   Gaifan | [EMO: Embedding Model Distillation via Intra-Model Relation and Optimal Transport Alignments](https://aclanthology.org/2025.emnlp-main.385/)
+| 09/01/26|  Danushka | [Static Word Embeddings for Sentence Semantic Representation](https://aclanthology.org/2025.emnlp-main.316/)
 | 12/12/25|  Tulika | [Think-on-Graph 2.0: Deep and Faithful Large Language Model Reasoning with Knowledge-guided Retrieval Augmented Generatio](https://arxiv.org/abs/2407.10805)
 | 05/12/25|  Procheta | [On Relation-Specific Neurons in Large Language Models](https://aclanthology.org/2025.emnlp-main.52/)
 | 28/11/25|  Danushka | EMNLP 2025 overview

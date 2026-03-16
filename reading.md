@@ -14,16 +14,16 @@ We meet on a weely basis to discuss recent research papers. Here is the schedule
 | Date | Speaker | Title 
 | ----- | ------- | -----
 | 01/05/25|   Lingfang |
-| 24/04/25|   Gaifan |
+| 22/04/25|   Xia (Guest Talk) | obust NLP in the Wild: Learning from Disagreement, Imbalance and Human Complexity
 | 17/04/25|   Jack |
 | 10/04/25|   Procheta |
 | 03/04/25|   Danushka |
-| 27/02/25|   Huda |
-| 20/02/25|   Micheal |
-| 13/03/25|   Jodie |
+| 27/02/25|   Micheal |
+| 20/02/25|   Huda |
+| 13/03/25|   Jodie | [See It from My Perspective: How Language Affects Cultural Bias in Image Understanding](https://arxiv.org/abs/2406.11665)
 | 27/02/25|   No meeting |
 | 20/02/25|   Tianhui | [Diverse, not Short: A Length-Controlled Data Selection Strategy for Improving Response Diversity of Language Models](https://aclanthology.org/2025.emnlp-main.1721/)
-| 13/02/25|   Roxana Goworek | Zero-shot cross-lingual transfer for word senses 
+| 13/02/25|   Roxana Goworek (Guest Talk) | Zero-shot cross-lingual transfer for word senses 
 | 06/02/25|   Lingfang | [Linear Steerability in Language Models: When It Emerges and How It Evolves](https://aclanthology.org/2025.findings-emnlp.969)
 | 23/01/25|   Gaifan | [EMO: Embedding Model Distillation via Intra-Model Relation and Optimal Transport Alignments](https://aclanthology.org/2025.emnlp-main.385/)
 | 09/01/25|  Danushka | [Static Word Embeddings for Sentence Semantic Representation](https://aclanthology.org/2025.emnlp-main.316/)

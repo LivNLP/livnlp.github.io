@@ -13,21 +13,20 @@ We meet on a weely basis to discuss recent research papers. Here is the schedule
 
 | Date | Speaker | Title 
 | ----- | ------- | -----
-| 26/06/26 | Lingfang
-| 19/06/26| Jack |
+| 26/06/26 | Lingfang |
+| 19/06/26| Danushka |
 | 12/06/26 | Procheta|
-| 05/06/26| Danushka |
-| 29/05/26| Micheal |
-| 22/05/26| Huda |
-| 15/05/26| Jodie |
-| 08/05/26| Tianhui |
+| 05/06/26| Mike |
+| 29/05/26| Huda |
+| 22/05/26| Tianhui |
+| 15/05/26| Tulika |
+| 08/05/26| Yu Zeping (Guest Talk) |
 | 01/05/26|   Lingfang |
-| 22/04/26|   Xia (Guest Talk) | Robust NLP in the Wild: Learning from Disagreement, Imbalance and Human Complexity
-| 17/04/26|   Jack |
-| 10/04/26|   Procheta |
-| 03/04/26|   Danushka |
-| 27/02/26|   Micheal |
-| 20/02/26|   Huda |
+| 23/04/26|   Xia (Guest Talk) | Robust NLP in the Wild: Learning from Disagreement, Imbalance and Human Complexity
+| 17/04/26|   Procheta |
+| 10/04/26|   Danushka |
+| 03/04/26|   Micheal |
+| 27/03/26|   Huda |
 | 13/03/26|   Jodie | [See It from My Perspective: How Language Affects Cultural Bias in Image Understanding](https://arxiv.org/abs/2406.11665)
 | 27/02/26|   No meeting |
 | 20/02/26|   Tianhui | [Diverse, not Short: A Length-Controlled Data Selection Strategy for Improving Response Diversity of Language Models](https://aclanthology.org/2025.emnlp-main.1721/)

@@ -26,7 +26,7 @@ We meet on a weely basis to discuss recent research papers. Here is the schedule
 | 17/04/26|   Procheta |
 | 10/04/26|   Danushka |
 | 03/04/26|   Micheal |
-| 27/03/26|   Huda |
+| 27/03/26|   Huda | [What Breaks Knowledge Graph based RAG?Benchmarking and Empirical Insights into Reasoning under Incomplete Knowledge](https://aclanthology.org/2026.eacl-long.114/)
 | 13/03/26|   Jodie | [See It from My Perspective: How Language Affects Cultural Bias in Image Understanding](https://arxiv.org/abs/2406.11665)
 | 27/02/26|   No meeting |
 | 20/02/26|   Tianhui | [Diverse, not Short: A Length-Controlled Data Selection Strategy for Improving Response Diversity of Language Models](https://aclanthology.org/2025.emnlp-main.1721/)
@@ -35,7 +35,7 @@ We meet on a weely basis to discuss recent research papers. Here is the schedule
 | 23/01/26|   Gaifan | [EMO: Embedding Model Distillation via Intra-Model Relation and Optimal Transport Alignments](https://aclanthology.org/2025.emnlp-main.385/)
 | 09/01/26|  Danushka | [Static Word Embeddings for Sentence Semantic Representation](https://aclanthology.org/2025.emnlp-main.316/)
 | 12/12/25|  Tulika | [Think-on-Graph 2.0: Deep and Faithful Large Language Model Reasoning with Knowledge-guided Retrieval Augmented Generatio](https://arxiv.org/abs/2407.10805)
-| 05/12/25|  Procheta | [On Relation-Specific Neurons in Large Language Models](https://aclanthology.org/2025.emnlp-main.52/)
+| 05/12/25|  Procheta | [On Relation-Specific Neurons in Large Language Models (https://aclanthology.org/2025.emnlp-main.52/)
 | 28/11/25|  Danushka | EMNLP 2025 overview
 | 21/11/25|  Huda | [Enhancing Large Language Model for Knowledge Graph Completion via Structure-Aware Alignment-Tuning](https://aclanthology.org/2025.emnlp-main.1061/)
 | 07/11/25|  Cancelled due to EMNLP 2025 in Suzhou |

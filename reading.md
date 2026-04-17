@@ -13,19 +13,19 @@ We meet on a weely basis to discuss recent research papers. Here is the schedule
 
 | Date | Speaker | Title 
 | ----- | ------- | -----
-| 26/06/26 | Lingfang |
-| 19/06/26| Danushka |
-| 12/06/26 | Procheta|
-| 05/06/26| Mike |
-| 29/05/26| Huda |
-| 22/05/26| Tianhui |
+| 10/07/26 | Lingfang |
+| 03/07/26| ACL 2026 (San Diego) |
+| 26/06/26 | Procheta|
+| 19/06/26| Mike |
+| 12/06/26| Huda |
+| 05/06/26| Tianhui |
+| 29/05/26|   Lingfang |
+| 22/04/26|   Procheta |
 | 15/05/26| Tulika |
 | 08/05/26| Yu Zeping (Guest Talk) |
-| 01/05/26|   Lingfang |
-| 23/04/26|   Xia (Guest Talk) | Robust NLP in the Wild: Learning from Disagreement, Imbalance and Human Complexity
-| 17/04/26|   Procheta |
 | 10/04/26|   Danushka |
-| 03/04/26|   Micheal |
+| 23/04/26|   Xia (Guest Talk) | Robust NLP in the Wild: Learning from Disagreement, Imbalance and Human Complexity
+| 17/04/26|   Micheal | [ATOM: AdapTive and OptiMized dynamic temporal knowledge graph construction using LLMs](https://aclanthology.org/2026.findings-eacl.49/)
 | 27/03/26|   Huda | [What Breaks Knowledge Graph based RAG?Benchmarking and Empirical Insights into Reasoning under Incomplete Knowledge](https://aclanthology.org/2026.eacl-long.114/)
 | 13/03/26|   Jodie | [See It from My Perspective: How Language Affects Cultural Bias in Image Understanding](https://arxiv.org/abs/2406.11665)
 | 27/02/26|   No meeting |

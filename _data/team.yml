@@ -34,6 +34,12 @@
   description: AI safety, Social Biases
   website: https://sites.google.com/view/masahirokaneko/english
 
+- name: Yuya Takana
+  role: Honorary Research Associate (University of Liverpool)
+  image: /images/members/yuya.png
+  description: Vision Action Language Models and Robotics for Material Innovation
+  website: https://livnlp.github.io/
+
 - name: Huda Hakami
   role: Lecturer (Taif University, Saudi Arabia)
   image: /images/members/uol.jpg
@@ -64,14 +70,21 @@
   description: Diverse Commonsense Generation
   website: https://avatagarde.github.io/
 
-- name: Gaifan Zhang
-  role: PhD student (University of Liverpool)
-  image: /images/members/gaifan.jpg
-  description: LLM embeddings, compression
-  website: https://www.linkedin.com/in/gaifan1218/
-
 - name: Lingfang Li
   role: PhD student (University of Liverpool)
   image: /images/members/lingfang.jpg
   description: Mechanistic interpretability
   website: https://livnlp.github.io/
+
+- name: Gaifan Zhang
+  role: PhD student (University of Liverpool)
+  image: /images/members/gaifan.jpg
+  description: LLM embeddings
+  website: https://www.linkedin.com/in/gaifan1218/
+
+- name: Hajime Kiyama
+  role: Visiting Research Student
+  image: /images/members/kiyama.png
+  description: Conditional Semantics
+  website: https://sites.google.com/view/kiyama-hajime/home
+

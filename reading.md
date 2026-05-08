@@ -23,7 +23,7 @@ We meet on a weely basis to discuss recent research papers. Here is the schedule
 | 22/04/26|   Procheta |
 | 15/05/26| Tulika |
 | 08/05/26| Yu Zeping (Guest Talk) |
-| 01/05/26|   Danushka |
+| 01/05/26|   Danushka | [From Generation to Judgment: Opportunities and Challenges of LLM-as-a-judge](https://aclanthology.org/2025.emnlp-main.138/)
 | 23/04/26|   Xia (Guest Talk) | Robust NLP in the Wild: Learning from Disagreement, Imbalance and Human Complexity
 | 17/04/26|   Micheal | [ATOM: AdapTive and OptiMized dynamic temporal knowledge graph construction using LLMs](https://aclanthology.org/2026.findings-eacl.49/)
 | 27/03/26|   Huda | [What Breaks Knowledge Graph based RAG?Benchmarking and Empirical Insights into Reasoning under Incomplete Knowledge](https://aclanthology.org/2026.eacl-long.114/)

@@ -2,11 +2,6 @@
 layout: home
 ---
 
-We are the Natural Language Processing Research Group at the Department of Computer Science, University of Liverpool.
-You can find information about our group, research and our reading group here.
-If you would like to join the reading group please get in touch with Danushka. 
-
-
 <!-- 
 # People
 - [Professor Danushka Bollegala](https://danushka.net/) (Professor University of Liverpool, Amazon Scholar)

@@ -21,7 +21,7 @@ We meet on a weely basis to discuss recent research papers. Here is the schedule
 | 05/06/26| Tianhui |
 | 29/05/26|   Lingfang |
 | 22/04/26|   Procheta |
-| 15/05/26| Tulika |
+| 15/05/26| Tulika | [X-TURING: Towards an Enhanced and Efficient Turing Test for Long-Term Dialogue Agents](https://aclanthology.org/2025.acl-long.293/)
 | 08/05/26| Yu Zeping (Guest Talk) |
 | 01/05/26|   Danushka | [From Generation to Judgment: Opportunities and Challenges of LLM-as-a-judge](https://aclanthology.org/2025.emnlp-main.138/)
 | 23/04/26|   Xia (Guest Talk) | Robust NLP in the Wild: Learning from Disagreement, Imbalance and Human Complexity

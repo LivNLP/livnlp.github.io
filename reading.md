@@ -19,8 +19,8 @@ We meet on a weely basis to discuss recent research papers. Here is the schedule
 | 19/06/26| Mike |
 | 12/06/26| Huda |
 | 05/06/26| Tianhui |
-| 29/05/26|   Lingfang |
-| 22/04/26|   Procheta |
+| 29/05/26|   Procheta | [Compute Optimal Tokenization](https://co-tok.github.io/paper.pdf)
+| 22/04/26|   Lingfang | [Simple Factuality Probes Detect Hallucinations in Long-Form Natural Language Generation](https://aclanthology.org/2025.findings-emnlp.880/)
 | 15/05/26| Tulika | [X-TURING: Towards an Enhanced and Efficient Turing Test for Long-Term Dialogue Agents](https://aclanthology.org/2025.acl-long.293/)
 | 08/05/26| Yu Zeping (Guest Talk) |
 | 01/05/26|   Danushka | [From Generation to Judgment: Opportunities and Challenges of LLM-as-a-judge](https://aclanthology.org/2025.emnlp-main.138/)

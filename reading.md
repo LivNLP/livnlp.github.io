@@ -13,12 +13,12 @@ We meet on a weely basis to discuss recent research papers. Here is the schedule
 
 | Date | Speaker | Title 
 | ----- | ------- | -----
-| 10/07/26 | Lingfang |
+| 14/08/26 | Resuming NLP seminars after the summer break
+| 10/07/26 | ACL update |
 | 03/07/26| ACL 2026 (San Diego) |
-| 26/06/26 | Procheta|
-| 19/06/26| Mike |
-| 12/06/26| Huda |
-| 05/06/26| Tianhui |
+| 26/06/26| Mike |
+| 19/06/26| Huda |
+| 12/06/26| Tianhui | [Agentic Reward Modeling: Integrating Human Preferences with Verifiable Correctness Signals for Reliable Reward Systems](https://aclanthology.org/2025.acl-long.775/)
 | 29/05/26|   Procheta | [Compute Optimal Tokenization](https://co-tok.github.io/paper.pdf)
 | 22/04/26|   Lingfang | [Simple Factuality Probes Detect Hallucinations in Long-Form Natural Language Generation](https://aclanthology.org/2025.findings-emnlp.880/)
 | 15/05/26| Tulika | [X-TURING: Towards an Enhanced and Efficient Turing Test for Long-Term Dialogue Agents](https://aclanthology.org/2025.acl-long.293/)

@@ -11,6 +11,16 @@ layout: default
 You can find information about our group, research and our reading group here. 
 </p>
 
+{% assign news_page = site.pages | where_exp: "item", "item.path == 'news.md'" | first %}
+{% if news_page and news_page.content != "" %}
+<section class="latest-news">
+  <h2>Latest News</h2>
+  <div class="news-content">
+    {{ news_page.content | markdownify }}
+  </div>
+</section>
+{% endif %}
+
 <div class="team-container">
   {% for member in site.data.team %}
     <div class="team-member">
@@ -32,6 +42,29 @@ You can find information about our group, research and our reading group here.
 </div>
 
 <style>
+  .latest-news {
+    margin: 1.5rem 0 2rem;
+    padding: 1.25rem 1.5rem;
+    background-color: #f9f9f9;
+    border-radius: 10px;
+    border-left: 4px solid #007bff;
+  }
+
+  .latest-news h2 {
+    margin-top: 0;
+    margin-bottom: 0.75rem;
+    font-size: 1.35em;
+  }
+
+  .latest-news .news-content {
+    font-size: 0.95em;
+    line-height: 1.5;
+  }
+
+  .latest-news .news-content > :last-child {
+    margin-bottom: 0;
+  }
+
   /* The Container: A flexible grid */
   .team-container {
     display: grid;

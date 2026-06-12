@@ -8,9 +8,857 @@ order: 1
 
 
 <ol reversed>
+
+	<h2>2026</h2>
+
+<li>Tianhui Zhang, Bei Peng and Danushka Bollegala:
+<strong>Synthetic Data Generation for Training Diversified Commonsense Reasoning Models</strong>,
+Proceedings of the 64th Annual Conference of the Association for Computational Linguistics (ACL 2026) Main Conference/Oral, San Diego, USA, July, 2026.
+<a href="https://arxiv.org/abs/2603.18361"><img src="../images/PDF.png" width="30" height ="10"></a>
+<a href = "javascript:unhide('Zhang-2026-syntheti-ace1');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "Zhang-2026-syntheti-ace1" class="hidden">
+<pre style="text-align: left">
+@inproceedings{Zhang-2026-syntheti-ace1,
+	author = {Tianhui Zhang, Bei Peng and Danushka Bollegala},
+	title = {Synthetic Data Generation for Training Diversified Commonsense Reasoning Models},
+	booktitle = {Proceedings of the 64th Annual Conference of the Association for Computational Linguistics (ACL 2026) Main Conference/Oral, San Diego, USA, July, 2026},
+	year = {2026},
+	url = {https://arxiv.org/abs/2603.18361}
+}
+</pre></div></li>
+
+<li>Gaifan Zhang and Danushka Bollegala:
+<strong>Map of Encoders – Mapping Sentence Encoders using Quantum Relative Entropy</strong>,
+Proceedings of the 64th Annual Conference of the Association for Computational Linguistics (ACL 2026) Main Conference/Oral, San Diego, USA, July, 2026.
+<a href="https://arxiv.org/abs/2602.08740"><img src="../images/PDF.png" width="30" height ="10"></a>
+<a href = "javascript:unhide('Zhang-2026-map-4fd8');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "Zhang-2026-map-4fd8" class="hidden">
+<pre style="text-align: left">
+@inproceedings{Zhang-2026-map-4fd8,
+	author = {Gaifan Zhang and Danushka Bollegala},
+	title = {Map of Encoders – Mapping Sentence Encoders using Quantum Relative Entropy},
+	booktitle = {Proceedings of the 64th Annual Conference of the Association for Computational Linguistics (ACL 2026) Main Conference/Oral, San Diego, USA, July, 2026},
+	year = {2026},
+	url = {https://arxiv.org/abs/2602.08740}
+}
+</pre></div></li>
+
+<li>Masahiro Kaneko, Danushka Bollegala and Timothy Baldwin:
+<strong>A Multilingual Social Bias Benchmark Incorporating Thinking Processes</strong>,
+Proceedings of the 64th Annual Conference of the Association for Computational Linguistics (ACL 2026) Main Conference/Poster, San Diego, USA, July, 2026.
+<a href="https://openreview.net/forum?id=wzYwPSyjFi"><img src="../images/PDF.png" width="30" height ="10"></a>
+<a href = "javascript:unhide('Kaneko-2026-a-70d8');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "Kaneko-2026-a-70d8" class="hidden">
+<pre style="text-align: left">
+@inproceedings{Kaneko-2026-a-70d8,
+	author = {Masahiro Kaneko, Danushka Bollegala and Timothy Baldwin},
+	title = {A Multilingual Social Bias Benchmark Incorporating Thinking Processes},
+	booktitle = {Proceedings of the 64th Annual Conference of the Association for Computational Linguistics (ACL 2026) Main Conference/Poster, San Diego, USA, July, 2026.},
+	year = {2026},
+	url = {https://openreview.net/forum?id=wzYwPSyjFi}
+}
+</pre></div></li>
+
+<li>Volodymyr Chapman, Asra Aslam, Andrew Clegg, Mark Gabbay, Roy Ruddle, Maurice O'Connell, Matthew Sperrin, Eduard Shantsila, Tjeerd Van Staa, Frances Mair, Alan Woodall, Gary Leeming, Danushka Bollegala, Olusegun Popoola, Simon Maskell, Alan Griffiths, Iain Buchan, Lauren Walker and Samuel Relton:
+<strong>High risk and preventable harm groups identified in clustering of older patients on features associated with adverse drug reactions</strong>,
+Proceedings of the 39th IEEE International Symposium on Computer-Based Medical Systems (CBMS 2026), Limassol, Cyprus, June, 2026.
+<a href = "javascript:unhide('Chapman-2026-high-64fa');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "Chapman-2026-high-64fa" class="hidden">
+<pre style="text-align: left">
+@inproceedings{Chapman-2026-high-64fa,
+	author = {Volodymyr Chapman, Asra Aslam, Andrew Clegg, Mark Gabbay, Roy Ruddle, Maurice O'Connell, Matthew Sperrin, Eduard Shantsila, Tjeerd Van Staa, Frances Mair, Alan Woodall, Gary Leeming, Danushka Bollegala, Olusegun Popoola, Simon Maskell, Alan Griffiths, Iain Buchan, Lauren Walker and Samuel Relton},
+	title = {High risk and preventable harm groups identified in clustering of older patients on features associated with adverse drug reactions},
+	booktitle = {Proceedings of the 39th IEEE International Symposium on Computer-Based Medical Systems (CBMS 2026), Limassol, Cyprus, June, 2026.},
+	year = {2026}
+}
+</pre></div></li>
+
+<li>Taisei Yamamoto, Ryoma Kumon, Danushka Bollegala and Hitomi Yanaka:
+<strong>Neuron-Level Analysis of Cultural Understanding in Large Language Models</strong>,
+Proceedings of the Fourteenth International Conference on Learning Representations (ICLR-2026), Rio de Janeiro, Brazil, April, 2026.
+<a href="https://openreview.net/forum?id=HZMmM3Dmri"><img src="../images/PDF.png" width="30" height ="10"></a>
+<a href = "javascript:unhide('Yamamoto-2026-neuronle-f3ba');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "Yamamoto-2026-neuronle-f3ba" class="hidden">
+<pre style="text-align: left">
+@inproceedings{Yamamoto-2026-neuronle-f3ba,
+	author = {Taisei Yamamoto, Ryoma Kumon, Danushka Bollegala and Hitomi Yanaka},
+	title = {Neuron-Level Analysis of Cultural Understanding in Large Language Models},
+	booktitle = {Proceedings of the Fourteenth International Conference on Learning Representations (ICLR-2026), Rio de Janeiro, Brazil, April, 2026},
+	year = {2026},
+	url = {https://openreview.net/forum?id=HZMmM3Dmri}
+}
+</pre></div></li>
+
+<li>Daisuke Oba, Danushka Bollegala, Masahiro Kaneko and Naoaki Okazaki:
+<strong>Stopping Computation for Converged Tokens in Masked Diffusion-LM Decoding</strong>,
+Proceedings of the Fourteenth International Conference on Learning Representations (ICLR-2026), Rio de Janeiro, Brazil, April, 2026.
+<a href="https://openreview.net/forum?id=PzhNnMepgl"><img src="../images/PDF.png" width="30" height ="10"></a>
+<a href = "javascript:unhide('Oba-2026-stopping-3e5f');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "Oba-2026-stopping-3e5f" class="hidden">
+<pre style="text-align: left">
+@inproceedings{Oba-2026-stopping-3e5f,
+	author = {Daisuke Oba, Danushka Bollegala, Masahiro Kaneko and Naoaki Okazaki},
+	title = {Stopping Computation for Converged Tokens in Masked Diffusion-LM Decoding},
+	booktitle = {Proceedings of the Fourteenth International Conference on Learning Representations (ICLR-2026), Rio de Janeiro, Brazil, April, 2026},
+	year = {2026},
+	url = {https://openreview.net/forum?id=PzhNnMepgl}
+}
+</pre></div></li>
+
+<li>Gaifan Zhang, Yi Zhou and Danushka Bollegala:
+<strong>CASE – Condition-Aware Sentence Embeddings for Conditional Semantic Textual Similarity Measurement</strong>,
+Proceedings of the 19th Conference of the European Chapter of the Association for Computational Linguistics (EACL-2026), Rabat, Morocco, March, 2026.
+<a href="https://aclanthology.org/2026.eacl-long.231/"><img src="../images/PDF.png" width="30" height ="10"></a>
+<a href = "javascript:unhide('Zhang-2026-case-eec3');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "Zhang-2026-case-eec3" class="hidden">
+<pre style="text-align: left">
+@inproceedings{Zhang-2026-case-eec3,
+	author = {Gaifan Zhang, Yi Zhou and Danushka Bollegala},
+	title = {CASE – Condition-Aware Sentence Embeddings for Conditional Semantic Textual Similarity Measurement},
+	booktitle = {Proceedings of the 19th Conference of the European Chapter of the Association for Computational Linguistics (EACL-2026), Rabat, Morocco, March, 2026},
+	year = {2026},
+	url = {https://aclanthology.org/2026.eacl-long.231/}
+}
+</pre></div></li>
+
+<li>Tianhui Zhang, Yi Zhou and Danushka Bollegala:
+<strong>Evaluating the Effect of Retrieval Augmentation on Social Biases</strong>,
+Proceedings of the 19th Conference of the European Chapter of the Association for Computational Linguistics (EACL-2026), Rabat, Morocco, March, 2026.
+<a href="https://aclanthology.org/2026.eacl-long.233/"><img src="../images/PDF.png" width="30" height ="10"></a>
+<a href = "javascript:unhide('Zhang-2026-evaluati-15c1');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "Zhang-2026-evaluati-15c1" class="hidden">
+<pre style="text-align: left">
+@inproceedings{Zhang-2026-evaluati-15c1,
+	author = {Tianhui Zhang, Yi Zhou and Danushka Bollegala},
+	title = {Evaluating the Effect of Retrieval Augmentation on Social Biases},
+	booktitle = {Proceedings of the 19th Conference of the European Chapter of the Association for Computational Linguistics (EACL-2026), Rabat, Morocco, March, 2026},
+	year = {2026},
+	url = {https://aclanthology.org/2026.eacl-long.233/}
+}
+</pre></div></li>
+
+<li>Masafumi Mukaida, Danushka Bollegala and Naiwala Chandrasiri:
+<strong>Analyzing the Impact of Initial Board Height and Density on Tetris Gameplay with Deep Reinforcement Learning</strong>,
+Proceedings of the 4th International Conference on Image Processing and Robotics (ICIPRoB 2026)..
+<a href = "javascript:unhide('Mukaida-2026-analyzin-a7ff');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "Mukaida-2026-analyzin-a7ff" class="hidden">
+<pre style="text-align: left">
+@inproceedings{Mukaida-2026-analyzin-a7ff,
+	author = {Masafumi Mukaida, Danushka Bollegala and Naiwala Chandrasiri},
+	title = {Analyzing the Impact of Initial Board Height and Density on Tetris Gameplay with Deep Reinforcement Learning},
+	booktitle = {Proceedings of the 4th International Conference on Image Processing and Robotics (ICIPRoB 2026).},
+	year = {2026}
+}
+</pre></div></li>
+
+	<h2>2025</h2>
+
+<li>Taisei Yamamoto, Ryoma Kumon, Danushka Bollegala and Hitomi Yanaka:
+<strong>Neuron-Level Analysis of Cultural Understanding in Large Language Models</strong>,
+arXiv pre-print, November, 2025.
+<a href="https://arxiv.org/abs/2510.08284"><img src="../images/PDF.png" width="30" height ="10"></a>
+<a href = "javascript:unhide('Yamamoto-2025-neuronle-f3ba');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "Yamamoto-2025-neuronle-f3ba" class="hidden">
+<pre style="text-align: left">
+@inproceedings{Yamamoto-2025-neuronle-f3ba,
+	author = {Taisei Yamamoto, Ryoma Kumon, Danushka Bollegala and Hitomi Yanaka},
+	title = {Neuron-Level Analysis of Cultural Understanding in Large Language Models},
+	booktitle = {arXiv pre-print, November, 2025},
+	year = {2025},
+	url = {https://arxiv.org/abs/2510.08284}
+}
+</pre></div></li>
+
+<li>Taisei Yamamoto, Ryoma Kumon, Danushka Bollegala and Hitomi Yanaka:
+<strong>Bias Mitigation or Cultural Commonsense? Evaluating LLMs with a Japanese Dataset</strong>,
+Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP-2025), Suzhou, China, November, 2025.
+<a href="https://aclanthology.org/2025.emnlp-main.874/"><img src="../images/PDF.png" width="30" height ="10"></a>
+<a href = "javascript:unhide('Yamamoto-2025-bias-3dd4');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "Yamamoto-2025-bias-3dd4" class="hidden">
+<pre style="text-align: left">
+@inproceedings{Yamamoto-2025-bias-3dd4,
+	author = {Taisei Yamamoto, Ryoma Kumon, Danushka Bollegala and Hitomi Yanaka},
+	title = {Bias Mitigation or Cultural Commonsense? Evaluating LLMs with a Japanese Dataset},
+	booktitle = {Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP-2025), Suzhou, China, November, 2025},
+	year = {2025},
+	url = {https://aclanthology.org/2025.emnlp-main.874/}
+}
+</pre></div></li>
+
+<li>Gaifan Zhang, Yi Zhou and Danushka Bollegala:
+<strong>Annotating Training Data for Conditional Semantic Textual Similarity Measurement using Large Language Models</strong>,
+Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP-2025), Suzhou, China, November, 2025.
+<a href="https://aclanthology.org/2025.emnlp-main.1373/"><img src="../images/PDF.png" width="30" height ="10"></a>
+<a href = "javascript:unhide('Zhang-2025-annotati-fac9');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "Zhang-2025-annotati-fac9" class="hidden">
+<pre style="text-align: left">
+@inproceedings{Zhang-2025-annotati-fac9,
+	author = {Gaifan Zhang, Yi Zhou and Danushka Bollegala},
+	title = {Annotating Training Data for Conditional Semantic Textual Similarity Measurement using Large Language Models},
+	booktitle = {Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP-2025), Suzhou, China, November, 2025},
+	year = {2025},
+	url = {https://aclanthology.org/2025.emnlp-main.1373/}
+}
+</pre></div></li>
+
+<li>Taichi Aida and Danushka Bollegala:
+<strong>SCDTour: Embedding Axis Ordering and Merging for Interpretable Semantic Change Detection</strong>,
+Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP-2025), Suzhou, China, November, 2025.
+<a href="https://aclanthology.org/2025.findings-emnlp.797/"><img src="../images/PDF.png" width="30" height ="10"></a>
+<a href = "javascript:unhide('Aida-2025-scdtour-1157');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "Aida-2025-scdtour-1157" class="hidden">
+<pre style="text-align: left">
+@inproceedings{Aida-2025-scdtour-1157,
+	author = {Taichi Aida and Danushka Bollegala},
+	title = {SCDTour: Embedding Axis Ordering and Merging for Interpretable Semantic Change Detection},
+	booktitle = {Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP-2025), Suzhou, China, November, 2025},
+	year = {2025},
+	url = {https://aclanthology.org/2025.findings-emnlp.797/}
+}
+</pre></div></li>
+
+<li>Aseel S. Abuzour, Samantha A. Wilson, Alan A. Woodall, Frances S. Mair, Asra Aslam, Andrew Clegg, Eduard Shantsila, Mark Gabbay, Michael Abaho, Danushka Bollegala, Harriet Cant, Alan Griffiths, Layik Hama, Gary Leeming, Emma Lo, Simon Maskell, Maurice O'Connell, Olusegun Popoola, Sam Relton, Roy A. Ruddle, Pieta Schofield, Matthew Sperrin, Tjeerd Van Staa, Iain Buchan, Lauren E. Walker:
+<strong>Developing an artificial intelligence-assisted tool that identifies patients with multimorbidity and complex polypharmacy to improve the process of medication reviews: a qualitative exploration of user requirements</strong>,
+Journal of Medical Internet Research (JMIR), August, 2025.
+<a href = "javascript:unhide('Abuzour-2025-developi-7c10');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "Abuzour-2025-developi-7c10" class="hidden">
+<pre style="text-align: left">
+@article{Abuzour-2025-developi-7c10,
+	author = {Aseel S. Abuzour, Samantha A. Wilson, Alan A. Woodall, Frances S. Mair, Asra Aslam, Andrew Clegg, Eduard Shantsila, Mark Gabbay, Michael Abaho, Danushka Bollegala, Harriet Cant, Alan Griffiths, Layik Hama, Gary Leeming, Emma Lo, Simon Maskell, Maurice O'Connell, Olusegun Popoola, Sam Relton, Roy A. Ruddle, Pieta Schofield, Matthew Sperrin, Tjeerd Van Staa, Iain Buchan, Lauren E. Walker},
+	title = {Developing an artificial intelligence-assisted tool that identifies patients with multimorbidity and complex polypharmacy to improve the process of medication reviews: a qualitative exploration of user requirements},
+	journal = {Journal of Medical Internet Research (JMIR), August, 2025.},
+	year = {2025}
+}
+</pre></div></li>
+
+<li>Tianhui Zhang, Bei Peng and Danushka Bollegala:
+<strong>Evaluating the Evaluation of Diversity in Commonsense Generation</strong>,
+Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL-2025), Vienna, Austria, July, 2025.
+<a href="https://aclanthology.org/2025.acl-long.1181/"><img src="../images/PDF.png" width="30" height ="10"></a>
+<a href = "javascript:unhide('Zhang-2025-evaluati-9412');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "Zhang-2025-evaluati-9412" class="hidden">
+<pre style="text-align: left">
+@inproceedings{Zhang-2025-evaluati-9412,
+	author = {Tianhui Zhang, Bei Peng and Danushka Bollegala},
+	title = {Evaluating the Evaluation of Diversity in Commonsense Generation},
+	booktitle = {Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL-2025), Vienna, Austria, July, 2025},
+	year = {2025},
+	url = {https://aclanthology.org/2025.acl-long.1181/}
+}
+</pre></div></li>
+
+<li>Masahiro Kaneko, Danushka Bollegala and Timothy Baldwin:
+<strong>An Ethical Dataset from Real-World Interactions Between Users and Large Language Models</strong>,
+Proceedings of the 34th International Joint Conference on Artificial Intelligence (IJCAI-2025), AI and Social Good Track, Montreal, Canada, August, 2025.
+<a href="https://danushka.net/papers/IJCAI-2025.pdf"><img src="../images/PDF.png" width="30" height ="10"></a>
+<a href = "javascript:unhide('Kaneko-2025-an-b0e1');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "Kaneko-2025-an-b0e1" class="hidden">
+<pre style="text-align: left">
+@inproceedings{Kaneko-2025-an-b0e1,
+	author = {Masahiro Kaneko, Danushka Bollegala and Timothy Baldwin},
+	title = {An Ethical Dataset from Real-World Interactions Between Users and Large Language Models},
+	booktitle = {Proceedings of the 34th International Joint Conference on Artificial Intelligence (IJCAI-2025), AI and Social Good Track, Montreal, Canada, August, 2025},
+	year = {2025},
+	url = {https://danushka.net/papers/IJCAI-2025.pdf}
+}
+</pre></div></li>
+
+<li>Abuzour, Wilson, Woodall, Mair, Aslam, Clegg, Shantsila, Gabbay, Abaho, Bollegala, Cant, Griffiths, Hama, Leeming, Lo, Maskell, O'Connell, Popoola, Relton, Ruddle, Schofield, Sperrin, Van Staa, Buchan, Walker:
+<strong>User requirements to develop an artificial intelligence assisted tool that identifies patients with multimorbidity and complex polypharmacy to improve the process of medication reviews</strong>,
+Journal of Medical Internet Research, May, 2025.
+<a href = "javascript:unhide('Abuzour-2025-user-857a');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "Abuzour-2025-user-857a" class="hidden">
+<pre style="text-align: left">
+@article{Abuzour-2025-user-857a,
+	author = {Abuzour, Wilson, Woodall, Mair, Aslam, Clegg, Shantsila, Gabbay, Abaho, Bollegala, Cant, Griffiths, Hama, Leeming, Lo, Maskell, O'Connell, Popoola, Relton, Ruddle, Schofield, Sperrin, Van Staa, Buchan, Walker},
+	title = {User requirements to develop an artificial intelligence assisted tool that identifies patients with multimorbidity and complex polypharmacy to improve the process of medication reviews},
+	journal = {Journal of Medical Internet Research, May, 2025.},
+	year = {2025}
+}
+</pre></div></li>
+
+<li>Maurice M O’Connell, Michael Abaho, Aseel S Abuzour, Matin Ahmed, Saiqa Ahmed, Asra Aslam, Danushka Bollegala, Iain Buchan, Harriet Cant, Andrew Clegg, Mark Gabbay, Alan Griffiths, Layik Hama, Francine Jury, Gary Leeming, Emma Lo, Frances S Mair, Simon Maskell, Erin McCloskey, Olusegun Popoola, Samuel Relton, Roy A Ruddle, Pieta Schofield, Eduard Shantsila, Tjeerd Van Staa, Lauren E Walker, Samantha A Wilson, Alan A Woodall, Rachael Wright and Matthew Sperrin:
+<strong>Causal machine learning methods for dynamic and static treatment strategies deprescribing medications in a polypharmacy population using electronic health records.</strong>,
+46th Annual Conference of the International Society for Clinical Biostatistics (ISCB-2025), Basel, Switzerland, August, 2025.
+<a href="https://www.conftool.org/iscb2025/sessions.php"><img src="../images/PDF.png" width="30" height ="10"></a>
+<a href = "javascript:unhide('OConnell-2025-causal-25c9');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "OConnell-2025-causal-25c9" class="hidden">
+<pre style="text-align: left">
+@inproceedings{OConnell-2025-causal-25c9,
+	author = {Maurice M O’Connell, Michael Abaho, Aseel S Abuzour, Matin Ahmed, Saiqa Ahmed, Asra Aslam, Danushka Bollegala, Iain Buchan, Harriet Cant, Andrew Clegg, Mark Gabbay, Alan Griffiths, Layik Hama, Francine Jury, Gary Leeming, Emma Lo, Frances S Mair, Simon Maskell, Erin McCloskey, Olusegun Popoola, Samuel Relton, Roy A Ruddle, Pieta Schofield, Eduard Shantsila, Tjeerd Van Staa, Lauren E Walker, Samantha A Wilson, Alan A Woodall, Rachael Wright and Matthew Sperrin},
+	title = {Causal machine learning methods for dynamic and static treatment strategies deprescribing medications in a polypharmacy population using electronic health records.},
+	booktitle = {46th Annual Conference of the International Society for Clinical Biostatistics (ISCB-2025), Basel, Switzerland, August, 2025},
+	year = {2025},
+	url = {https://www.conftool.org/iscb2025/sessions.php}
+}
+</pre></div></li>
+
+<li>Junjie Chen, Xiangheng He, Yusuke Miyao and Danushka Bollegala:
+<strong>Improving Unsupervised Constituency Parsing via Maximizing Semantic Information</strong>,
+The Thirteenth International Conference on Learning Representations (ICLR-2025), Singapore, April, 2025.
+<a href="https://openreview.net/forum?id=qyU5s4fzLg"><img src="../images/PDF.png" width="30" height ="10"></a>
+<a href = "javascript:unhide('Chen-2025-improvin-aa9e');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "Chen-2025-improvin-aa9e" class="hidden">
+<pre style="text-align: left">
+@inproceedings{Chen-2025-improvin-aa9e,
+	author = {Junjie Chen, Xiangheng He, Yusuke Miyao and Danushka Bollegala},
+	title = {Improving Unsupervised Constituency Parsing via Maximizing Semantic Information},
+	booktitle = {The Thirteenth International Conference on Learning Representations (ICLR-2025), Singapore, April, 2025},
+	year = {2025},
+	url = {https://openreview.net/forum?id=qyU5s4fzLg}
+}
+</pre></div></li>
+
+<li>Gaifan Zhang, Yi Zhou and Danushka Bollegala:
+<strong>CASE -- Condition-Aware Sentence Embeddings for Conditional Semantic Textual Similarity Measurement</strong>,
+arXiv, March, 2025.
+<a href="https://arxiv.org/abs/2503.17279"><img src="../images/PDF.png" width="30" height ="10"></a>
+<a href = "javascript:unhide('Zhang-2025-case-39d6');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "Zhang-2025-case-39d6" class="hidden">
+<pre style="text-align: left">
+@inproceedings{Zhang-2025-case-39d6,
+	author = {Gaifan Zhang, Yi Zhou and Danushka Bollegala},
+	title = {CASE -- Condition-Aware Sentence Embeddings for Conditional Semantic Textual Similarity Measurement},
+	booktitle = {arXiv, March, 2025},
+	year = {2025},
+	url = {https://arxiv.org/abs/2503.17279}
+}
+</pre></div></li>
+
+<li>Tianhui Zhang, Yi Zhou and Danushka Bollegala:
+<strong>Evaluating the Effect of Retrieval Augmentation on Social Biases</strong>,
+arXiv, February, 2025.
+<a href="https://arxiv.org/abs/2502.17611"><img src="../images/PDF.png" width="30" height ="10"></a>
+<a href = "javascript:unhide('Zhang-2025-evaluati-15c1');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "Zhang-2025-evaluati-15c1" class="hidden">
+<pre style="text-align: left">
+@inproceedings{Zhang-2025-evaluati-15c1,
+	author = {Tianhui Zhang, Yi Zhou and Danushka Bollegala},
+	title = {Evaluating the Effect of Retrieval Augmentation on Social Biases},
+	booktitle = {arXiv, February, 2025},
+	year = {2025},
+	url = {https://arxiv.org/abs/2502.17611}
+}
+</pre></div></li>
+
+	<h2>2024</h2>
+
+<li>Taichi Aida and Danushka Bollegala:
+<strong>Investigating the Contextualised Word Embedding Dimensions Specified for Contextual and Temporal Semantic Changes</strong>,
+The 31st International Conference on Computational Linguistics (COLING 2025), Abu Dhabi, UAE, January 19 – 24, 2025.
+<a href="https://aclanthology.org/2025.coling-main.95/"><img src="../images/PDF.png" width="30" height ="10"></a>
+<a href = "javascript:unhide('Aida-2024-investig-d3c5');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "Aida-2024-investig-d3c5" class="hidden">
+<pre style="text-align: left">
+@inproceedings{Aida-2024-investig-d3c5,
+	author = {Taichi Aida and Danushka Bollegala},
+	title = {Investigating the Contextualised Word Embedding Dimensions Specified for Contextual and Temporal Semantic Changes},
+	booktitle = {The 31st International Conference on Computational Linguistics (COLING 2025), Abu Dhabi, UAE, January 19 – 24, 2025},
+	year = {2024},
+	url = {https://aclanthology.org/2025.coling-main.95/}
+}
+</pre></div></li>
+
+<li>Masahiro Kaneko, Danushka Bollegala and Timothy Baldwin:
+<strong>The Gaps between Fine Tuning and In-context Learning in Bias Evaluation and Debiasing</strong>,
+The 31st International Conference on Computational Linguistics (COLING 2025), Abu Dhabi, UAE, January 19 – 24, 2025.
+<a href="https://aclanthology.org/2025.coling-main.187/"><img src="../images/PDF.png" width="30" height ="10"></a>
+<a href = "javascript:unhide('Kaneko-2024-the-6593');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "Kaneko-2024-the-6593" class="hidden">
+<pre style="text-align: left">
+@inproceedings{Kaneko-2024-the-6593,
+	author = {Masahiro Kaneko, Danushka Bollegala and Timothy Baldwin},
+	title = {The Gaps between Fine Tuning and In-context Learning in Bias Evaluation and Debiasing},
+	booktitle = {The 31st International Conference on Computational Linguistics (COLING 2025), Abu Dhabi, UAE, January 19 – 24, 2025},
+	year = {2024},
+	url = {https://aclanthology.org/2025.coling-main.187/}
+}
+</pre></div></li>
+
+<li>Danushka Bollegala, Shuichi Otake, Tomoya Machide and Ken-ichi Kawarabayashi:
+<strong>Metric Differential Privacy Mechanism for Sentence Embeddings</strong>,
+ACM Transactions on Privacy and Security (ACM TOPS), November, 2024.
+<a href="https://dl.acm.org/doi/10.1145/3708321"><img src="../images/PDF.png" width="30" height ="10"></a>
+<a href = "javascript:unhide('Bollegala-2024-metric-c589');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "Bollegala-2024-metric-c589" class="hidden">
+<pre style="text-align: left">
+@article{Bollegala-2024-metric-c589,
+	author = {Danushka Bollegala, Shuichi Otake, Tomoya Machide and Ken-ichi Kawarabayashi},
+	title = {Metric Differential Privacy Mechanism for Sentence Embeddings},
+	journal = {ACM Transactions on Privacy and Security (ACM TOPS), November, 2024. URL},
+	year = {2024},
+	url = {https://dl.acm.org/doi/10.1145/3708321}
+}
+</pre></div></li>
+
+<li>Tianhui Zhang, Bei Peng and Danushka Bollegala:
+<strong>Improving Diversity of Commonsense Generation by Large Language Models via In-Context Learning</strong>,
+Findings of the Conference on Empirical Methods in Natural Language Processing (EMNLP-2024), Florida, USA, November, 2024.
+<a href="https://aclanthology.org/2024.findings-emnlp.540/"><img src="../images/PDF.png" width="30" height ="10"></a>
+<a href = "javascript:unhide('Zhang-2024-improvin-bc74');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "Zhang-2024-improvin-bc74" class="hidden">
+<pre style="text-align: left">
+@inproceedings{Zhang-2024-improvin-bc74,
+	author = {Tianhui Zhang, Bei Peng and Danushka Bollegala},
+	title = {Improving Diversity of Commonsense Generation by Large Language Models via In-Context Learning},
+	booktitle = {Findings of the Conference on Empirical Methods in Natural Language Processing (EMNLP-2024), Florida, USA, November, 2024},
+	year = {2024},
+	url = {https://aclanthology.org/2024.findings-emnlp.540/}
+}
+</pre></div></li>
+
+<li>Yi Zhou, Jose Camacho Collados, and Danushka Bollegala:
+<strong>Evaluating Short-Term Temporal Fluctuations of Social Biases in Social Media Data and Masked Language Models</strong>,
+Proceedings of the Empirical Methods in Natural Language Processing (EMNLP-2024), November, 2024.
+<a href="https://aclanthology.org/2024.emnlp-main.1098/"><img src="../images/PDF.png" width="30" height ="10"></a>
+<a href = "javascript:unhide('Zhou-2024-evaluati-6566');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "Zhou-2024-evaluati-6566" class="hidden">
+<pre style="text-align: left">
+@inproceedings{Zhou-2024-evaluati-6566,
+	author = {Yi Zhou, Jose Camacho Collados, and Danushka Bollegala},
+	title = {Evaluating Short-Term Temporal Fluctuations of Social Biases in Social Media Data and Masked Language Models},
+	booktitle = {Proceedings of the Empirical Methods in Natural Language Processing (EMNLP-2024), November, 2024},
+	year = {2024},
+	url = {https://aclanthology.org/2024.emnlp-main.1098/}
+}
+</pre></div></li>
+
+<li>Yang Zhao, Danushka Bollegala, Shunsuke Hirose, Yingzi Jin and Tomotake Kozu:
+<strong>Community knowledge graph abstraction for enhanced link prediction: A study on PubMed knowledge graph</strong>,
+Journal of Biomedical Informatics, Volume 158, October, 2024.
+<a href="https://doi.org/10.1016/j.jbi.2024.104725"><img src="../images/PDF.png" width="30" height ="10"></a>
+<a href = "javascript:unhide('Zhao-2024-communit-f98c');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "Zhao-2024-communit-f98c" class="hidden">
+<pre style="text-align: left">
+@article{Zhao-2024-communit-f98c,
+	author = {Yang Zhao, Danushka Bollegala, Shunsuke Hirose, Yingzi Jin and Tomotake Kozu},
+	title = {Community knowledge graph abstraction for enhanced link prediction: A study on PubMed knowledge graph},
+	journal = {Journal of Biomedical Informatics, Volume 158, October, 2024. URL},
+	year = {2024},
+	url = {https://doi.org/10.1016/j.jbi.2024.104725}
+}
+</pre></div></li>
+
+<li>Taichi Aida and Danushka Bollegala:
+<strong>A Semantic Distance Metric Learning approach for Lexical Semantic Change Detection</strong>,
+Findings of the Annual Conference of the 62nd Annual Meeting of the Association for Computational Linguistics (ACL-2024), Bangkok, Thailand, August, 2024.
+<a href="https://aclanthology.org/2024.findings-acl.451/"><img src="../images/PDF.png" width="30" height ="10"></a>
+<a href = "javascript:unhide('Aida-2024-a-aee9');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "Aida-2024-a-aee9" class="hidden">
+<pre style="text-align: left">
+@inproceedings{Aida-2024-a-aee9,
+	author = {Taichi Aida and Danushka Bollegala},
+	title = {A Semantic Distance Metric Learning approach for Lexical Semantic Change Detection},
+	booktitle = {Findings of the Annual Conference of the 62nd Annual Meeting of the Association for Computational Linguistics (ACL-2024), Bangkok, Thailand, August, 2024},
+	year = {2024},
+	url = {https://aclanthology.org/2024.findings-acl.451/}
+}
+</pre></div></li>
+
+<li>Junjie Chen, Xiangheng He, Danushka Bollegala and Yusuke Miyao:
+<strong>Constituents are Frequent Word Sequences among Sentences with Equivalent Predicate-Argument Structures: Unsupervised Constituency Parsing by Span Matching</strong>,
+Findings of the Annual Conference of the 62nd Annual Meeting of the Association for Computational Linguistics (ACL-2024), Bangkok, Thailand, August, 2024.
+<a href="https://aclanthology.org/2024.findings-acl.225/"><img src="../images/PDF.png" width="30" height ="10"></a>
+<a href = "javascript:unhide('Chen-2024-constitu-4a95');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "Chen-2024-constitu-4a95" class="hidden">
+<pre style="text-align: left">
+@inproceedings{Chen-2024-constitu-4a95,
+	author = {Junjie Chen, Xiangheng He, Danushka Bollegala and Yusuke Miyao},
+	title = {Constituents are Frequent Word Sequences among Sentences with Equivalent Predicate-Argument Structures: Unsupervised Constituency Parsing by Span Matching},
+	booktitle = {Findings of the Annual Conference of the 62nd Annual Meeting of the Association for Computational Linguistics (ACL-2024), Bangkok, Thailand, August, 2024},
+	year = {2024},
+	url = {https://aclanthology.org/2024.findings-acl.225/}
+}
+</pre></div></li>
+
+<li>Micheal Abaho, Danushka Bollegala, Gary Leeming, Dan W Joyce, Lauren Walker and Iain Buchan:
+<strong>Improving Pre-trained Language Model Sensitivity via Mask Specific losses: A case study on Biomedical NER</strong>,
+Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL-2024), Mexico City, Mexico, June 16-21, 2024.
+<a href="https://aclanthology.org/2024.naacl-long.280/"><img src="../images/PDF.png" width="30" height ="10"></a>
+<a href = "javascript:unhide('Abaho-2024-improvin-5be4');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "Abaho-2024-improvin-5be4" class="hidden">
+<pre style="text-align: left">
+@inproceedings{Abaho-2024-improvin-5be4,
+	author = {Micheal Abaho, Danushka Bollegala, Gary Leeming, Dan W Joyce, Lauren Walker and Iain Buchan},
+	title = {Improving Pre-trained Language Model Sensitivity via Mask Specific losses: A case study on Biomedical NER},
+	booktitle = {Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL-2024), Mexico City, Mexico, June 16-21, 2024},
+	year = {2024},
+	url = {https://aclanthology.org/2024.naacl-long.280/}
+}
+</pre></div></li>
+
+<li>Masahiro Kaneko, Danushka Bollegala and Timothy Baldwin:
+<strong>Eagle: Ethical Dataset Given from Real Interactions</strong>,
+arXiv pre-print URL.
+<a href="https://arxiv.org/abs/2402.14258"><img src="../images/PDF.png" width="30" height ="10"></a>
+<a href = "javascript:unhide('Kaneko-2024-eagle-86a7');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "Kaneko-2024-eagle-86a7" class="hidden">
+<pre style="text-align: left">
+@inproceedings{Kaneko-2024-eagle-86a7,
+	author = {Masahiro Kaneko, Danushka Bollegala and Timothy Baldwin},
+	title = {Eagle: Ethical Dataset Given from Real Interactions},
+	booktitle = {arXiv pre-print URL},
+	year = {2024},
+	url = {https://arxiv.org/abs/2402.14258}
+}
+</pre></div></li>
+
+<li>Gaifan Zhan, Yi Zhou and Danushka Bollegala:
+<strong>Evaluating Unsupervised Dimensionality Reduction Methods for Pretrained Sentence Embeddings</strong>,
+Proceedings of the Joint Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024) URL.
+<a href="https://aclanthology.org/2024.lrec-main.579/"><img src="../images/PDF.png" width="30" height ="10"></a>
+<a href = "javascript:unhide('Zhan-2024-evaluati-1ee1');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "Zhan-2024-evaluati-1ee1" class="hidden">
+<pre style="text-align: left">
+@inproceedings{Zhan-2024-evaluati-1ee1,
+	author = {Gaifan Zhan, Yi Zhou and Danushka Bollegala},
+	title = {Evaluating Unsupervised Dimensionality Reduction Methods for Pretrained Sentence Embeddings},
+	booktitle = {Proceedings of the Joint Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024) URL},
+	year = {2024},
+	url = {https://aclanthology.org/2024.lrec-main.579/}
+}
+</pre></div></li>
+
+<li>Daisuke Oba, Masahiro Kaneko and Danushka Bollegala:
+<strong>In-Contextual Gender Bias Suppression for Large Language Models</strong>,
+Proceedings of the 18th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2024) URL.
+<a href="https://aclanthology.org/2024.findings-eacl.121/"><img src="../images/PDF.png" width="30" height ="10"></a>
+<a href = "javascript:unhide('Oba-2024-incontex-72cc');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "Oba-2024-incontex-72cc" class="hidden">
+<pre style="text-align: left">
+@inproceedings{Oba-2024-incontex-72cc,
+	author = {Daisuke Oba, Masahiro Kaneko and Danushka Bollegala},
+	title = {In-Contextual Gender Bias Suppression for Large Language Models},
+	booktitle = {Proceedings of the 18th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2024) URL},
+	year = {2024},
+	url = {https://aclanthology.org/2024.findings-eacl.121/}
+}
+</pre></div></li>
+
+<li>Masahiro Kaneko, Danushka Bollegala and Timothy Baldwin:
+<strong>The Gaps between Pre-train and Downstream Settings in Bias Evaluation and Debiasing</strong>,
+arXiv, January, 2024.
+<a href="https://arxiv.org/abs/2401.08511"><img src="../images/PDF.png" width="30" height ="10"></a>
+<a href = "javascript:unhide('Kaneko-2024-the-8054');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "Kaneko-2024-the-8054" class="hidden">
+<pre style="text-align: left">
+@inproceedings{Kaneko-2024-the-8054,
+	author = {Masahiro Kaneko, Danushka Bollegala and Timothy Baldwin},
+	title = {The Gaps between Pre-train and Downstream Settings in Bias Evaluation and Debiasing},
+	booktitle = {arXiv, January, 2024},
+	year = {2024},
+	url = {https://arxiv.org/abs/2401.08511}
+}
+</pre></div></li>
+
+<li>Procheta Sen, Tulika Saha and Danushka Bollegala:
+<strong>Report on the 1st Symposium on NLP for Social Good (NSG 2023)</strong>,
+Event Report at ACM SIGIR Forum, January, 2024.
+<a href="https://sigir.org/wp-content/uploads/2023/12/p07.pdf"><img src="../images/PDF.png" width="30" height ="10"></a>
+<a href = "javascript:unhide('Sen-2024-report-379e');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "Sen-2024-report-379e" class="hidden">
+<pre style="text-align: left">
+@inproceedings{Sen-2024-report-379e,
+	author = {Procheta Sen, Tulika Saha and Danushka Bollegala},
+	title = {Report on the 1st Symposium on NLP for Social Good (NSG 2023)},
+	booktitle = {Event Report at ACM SIGIR Forum, January, 2024},
+	year = {2024},
+	url = {https://sigir.org/wp-content/uploads/2023/12/p07.pdf}
+}
+</pre></div></li>
+
+	<h2>2023</h2>
+
+<li>Yi Zhou, Jose Camacho Collados, and Danushka Bollegala:
+<strong>A Predictive Factor Analysis of Social Biases and Task-Performance in Pre-trained Masked Language Models</strong>,
+Proceedings of the Empirical Methods in Natural Language Processing (EMNLP), December, 2023.
+<a href="https://aclanthology.org/2023.emnlp-main.683/"><img src="../images/PDF.png" width="30" height ="10"></a>
+<a href = "javascript:unhide('Zhou-2023-a-2607');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "Zhou-2023-a-2607" class="hidden">
+<pre style="text-align: left">
+@inproceedings{Zhou-2023-a-2607,
+	author = {Yi Zhou, Jose Camacho Collados, and Danushka Bollegala},
+	title = {A Predictive Factor Analysis of Social Biases and Task-Performance in Pre-trained Masked Language Models},
+	booktitle = {Proceedings of the Empirical Methods in Natural Language Processing (EMNLP), December, 2023},
+	year = {2023},
+	url = {https://aclanthology.org/2023.emnlp-main.683/}
+}
+</pre></div></li>
+
+<li>Taichi Aida and Danushka Bollegala:
+<strong>Swap and Predict -- Unsupervised Lexical Semantic Change Detection across Corpora by Context Swapping</strong>,
+Proceedings of the Findings of Empirical Methods in Natural Language Processing (Findings of EMNLP), December, 2023.
+<a href="https://aclanthology.org/2023.findings-emnlp.520/"><img src="../images/PDF.png" width="30" height ="10"></a>
+<a href = "javascript:unhide('Aida-2023-swap-7dee');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "Aida-2023-swap-7dee" class="hidden">
+<pre style="text-align: left">
+@inproceedings{Aida-2023-swap-7dee,
+	author = {Taichi Aida and Danushka Bollegala},
+	title = {Swap and Predict -- Unsupervised Lexical Semantic Change Detection across Corpora by Context Swapping},
+	booktitle = {Proceedings of the Findings of Empirical Methods in Natural Language Processing (Findings of EMNLP), December, 2023},
+	year = {2023},
+	url = {https://aclanthology.org/2023.findings-emnlp.520/}
+}
+</pre></div></li>
+
+<li>Xiaohang Tang, Yi Zhou, Taichi Aida, Procheta Sen and Danushka Bollegala:
+<strong>Can Word Sense Distribution Detect Semantic Changes of Words</strong>,
+Proceedings of the Findings Empirical Methods in Natural Language Processing (Findings of EMNLP), December, 2023.
+<a href="https://aclanthology.org/2023.findings-emnlp.231/"><img src="../images/PDF.png" width="30" height ="10"></a>
+<a href = "javascript:unhide('Tang-2023-can-09d2');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "Tang-2023-can-09d2" class="hidden">
+<pre style="text-align: left">
+@inproceedings{Tang-2023-can-09d2,
+	author = {Xiaohang Tang, Yi Zhou, Taichi Aida, Procheta Sen and Danushka Bollegala},
+	title = {Can Word Sense Distribution Detect Semantic Changes of Words},
+	booktitle = {Proceedings of the Findings Empirical Methods in Natural Language Processing (Findings of EMNLP), December, 2023},
+	year = {2023},
+	url = {https://aclanthology.org/2023.findings-emnlp.231/}
+}
+</pre></div></li>
+
+<li>Daisuke Oba, Masahiro Kaneko and Danushka Bollegala:
+<strong>In-Contextual Bias Suppression for Large Language Models</strong>,
+arXiv, September, 2023.
+<a href="https://arxiv.org/abs/2309.07251"><img src="../images/PDF.png" width="30" height ="10"></a>
+<a href = "javascript:unhide('Oba-2023-incontex-18eb');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "Oba-2023-incontex-18eb" class="hidden">
+<pre style="text-align: left">
+@inproceedings{Oba-2023-incontex-18eb,
+	author = {Daisuke Oba, Masahiro Kaneko and Danushka Bollegala},
+	title = {In-Contextual Bias Suppression for Large Language Models},
+	booktitle = {arXiv, September, 2023},
+	year = {2023},
+	url = {https://arxiv.org/abs/2309.07251}
+}
+</pre></div></li>
+
+<li>Danushka Bollegala, Shuichi Otake, Tomoya Machide and Ken-ichi Kawarabayashi:
+<strong>A Neighbourhood-Aware Differential Privacy Mechanism for Static Word Embeddings</strong>,
+Proceedings of the 13th International Joint Conference on Natural Language Processing and the 3rd Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics (IJCNLP-AACL), November, 2023.
+<a href="https://aclanthology.org/2023.findings-ijcnlp.7/"><img src="../images/PDF.png" width="30" height ="10"></a>
+<a href = "javascript:unhide('Bollegala-2023-a-bb1a');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "Bollegala-2023-a-bb1a" class="hidden">
+<pre style="text-align: left">
+@inproceedings{Bollegala-2023-a-bb1a,
+	author = {Danushka Bollegala, Shuichi Otake, Tomoya Machide and Ken-ichi Kawarabayashi},
+	title = {A Neighbourhood-Aware Differential Privacy Mechanism for Static Word Embeddings},
+	booktitle = {Proceedings of the 13th International Joint Conference on Natural Language Processing and the 3rd Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics (IJCNLP-AACL), November, 2023},
+	year = {2023},
+	url = {https://aclanthology.org/2023.findings-ijcnlp.7/}
+}
+</pre></div></li>
+
+<li>Masahiro Kaneko, Danushka Bollegala and Naoaki Okazaki:
+<strong>The Impact of Debiasing on the Performance of Language Models in Downstream Tasks is Underestimated</strong>,
+Proceedings of the 13th International Joint Conference on Natural Language Processing and the 3rd Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics (IJCNLP-AACL), November, 2023.
+<a href="https://aclanthology.org/2023.ijcnlp-short.4/"><img src="../images/PDF.png" width="30" height ="10"></a>
+<a href = "javascript:unhide('Kaneko-2023-the-158f');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "Kaneko-2023-the-158f" class="hidden">
+<pre style="text-align: left">
+@inproceedings{Kaneko-2023-the-158f,
+	author = {Masahiro Kaneko, Danushka Bollegala and Naoaki Okazaki},
+	title = {The Impact of Debiasing on the Performance of Language Models in Downstream Tasks is Underestimated},
+	booktitle = {Proceedings of the 13th International Joint Conference on Natural Language Processing and the 3rd Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics (IJCNLP-AACL), November, 2023},
+	year = {2023},
+	url = {https://aclanthology.org/2023.ijcnlp-short.4/}
+}
+</pre></div></li>
+
+<li>Tianhui Zhang, Danushka Bollegala and Bei Peng:
+<strong>Learning to Predict Concept Ordering for Common Sense Generation</strong>,
+Proceedings of the 13th International Joint Conference on Natural Language Processing and the 3rd Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics (IJCNLP-AACL), November, 2023.
+<a href="https://aclanthology.org/2023.ijcnlp-short.2/"><img src="../images/PDF.png" width="30" height ="10"></a>
+<a href = "javascript:unhide('Zhang-2023-learning-f5ad');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "Zhang-2023-learning-f5ad" class="hidden">
+<pre style="text-align: left">
+@inproceedings{Zhang-2023-learning-f5ad,
+	author = {Tianhui Zhang, Danushka Bollegala and Bei Peng},
+	title = {Learning to Predict Concept Ordering for Common Sense Generation},
+	booktitle = {Proceedings of the 13th International Joint Conference on Natural Language Processing and the 3rd Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics (IJCNLP-AACL), November, 2023},
+	year = {2023},
+	url = {https://aclanthology.org/2023.ijcnlp-short.2/}
+}
+</pre></div></li>
+
+<li>Guanqun Cao, Jiaqi Jiang, Danushka Bollegala, and Shan Luo:
+<strong>Learn from Incomplete Tactile Data: Tactile Representation Learning with Masked Autoencoders</strong>,
+Proceedings of the 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), October, 2023..
+<a href = "javascript:unhide('Cao-2023-learn-d726');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "Cao-2023-learn-d726" class="hidden">
+<pre style="text-align: left">
+@inproceedings{Cao-2023-learn-d726,
+	author = {Guanqun Cao, Jiaqi Jiang, Danushka Bollegala, and Shan Luo},
+	title = {Learn from Incomplete Tactile Data: Tactile Representation Learning with Masked Autoencoders},
+	booktitle = {Proceedings of the 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), October, 2023.},
+	year = {2023}
+}
+</pre></div></li>
+
+<li>Samantha Durdy, Michael W. Gaultois, Vladimir Gusev, Danushka Bollegala and Matthew J. Rosseinsky:
+<strong>Metrics for quantifying isotropy in high dimensional unsupervised clustering tasks in a materials context</strong>,
+arXiv (per-print), May, 2023.
+<a href="https://arxiv.org/abs/2305.16372"><img src="../images/PDF.png" width="30" height ="10"></a>
+<a href = "javascript:unhide('Durdy-2023-metrics-99b0');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "Durdy-2023-metrics-99b0" class="hidden">
+<pre style="text-align: left">
+@inproceedings{Durdy-2023-metrics-99b0,
+	author = {Samantha Durdy, Michael W. Gaultois, Vladimir Gusev, Danushka Bollegala and Matthew J. Rosseinsky},
+	title = {Metrics for quantifying isotropy in high dimensional unsupervised clustering tasks in a materials context},
+	booktitle = {arXiv (per-print), May, 2023},
+	year = {2023},
+	url = {https://arxiv.org/abs/2305.16372}
+}
+</pre></div></li>
+
+<li>Haochen Luo, Yi Zhou and Danushka Bollegala:
+<strong>Together We Make Sense--Learning Meta-Sense Embeddings</strong>,
+Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Findings of ACL 2023), Toronto, Canada, July, 2023.
+<a href="https://aclanthology.org/2023.findings-acl.165/"><img src="../images/PDF.png" width="30" height ="10"></a>
+<a href = "javascript:unhide('Luo-2023-together-ac10');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "Luo-2023-together-ac10" class="hidden">
+<pre style="text-align: left">
+@inproceedings{Luo-2023-together-ac10,
+	author = {Haochen Luo, Yi Zhou and Danushka Bollegala},
+	title = {Together We Make Sense--Learning Meta-Sense Embeddings},
+	booktitle = {Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Findings of ACL 2023), Toronto, Canada, July, 2023},
+	year = {2023},
+	url = {https://aclanthology.org/2023.findings-acl.165/}
+}
+</pre></div></li>
+
+<li>Taichi Aida and Danushka Bollegala:
+<strong>Unsupervised Semantic Variation Prediction using the Distribution of Sibling Embeddings</strong>,
+Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Findings of ACL 2023), Toronto, Canada, July, 2023.
+<a href="https://aclanthology.org/2023.findings-acl.429/"><img src="../images/PDF.png" width="30" height ="10"></a>
+<a href = "javascript:unhide('Aida-2023-unsuperv-f88e');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "Aida-2023-unsuperv-f88e" class="hidden">
+<pre style="text-align: left">
+@inproceedings{Aida-2023-unsuperv-f88e,
+	author = {Taichi Aida and Danushka Bollegala},
+	title = {Unsupervised Semantic Variation Prediction using the Distribution of Sibling Embeddings},
+	booktitle = {Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Findings of ACL 2023), Toronto, Canada, July, 2023},
+	year = {2023},
+	url = {https://aclanthology.org/2023.findings-acl.429/}
+}
+</pre></div></li>
+
+<li>Saeth Wannasuphoprasit, Yi Zhou and Danushka Bollegala:
+<strong>Solving Cosine Similarity Underestimation between High Frequency Words by l2 Norm Discounting</strong>,
+Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Findings of ACL 2023 Short Papers), Toronto, Canada, July, 2023.
+<a href="https://aclanthology.org/2023.findings-acl.550/"><img src="../images/PDF.png" width="30" height ="10"></a>
+<a href = "javascript:unhide('Wannasuphoprasit-2023-solving-3e29');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "Wannasuphoprasit-2023-solving-3e29" class="hidden">
+<pre style="text-align: left">
+@inproceedings{Wannasuphoprasit-2023-solving-3e29,
+	author = {Saeth Wannasuphoprasit, Yi Zhou and Danushka Bollegala},
+	title = {Solving Cosine Similarity Underestimation between High Frequency Words by l2 Norm Discounting},
+	booktitle = {Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Findings of ACL 2023 Short Papers), Toronto, Canada, July, 2023},
+	year = {2023},
+	url = {https://aclanthology.org/2023.findings-acl.550/}
+}
+</pre></div></li>
+
+<li>Yoichi Ishibashi, Danushka Bollegala, Katsuhito Sudoh and Satoshi Nakamura:
+<strong>Evaluating the Robustness of Discrete Prompts</strong>,
+Proceedings of the 17th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2023), Croatia, May, 2023.
+<a href="https://aclanthology.org/2023.eacl-main.174/"><img src="../images/PDF.png" width="30" height ="10"></a>
+<a href = "javascript:unhide('Ishibashi-2023-evaluati-11cf');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "Ishibashi-2023-evaluati-11cf" class="hidden">
+<pre style="text-align: left">
+@inproceedings{Ishibashi-2023-evaluati-11cf,
+	author = {Yoichi Ishibashi, Danushka Bollegala, Katsuhito Sudoh and Satoshi Nakamura},
+	title = {Evaluating the Robustness of Discrete Prompts},
+	booktitle = {Proceedings of the 17th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2023), Croatia, May, 2023},
+	year = {2023},
+	url = {https://aclanthology.org/2023.eacl-main.174/}
+}
+</pre></div></li>
+
+<li>Masahiro Kaneko, Danushka Bollegala and Naoaki Okazaki:
+<strong>Comparing Intrinsic Gender Bias Evaluation Measures without using Human Annotated Examples</strong>,
+Proceedings of the 17th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2023), Croatia, May, 2023.
+<a href="https://aclanthology.org/2023.eacl-main.209/"><img src="../images/PDF.png" width="30" height ="10"></a>
+<a href = "javascript:unhide('Kaneko-2023-comparin-2c3f');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "Kaneko-2023-comparin-2c3f" class="hidden">
+<pre style="text-align: left">
+@inproceedings{Kaneko-2023-comparin-2c3f,
+	author = {Masahiro Kaneko, Danushka Bollegala and Naoaki Okazaki},
+	title = {Comparing Intrinsic Gender Bias Evaluation Measures without using Human Annotated Examples},
+	booktitle = {Proceedings of the 17th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2023), Croatia, May, 2023},
+	year = {2023},
+	url = {https://aclanthology.org/2023.eacl-main.209/}
+}
+</pre></div></li>
+
+<li>Guanqun Cao, Jiaqi Jiang, Ningtao Mao, Danushka Bollegala, Min Li, and Shan Luo:
+<strong>Vis2Hap: Vision-based Haptic Rendering by Cross-modal Generation</strong>,
+Proceedings of the IEEE International Conference on Robotics and Automation (ICRA 2023), UK, May, 2023..
+<a href="https://arxiv.org/abs/2301.06826"><img src="../images/PDF.png" width="30" height ="10"></a>
+<a href = "javascript:unhide('Cao-2023-vis2hap-2294');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "Cao-2023-vis2hap-2294" class="hidden">
+<pre style="text-align: left">
+@inproceedings{Cao-2023-vis2hap-2294,
+	author = {Guanqun Cao, Jiaqi Jiang, Ningtao Mao, Danushka Bollegala, Min Li, and Shan Luo},
+	title = {Vis2Hap: Vision-based Haptic Rendering by Cross-modal Generation},
+	booktitle = {Proceedings of the IEEE International Conference on Robotics and Automation (ICRA 2023), UK, May, 2023.},
+	year = {2023},
+	url = {https://arxiv.org/abs/2301.06826}
+}
+</pre></div></li>
+
+
 	
 	<h2>2022</h2>
 	
+<li>Lauren E Walker, Aseel S Abuzour, Danushka Bollegala, Andrew Clegg, Mark Gabbay, Alan Griffiths, Cecil Kullu, Gary Leeming, Frances S Mair, Simon Maskell, Samuel Relton, Roy A Ruddle, Eduard Shantsila, Matthew Sperrin, Tjeerd Van Staa, Alan Woodall and Iain Buchan:
+<strong>The DynAIRx Project Protocol: Artificial Intelligence for dynamic prescribing optimisation and care integration in multimorbidity</strong>,
+Digital Health, 2022.
+<a href="https://journals.sagepub.com/doi/10.1177/26335565221145493"><img src="../images/PDF.png" width="30" height ="10"></a>
+<a href = "javascript:unhide('Walker-2022-the-9241');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "Walker-2022-the-9241" class="hidden">
+<pre style="text-align: left">
+@article{Walker-2022-the-9241,
+	author = {Lauren E Walker, Aseel S Abuzour, Danushka Bollegala, Andrew Clegg, Mark Gabbay, Alan Griffiths, Cecil Kullu, Gary Leeming, Frances S Mair, Simon Maskell, Samuel Relton, Roy A Ruddle, Eduard Shantsila, Matthew Sperrin, Tjeerd Van Staa, Alan Woodall and Iain Buchan},
+	title = {The DynAIRx Project Protocol: Artificial Intelligence for dynamic prescribing optimisation and care integration in multimorbidity},
+	journal = {Digital Health},
+	year = {2022},
+	url = {https://journals.sagepub.com/doi/10.1177/26335565221145493}
+}
+</pre></div></li>
+
+<li>Asahi Ushio and Danushka Bollegala:
+<strong>Zero-shot cross-lingual counterfactual detection via automatic extraction and prediction of clue phrases</strong>,
+Proc. of the EMNLP 2022 Workshop on Multilingual Repersentation Learning, Abu Dhabi, December, 2022. Digital Health, 2022.
+<a href="https://www.amazon.science/publications/zero-shot-cross-lingual-counterfactual-detection-via-automatic-extraction-and-prediction-of-clue-phrases"><img src="../images/PDF.png" width="30" height ="10"></a>
+<a href = "javascript:unhide('Ushio-2022-zeroshot-f5f6');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "Ushio-2022-zeroshot-f5f6" class="hidden">
+<pre style="text-align: left">
+@inproceedings{Ushio-2022-zeroshot-f5f6,
+	author = {Asahi Ushio and Danushka Bollegala},
+	title = {Zero-shot cross-lingual counterfactual detection via automatic extraction and prediction of clue phrases},
+	booktitle = {Proc. of the EMNLP 2022 Workshop on Multilingual Representation Learning, Abu Dhabi, December, 2022},
+	year = {2022},
+	url = {https://www.amazon.science/publications/zero-shot-cross-lingual-counterfactual-detection-via-automatic-extraction-and-prediction-of-clue-phrases}
+}
+</pre></div></li>
+
+<li>Katie Atkinson and Danushka Bollegala:
+<strong>AI for Patent Essentiality Review</strong>,
+Social Science Research Network (SSRN), November, 2022. Digital Health, 2022.
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4277799"><img src="../images/PDF.png" width="30" height ="10"></a>
+<a href = "javascript:unhide('Atkinson-2022-ai-72a7');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "Atkinson-2022-ai-72a7" class="hidden">
+<pre style="text-align: left">
+@inproceedings{Atkinson-2022-ai-72a7,
+	author = {Katie Atkinson and Danushka Bollegala},
+	title = {AI for Patent Essentiality Review},
+	booktitle = {Social Science Research Network (SSRN), November, 2022},
+	year = {2022},
+	url = {https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4277799}
+}
+</pre></div></li>
+
 	<li>Yi Zhou and Danushka Bollegala:
 <strong>On the Curious case of l2 norm of Sense Embeddings</strong>,
 Proc. of the 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP 2022), Abu Dabi, December, 2022.
@@ -2242,5 +3090,822 @@ vol = {25},
 no = {2}
 }</pre></div>
 </li>
+
+	<h2>2012</h2>
+
+<li>Francisco Tacoa, Danushka Bollegala, and Mitsuru Ishizuka:
+<strong>A Context Expansion Method for Supervised Word Sense Disambiguation</strong>,
+Sixth IEEE International Conference on Semantic Computing (ICSC 2012), poster paper, pp. 339-341, Palremo, Italy. (2012.9) DOI.
+<a href="https://ieeexplore.ieee.org/document/6337125"><img src="../images/PDF.png" width="30" height ="10"></a>
+<a href = "javascript:unhide('Tacoa-2012-a-9bcf');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "Tacoa-2012-a-9bcf" class="hidden">
+<pre style="text-align: left">
+@article{Tacoa-2012-a-9bcf,
+	author = {Francisco Tacoa, Danushka Bollegala, and Mitsuru Ishizuka},
+	title = {A Context Expansion Method for Supervised Word Sense Disambiguation},
+	journal = {Sixth IEEE International Conference on Semantic Computing (ICSC 2012), poster paper, pp. 339-341, Palremo, Italy. (2012.9) DOI},
+	year = {2012},
+	url = {https://ieeexplore.ieee.org/document/6337125}
+}
+</pre></div></li>
+
+<li>Nozomi Nori, Danushka Bollegala, Hisashi Kashima:
+<strong>Multinomial Relation Prediction in Social Data: A Dimension Reduction Approach</strong>,
+Proceedings of the 26th National Conference on Artificial Intelligence (AAAI 2012), pp. 115-121, Toronto, Canada. (2012.7) DOI.
+<a href="https://ojs.aaai.org/index.php/AAAI/article/view/8110"><img src="../images/PDF.png" width="30" height ="10"></a>
+<a href = "javascript:unhide('Nori-2012-multinom-998e');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "Nori-2012-multinom-998e" class="hidden">
+<pre style="text-align: left">
+@inproceedings{Nori-2012-multinom-998e,
+	author = {Nozomi Nori, Danushka Bollegala, Hisashi Kashima},
+	title = {Multinomial Relation Prediction in Social Data: A Dimension Reduction Approach},
+	booktitle = {Proceedings of the 26th National Conference on Artificial Intelligence (AAAI 2012), pp. 115-121, Toronto, Canada. (2012.7) DOI},
+	year = {2012},
+	url = {https://ojs.aaai.org/index.php/AAAI/article/view/8110}
+}
+</pre></div></li>
+
+<li>Danushka Bollegala, Naoaki Okazaki, and Mitsuru Ishizuka:
+<strong>A Prefernce Learning Approach to Sentence Ordering for Multi-document Summarization</strong>,
+Journal of Information Sciences, Vol. 217, pp. 78-95, Elsevier, December, 2012. DOI.
+<a href="http://dx.doi.org/10.1016/j.ins.2012.06.015"><img src="../images/PDF.png" width="30" height ="10"></a>
+<a href = "javascript:unhide('Bollegala-2012-a-636f');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "Bollegala-2012-a-636f" class="hidden">
+<pre style="text-align: left">
+@article{Bollegala-2012-a-636f,
+	author = {Danushka Bollegala, Naoaki Okazaki, and Mitsuru Ishizuka},
+	title = {A Prefernce Learning Approach to Sentence Ordering for Multi-document Summarization},
+	journal = {Journal of Information Sciences, Vol. 217, pp. 78-95, Elsevier, December, 2012. DOI},
+	year = {2012},
+	url = {http://dx.doi.org/10.1016/j.ins.2012.06.015}
+}
+</pre></div></li>
+
+<li>Danushka Bollegala, Naoki Tani, and Mitsuru Ishizuka:
+<strong>Improving the Accuracy of Attribute Extraction using the Relatedness between Attribute Values</strong>,
+Transactions of the Japanese Society for Artificial Intelligence, Vol. 27, No. 2, pp. 245-252, 2012. DOI.
+<a href="https://www.jstage.jst.go.jp/article/tjsai/27/4/27_245/_article/-char/ja/"><img src="../images/PDF.png" width="30" height ="10"></a>
+<a href = "javascript:unhide('Bollegala-2012-improvin-98ed');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "Bollegala-2012-improvin-98ed" class="hidden">
+<pre style="text-align: left">
+@article{Bollegala-2012-improvin-98ed,
+	author = {Danushka Bollegala, Naoki Tani, and Mitsuru Ishizuka},
+	title = {Improving the Accuracy of Attribute Extraction using the Relatedness between Attribute Values},
+	journal = {Transactions of the Japanese Society for Artificial Intelligence, Vol. 27, No. 2, pp. 245-252, 2012. DOI},
+	year = {2012},
+	url = {https://www.jstage.jst.go.jp/article/tjsai/27/4/27_245/_article/-char/ja/}
+}
+</pre></div></li>
+
+<li>Danushka Bollegala, Yutaka Matsuo, and Mitsuru Ishizuka:
+<strong>Measuring the degree of Synonymy between Words using Relational Similarity between Word Pairs as a Proxy</strong>,
+Institute of Electronics, Information and Communication Engineers (IEICE) Transactions on Information Systems, Vol. E95-D, No. 8, pp. 2116 - 2123, 2012. DOI.
+<a href="http://search.ieice.org/bin/summary.php?id=e95-d_8_2116&category=D&year=2012&lang=E&abst="><img src="../images/PDF.png" width="30" height ="10"></a>
+<a href = "javascript:unhide('Bollegala-2012-measurin-98fa');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "Bollegala-2012-measurin-98fa" class="hidden">
+<pre style="text-align: left">
+@article{Bollegala-2012-measurin-98fa,
+	author = {Danushka Bollegala, Yutaka Matsuo, and Mitsuru Ishizuka},
+	title = {Measuring the degree of Synonymy between Words using Relational Similarity between Word Pairs as a Proxy},
+	journal = {Institute of Electronics, Information and Communication Engineers (IEICE) Transactions on Information Systems, Vol. E95-D, No. 8, pp. 2116 - 2123, 2012. DOI},
+	year = {2012},
+	url = {http://search.ieice.org/bin/summary.php?id=e95-d_8_2116&category=D&year=2012&lang=E&abst=}
+}
+</pre></div></li>
+
+<li>Nguen Tuan Duc, Danushka Bollegala, and Mitsuru Ishizuka:
+<strong>Cross-Language Latent Relational Search between Japanese and English Languages Using a Web Corpus</strong>,
+ACM Transactions on Asian Language Information Processing (TALIP), Vol. 11, Issue 3, pp. 11:1 - 33, September, 2012. DOI.
+<a href="http://dl.acm.org/citation.cfm?doid=2334801.2334805"><img src="../images/PDF.png" width="30" height ="10"></a>
+<a href = "javascript:unhide('Duc-2012-crosslan-ad8f');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "Duc-2012-crosslan-ad8f" class="hidden">
+<pre style="text-align: left">
+@article{Duc-2012-crosslan-ad8f,
+	author = {Nguen Tuan Duc, Danushka Bollegala, and Mitsuru Ishizuka},
+	title = {Cross-Language Latent Relational Search between Japanese and English Languages Using a Web Corpus},
+	journal = {ACM Transactions on Asian Language Information Processing (TALIP), Vol. 11, Issue 3, pp. 11:1 - 33, September, 2012. DOI},
+	year = {2012},
+	url = {http://dl.acm.org/citation.cfm?doid=2334801.2334805}
+}
+</pre></div></li>
+
+	<h2>2011</h2>
+
+<li>Nugyen Duc, Danushka Bollegala, and Mitsuru Ishizuka:
+<strong>Cross-Language Latent Relational Search: Mapping Knowledge across Languages</strong>,
+Proceedings of the 25th National Conference on Artificial Intelligence (AAAI 2011), pp. 1237-1242, San Francisco, USA, 2011.8. URL.
+<a href="https://ojs.aaai.org/index.php/AAAI/article/view/8075"><img src="../images/PDF.png" width="30" height ="10"></a>
+<a href = "javascript:unhide('Duc-2011-crosslan-0e1b');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "Duc-2011-crosslan-0e1b" class="hidden">
+<pre style="text-align: left">
+@inproceedings{Duc-2011-crosslan-0e1b,
+	author = {Nugyen Duc, Danushka Bollegala, and Mitsuru Ishizuka},
+	title = {Cross-Language Latent Relational Search: Mapping Knowledge across Languages},
+	booktitle = {Proceedings of the 25th National Conference on Artificial Intelligence (AAAI 2011), pp. 1237-1242, San Francisco, USA, 2011.8. URL},
+	year = {2011},
+	url = {https://ojs.aaai.org/index.php/AAAI/article/view/8075}
+}
+</pre></div></li>
+
+<li>Naoki Tani, Danushka Bollegala, Naiwala Chandrasiri, Shuhei Iitsuka, Keisuke Okamoto, Kazunari Nawa, Yutaka Matsuo:
+<strong>Collaborative Search in a Real-World Context</strong>,
+Proceedings of the 20th ACM Conference on Information and Knowledge Management (CIKM 2011) (poster paper), pp. 2137-2140, Glasgow, UK, 2011.10..
+<a href="./papers/CIKM_2011.pdf"><img src="../images/PDF.png" width="30" height ="10"></a>
+<a href = "javascript:unhide('Tani-2011-collabor-c042');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "Tani-2011-collabor-c042" class="hidden">
+<pre style="text-align: left">
+@inproceedings{Tani-2011-collabor-c042,
+	author = {Naoki Tani, Danushka Bollegala, Naiwala Chandrasiri, Shuhei Iitsuka, Keisuke Okamoto, Kazunari Nawa, Yutaka Matsuo},
+	title = {Collaborative Search in a Real-World Context},
+	booktitle = {Proceedings of the 20th ACM Conference on Information and Knowledge Management (CIKM 2011) (poster paper), pp. 2137-2140, Glasgow, UK, 2011.10.},
+	year = {2011},
+	url = {./papers/CIKM_2011.pdf}
+}
+</pre></div></li>
+
+<li>Danushka Bollegala, Yutaka Matsuo, and Mitsuru Ishizuka:
+<strong>Relation Adaptation: Learning to Extract Novel Relations with Minimum Supervision</strong>,
+Proceedings of the 22nd International Joint Conference on Artificial Intelligence (IJCAI 2011), pp. 2205-2210, Barcelona, Spain, 2011.7..
+<a href="./papers/danushka_IJCAI_2011.pdf"><img src="../images/PDF.png" width="30" height ="10"></a>
+<a href = "javascript:unhide('Bollegala-2011-relation-79fc');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "Bollegala-2011-relation-79fc" class="hidden">
+<pre style="text-align: left">
+@inproceedings{Bollegala-2011-relation-79fc,
+	author = {Danushka Bollegala, Yutaka Matsuo, and Mitsuru Ishizuka},
+	title = {Relation Adaptation: Learning to Extract Novel Relations with Minimum Supervision},
+	booktitle = {Proceedings of the 22nd International Joint Conference on Artificial Intelligence (IJCAI 2011), pp. 2205-2210, Barcelona, Spain, 2011.7.},
+	year = {2011},
+	url = {./papers/danushka_IJCAI_2011.pdf}
+}
+</pre></div></li>
+
+<li>Nozomi Nori, Danushka Bollegala, and Mitsuru Ishizuka:
+<strong>Interest Prediction on Multinomial, Time-Evolving Social Graphs</strong>,
+Proceedings of the 22nd International Joint Conference on Artificial Intelligence (IJCAI 2011), pp. 2507-2512, Barcelona, Spain, 2011.7..
+<a href="./papers/nori_IJCAI_2011.pdf"><img src="../images/PDF.png" width="30" height ="10"></a>
+<a href = "javascript:unhide('Nori-2011-interest-39ff');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "Nori-2011-interest-39ff" class="hidden">
+<pre style="text-align: left">
+@inproceedings{Nori-2011-interest-39ff,
+	author = {Nozomi Nori, Danushka Bollegala, and Mitsuru Ishizuka},
+	title = {Interest Prediction on Multinomial, Time-Evolving Social Graphs},
+	booktitle = {Proceedings of the 22nd International Joint Conference on Artificial Intelligence (IJCAI 2011), pp. 2507-2512, Barcelona, Spain, 2011.7.},
+	year = {2011},
+	url = {./papers/nori_IJCAI_2011.pdf}
+}
+</pre></div></li>
+
+<li>Nozomi Nori, Danushka Bollegala, and Mitsuru Ishizuka:
+<strong>Exploiting User Interest on Social Media for Aggregating Diverse Data and Predicting Interest</strong>,
+Proceedings of the 5th International AAAI Conference on Weblogs and Social Media (ICWSM 2011), pp. 241-248, Barcelona, Spain, 2011.7. URL.
+<a href="https://ojs.aaai.org/index.php/ICWSM/article/view/14114"><img src="../images/PDF.png" width="30" height ="10"></a>
+<a href = "javascript:unhide('Nori-2011-exploiti-1033');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "Nori-2011-exploiti-1033" class="hidden">
+<pre style="text-align: left">
+@inproceedings{Nori-2011-exploiti-1033,
+	author = {Nozomi Nori, Danushka Bollegala, and Mitsuru Ishizuka},
+	title = {Exploiting User Interest on Social Media for Aggregating Diverse Data and Predicting Interest},
+	booktitle = {Proceedings of the 5th International AAAI Conference on Weblogs and Social Media (ICWSM 2011), pp. 241-248, Barcelona, Spain, 2011.7. URL},
+	year = {2011},
+	url = {https://ojs.aaai.org/index.php/ICWSM/article/view/14114}
+}
+</pre></div></li>
+
+<li>Danushka Bollegala, Nasimul Noman, and Hitoshi Iba:
+<strong>RankDE: Learning a Ranking Function for Information Retrieval using Differential Evolution</strong>,
+Proceedings of the Genetic and Evolutionary Computation Conference (GECCO 2011), pp. 1771-1778, Dublin, Ireland, 2011.7. PDF URL.
+<a href="./papers/GECCO_danushka_2011.pdf"><img src="../images/PDF.png" width="30" height ="10"></a>
+<a href = "javascript:unhide('Bollegala-2011-rankde-6add');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "Bollegala-2011-rankde-6add" class="hidden">
+<pre style="text-align: left">
+@inproceedings{Bollegala-2011-rankde-6add,
+	author = {Danushka Bollegala, Nasimul Noman, and Hitoshi Iba},
+	title = {RankDE: Learning a Ranking Function for Information Retrieval using Differential Evolution},
+	booktitle = {Proceedings of the Genetic and Evolutionary Computation Conference (GECCO 2011), pp. 1771-1778, Dublin, Ireland, 2011.7. PDF URL},
+	year = {2011},
+	url = {./papers/GECCO_danushka_2011.pdf}
+}
+</pre></div></li>
+
+<li>Nasimul Noman, Danushka Bollegala, and Hitoshi Iba:
+<strong>Differential Evolution with Self Adaptive Local Search</strong>,
+Proceedings of the Genetic and Evolutionary Computation Conference (GECCO 2011), pp. 1099-1106, Dublin, Ireland, 2011.7. PDF URL.
+<a href="./papers/noman_GECCO_2011.pdf"><img src="../images/PDF.png" width="30" height ="10"></a>
+<a href = "javascript:unhide('Noman-2011-differen-e838');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "Noman-2011-differen-e838" class="hidden">
+<pre style="text-align: left">
+@inproceedings{Noman-2011-differen-e838,
+	author = {Nasimul Noman, Danushka Bollegala, and Hitoshi Iba},
+	title = {Differential Evolution with Self Adaptive Local Search},
+	booktitle = {Proceedings of the Genetic and Evolutionary Computation Conference (GECCO 2011), pp. 1099-1106, Dublin, Ireland, 2011.7. PDF URL},
+	year = {2011},
+	url = {./papers/noman_GECCO_2011.pdf}
+}
+</pre></div></li>
+
+<li>Nasimul Noman, Danushka Bollegala, and Hitoshi Iba:
+<strong>An Adaptive Differential Evolution Algorithm</strong>,
+Proceedings of the IEEE Congress on Evolutionary Computation (IEEE CEC 2011), pp. 2229-2236, New Orleans, USA, 2011.6. PDF URL.
+<a href="../papers/noman_CEC_2011.pdf"><img src="../images/PDF.png" width="30" height ="10"></a>
+<a href = "javascript:unhide('Noman-2011-an-8d77');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "Noman-2011-an-8d77" class="hidden">
+<pre style="text-align: left">
+@inproceedings{Noman-2011-an-8d77,
+	author = {Nasimul Noman, Danushka Bollegala, and Hitoshi Iba},
+	title = {An Adaptive Differential Evolution Algorithm},
+	booktitle = {Proceedings of the IEEE Congress on Evolutionary Computation (IEEE CEC 2011), pp. 2229-2236, New Orleans, USA, 2011.6. PDF URL},
+	year = {2011},
+	url = {../papers/noman_CEC_2011.pdf}
+}
+</pre></div></li>
+
+<li>Danushka Bollegala, David Weir, and John Carroll:
+<strong>Using Multiple Sources to Construct a Sentiment Sensitive Thesaurus for Cross-Domain Sentiment Classification</strong>,
+Proceedings of 49th Annual Meeting of the Association for Computational Linguistics: Human Language Technologies (ACL/HLT 2011), pp. 132-141, Portland, Oregon, USA, 2011.6. URL.
+<a href="https://aclanthology.org/P11-1014/"><img src="../images/PDF.png" width="30" height ="10"></a>
+<a href = "javascript:unhide('Bollegala-2011-using-4e75');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "Bollegala-2011-using-4e75" class="hidden">
+<pre style="text-align: left">
+@inproceedings{Bollegala-2011-using-4e75,
+	author = {Danushka Bollegala, David Weir, and John Carroll},
+	title = {Using Multiple Sources to Construct a Sentiment Sensitive Thesaurus for Cross-Domain Sentiment Classification},
+	booktitle = {Proceedings of 49th Annual Meeting of the Association for Computational Linguistics: Human Language Technologies (ACL/HLT 2011), pp. 132-141, Portland, Oregon, USA, 2011.6. URL},
+	year = {2011},
+	url = {https://aclanthology.org/P11-1014/}
+}
+</pre></div></li>
+
+<li>Danushka Bollegala, Yutaka Matsuo, and Mitsuru Ishizuka:
+<strong>From Actors, Politicians, to CEOs: Domain Adaptation of Relational Extractors using a Latent Relational Mapping</strong>,
+Proceedings of the 20th International World Wide Web Conference (WWW 2011) poster session, pp. 13-14, Hyderabad, India, 2011.3. PDF URL.
+<a href="./papers/WWW2011.pdf"><img src="../images/PDF.png" width="30" height ="10"></a>
+<a href = "javascript:unhide('Bollegala-2011-from-a173');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "Bollegala-2011-from-a173" class="hidden">
+<pre style="text-align: left">
+@inproceedings{Bollegala-2011-from-a173,
+	author = {Danushka Bollegala, Yutaka Matsuo, and Mitsuru Ishizuka},
+	title = {From Actors, Politicians, to CEOs: Domain Adaptation of Relational Extractors using a Latent Relational Mapping},
+	booktitle = {Proceedings of the 20th International World Wide Web Conference (WWW 2011) poster session, pp. 13-14, Hyderabad, India, 2011.3. PDF URL},
+	year = {2011},
+	url = {./papers/WWW2011.pdf}
+}
+</pre></div></li>
+
+<li>Hugo Hernault, Danushka Bollegala, and Mitsuru Ishizuka:
+<strong>Semi-Supervised Discourse Relation Classification with Structural Learning</strong>,
+Proceedings of the Conference on Intelligent Text Processing and Computational Linguistics (CICLing 2011), Lecture Notes in Computer Science, Volume 6608/2011, pp. 340-352, Tokyo, Japan, 2011.02. PDF URL.
+<a href="./papers/Hugo_CICLing_2011.pdf"><img src="../images/PDF.png" width="30" height ="10"></a>
+<a href = "javascript:unhide('Hernault-2011-semisupe-f97c');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "Hernault-2011-semisupe-f97c" class="hidden">
+<pre style="text-align: left">
+@inproceedings{Hernault-2011-semisupe-f97c,
+	author = {Hugo Hernault, Danushka Bollegala, and Mitsuru Ishizuka},
+	title = {Semi-Supervised Discourse Relation Classification with Structural Learning},
+	booktitle = {Proceedings of the Conference on Intelligent Text Processing and Computational Linguistics (CICLing 2011), Lecture Notes in Computer Science, Volume 6608/2011, pp. 340-352, Tokyo, Japan, 2011.02. PDF URL},
+	year = {2011},
+	url = {./papers/Hugo_CICLing_2011.pdf}
+}
+</pre></div></li>
+
+<li>Haibo Li, Danushka Bollegala, Yutaka Matsuo, and Mitsuru Ishizuka:
+<strong>Using Graph based Method to Improve Bootstrapping Relation Extraction</strong>,
+Proceedings of the Conference on Intelligent Text Processing and Computational Linguistics (CICLing 2011), Lecture Notes in Computer Science, Volume 6609/2011, pp. 127-138, Tokyo, Japan, 2011.02. PDF URL.
+<a href="./papers/Li_CICLing_2011.pdf"><img src="../images/PDF.png" width="30" height ="10"></a>
+<a href = "javascript:unhide('Li-2011-using-c47b');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "Li-2011-using-c47b" class="hidden">
+<pre style="text-align: left">
+@inproceedings{Li-2011-using-c47b,
+	author = {Haibo Li, Danushka Bollegala, Yutaka Matsuo, and Mitsuru Ishizuka},
+	title = {Using Graph based Method to Improve Bootstrapping Relation Extraction},
+	booktitle = {Proceedings of the Conference on Intelligent Text Processing and Computational Linguistics (CICLing 2011), Lecture Notes in Computer Science, Volume 6609/2011, pp. 127-138, Tokyo, Japan, 2011.02. PDF URL},
+	year = {2011},
+	url = {./papers/Li_CICLing_2011.pdf}
+}
+</pre></div></li>
+
+<li>Danushka Bollegala:
+<strong>A Supervised Ranking Approach for Detecting Relationally Similar Word Pairs</strong>,
+Proceedings of the IEEE International Conference on Information and Automation for Sustainability (ICAfs 2011), pp. 323-328, Colombo, Sri Lanka, 2011. PDF URL.
+<a href="./papers/ICIAfs_2011.pdf"><img src="../images/PDF.png" width="30" height ="10"></a>
+<a href = "javascript:unhide('Bollegala-2011-a-f868');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "Bollegala-2011-a-f868" class="hidden">
+<pre style="text-align: left">
+@inproceedings{Bollegala-2011-a-f868,
+	author = {Danushka Bollegala},
+	title = {A Supervised Ranking Approach for Detecting Relationally Similar Word Pairs},
+	booktitle = {Proceedings of the IEEE International Conference on Information and Automation for Sustainability (ICAfs 2011), pp. 323-328, Colombo, Sri Lanka, 2011. PDF URL},
+	year = {2011},
+	url = {./papers/ICIAfs_2011.pdf}
+}
+</pre></div></li>
+
+<li>Danushka Bollegala, Yutaka Matsuo, and Mitsuru Ishizuka:
+<strong>A Web Search Engine-based Approach to Measure Semantic Similarity between Words</strong>,
+IEEE Transactions on Knowledge and Data Engineering (TKDE), Vol. 23, no. 7, pp. 977-990, July, 2011. DOI.
+<a href="http://doi.ieeecomputersociety.org/10.1109/TKDE.2010.172"><img src="../images/PDF.png" width="30" height ="10"></a>
+<a href = "javascript:unhide('Bollegala-2011-a-a390');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "Bollegala-2011-a-a390" class="hidden">
+<pre style="text-align: left">
+@article{Bollegala-2011-a-a390,
+	author = {Danushka Bollegala, Yutaka Matsuo, and Mitsuru Ishizuka},
+	title = {A Web Search Engine-based Approach to Measure Semantic Similarity between Words},
+	journal = {IEEE Transactions on Knowledge and Data Engineering (TKDE), Vol. 23, no. 7, pp. 977-990, July, 2011. DOI},
+	year = {2011},
+	url = {http://doi.ieeecomputersociety.org/10.1109/TKDE.2010.172}
+}
+</pre></div></li>
+
+<li>Danushka Bollegala, Yutaka Matsuo, and Mitsuru Ishizuka:
+<strong>Automatic Discovery of Personal Name Aliases from the Web</strong>,
+IEEE Transactions on Knowledge and Data Engineering (TKDE), Vol. 23, no. 6, pp. 831-844, July, 2011. DOI.
+<a href="http://doi.ieeecomputersociety.org/10.1109/TKDE.2010.162"><img src="../images/PDF.png" width="30" height ="10"></a>
+<a href = "javascript:unhide('Bollegala-2011-automati-595a');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "Bollegala-2011-automati-595a" class="hidden">
+<pre style="text-align: left">
+@article{Bollegala-2011-automati-595a,
+	author = {Danushka Bollegala, Yutaka Matsuo, and Mitsuru Ishizuka},
+	title = {Automatic Discovery of Personal Name Aliases from the Web},
+	journal = {IEEE Transactions on Knowledge and Data Engineering (TKDE), Vol. 23, no. 6, pp. 831-844, July, 2011. DOI},
+	year = {2011},
+	url = {http://doi.ieeecomputersociety.org/10.1109/TKDE.2010.162}
+}
+</pre></div></li>
+
+<li>Danushka Bollegala, Yutaka Matsuo, and Mitsuru Ishizuka:
+<strong>A Supervised Classification approach for Measuring Similarity between Word Pairs</strong>,
+Transactions of the Institute of Electronics, Information and Communication Engineers (IEICE), Vol.E94-D, no. 11, pp. 2227-2233, November, 2011. PDF URL.
+<a href="./papers/IEICE_relsim.pdf"><img src="../images/PDF.png" width="30" height ="10"></a>
+<a href = "javascript:unhide('Bollegala-2011-a-dcef');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "Bollegala-2011-a-dcef" class="hidden">
+<pre style="text-align: left">
+@article{Bollegala-2011-a-dcef,
+	author = {Danushka Bollegala, Yutaka Matsuo, and Mitsuru Ishizuka},
+	title = {A Supervised Classification approach for Measuring Similarity between Word Pairs},
+	journal = {Transactions of the Institute of Electronics, Information and Communication Engineers (IEICE), Vol.E94-D, no. 11, pp. 2227-2233, November, 2011. PDF URL},
+	year = {2011},
+	url = {./papers/IEICE_relsim.pdf}
+}
+</pre></div></li>
+
+<li>Nguyen Tuan Duc, Danushka Bollegala, and Mitsuru Ishizuka:
+<strong>Exploiting Relational Similarity between Entity Pairs for Latent Relational Search</strong>,
+Transactions of the Information Processing Society of Japan , Vol. 52, no. 4, pp. 1790-1802, 2011. PDF URL.
+<a href="./papers/duc-ipsj-draft.pdf"><img src="../images/PDF.png" width="30" height ="10"></a>
+<a href = "javascript:unhide('Duc-2011-exploiti-6a2c');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "Duc-2011-exploiti-6a2c" class="hidden">
+<pre style="text-align: left">
+@article{Duc-2011-exploiti-6a2c,
+	author = {Nguyen Tuan Duc, Danushka Bollegala, and Mitsuru Ishizuka},
+	title = {Exploiting Relational Similarity between Entity Pairs for Latent Relational Search},
+	journal = {Transactions of the Information Processing Society of Japan , Vol. 52, no. 4, pp. 1790-1802, 2011. PDF URL},
+	year = {2011},
+	url = {./papers/duc-ipsj-draft.pdf}
+}
+</pre></div></li>
+
+<li>Nguyen Tuan Duc, Danushka Bollegala, and Mitsuru Ishizuka:
+<strong>Relation Representation and Indexing Method for Fast and High Precision Latent Relational Search Engine</strong>,
+Special issue of the Transactions of the Japanese Society for Artificial Intelligence , Vol. 26, no. 2, pp. 307-312, 2011. PDF URL.
+<a href="./papers/Duc_JSAI_2011.pdf"><img src="../images/PDF.png" width="30" height ="10"></a>
+<a href = "javascript:unhide('Duc-2011-relation-4602');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "Duc-2011-relation-4602" class="hidden">
+<pre style="text-align: left">
+@article{Duc-2011-relation-4602,
+	author = {Nguyen Tuan Duc, Danushka Bollegala, and Mitsuru Ishizuka},
+	title = {Relation Representation and Indexing Method for Fast and High Precision Latent Relational Search Engine},
+	journal = {Special issue of the Transactions of the Japanese Society for Artificial Intelligence , Vol. 26, no. 2, pp. 307-312, 2011. PDF URL},
+	year = {2011},
+	url = {./papers/Duc_JSAI_2011.pdf}
+}
+</pre></div></li>
+
+<li>Tomokazu Goto, Nguyen Tuan Duc, Danushka Bollegala, and Mitsuru Ishizuka:
+<strong>Improving Relational Search Performance using Relational Symmetries and Predictors</strong>,
+Transactions of the Japanese Society for Artificial Intelligence , Vol. 26, no. 6, pp. 649-656, 2011. URL.
+<a href="https://www.jstage.jst.go.jp/article/tjsai/26/6/26_6_649/_article/-char/ja/"><img src="../images/PDF.png" width="30" height ="10"></a>
+<a href = "javascript:unhide('Goto-2011-improvin-f15a');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "Goto-2011-improvin-f15a" class="hidden">
+<pre style="text-align: left">
+@article{Goto-2011-improvin-f15a,
+	author = {Tomokazu Goto, Nguyen Tuan Duc, Danushka Bollegala, and Mitsuru Ishizuka},
+	title = {Improving Relational Search Performance using Relational Symmetries and Predictors},
+	journal = {Transactions of the Japanese Society for Artificial Intelligence , Vol. 26, no. 6, pp. 649-656, 2011. URL},
+	year = {2011},
+	url = {https://www.jstage.jst.go.jp/article/tjsai/26/6/26_6_649/_article/-char/ja/}
+}
+</pre></div></li>
+
+	<h2>2010</h2>
+
+<li>Danushka Bollegala, Naoaki Okazaki and Mitsuru Ishizuka:
+<strong>A bottom up Approach to Sentence Ordering for Multi-document Summarization</strong>,
+Information Processing and Management, Vol. 46, Issue 1, pp. 89-109, Elsevier, 2010. URL.
+<a href="./papers/ipm_sentord_preprint.pdf"><img src="../images/PDF.png" width="30" height ="10"></a>
+<a href = "javascript:unhide('Bollegala-2010-a-f10d');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "Bollegala-2010-a-f10d" class="hidden">
+<pre style="text-align: left">
+@article{Bollegala-2010-a-f10d,
+	author = {Danushka Bollegala, Naoaki Okazaki and Mitsuru Ishizuka},
+	title = {A bottom up Approach to Sentence Ordering for Multi-document Summarization},
+	journal = {Information Processing and Management, Vol. 46, Issue 1, pp. 89-109, Elsevier, 2010. URL},
+	year = {2010},
+	url = {./papers/ipm_sentord_preprint.pdf}
+}
+</pre></div></li>
+
+<li>Keigo Watanabe, Danushka Bollegala, Yutaka Matsuo, and Mitsuru Ishizuka:
+<strong>Automatic Extraction of Related Terms using Web Search Engines</strong>,
+Journal of the Japan Society for Fuzzy Theory and Intelligent Informatics, Vol. 23, no. 4, pp. 483-493, 2010. URL.
+<a href="./papers/jsoft_2011.pdf"><img src="../images/PDF.png" width="30" height ="10"></a>
+<a href = "javascript:unhide('Watanabe-2010-automati-da02');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "Watanabe-2010-automati-da02" class="hidden">
+<pre style="text-align: left">
+@article{Watanabe-2010-automati-da02,
+	author = {Keigo Watanabe, Danushka Bollegala, Yutaka Matsuo, and Mitsuru Ishizuka},
+	title = {Automatic Extraction of Related Terms using Web Search Engines},
+	journal = {Journal of the Japan Society for Fuzzy Theory and Intelligent Informatics, Vol. 23, no. 4, pp. 483-493, 2010. URL},
+	year = {2010},
+	url = {./papers/jsoft_2011.pdf}
+}
+</pre></div></li>
+
+<li>Hugo Hernault, Danushka Bollegala, and Mitsuru Ishizuka:
+<strong>A Semi-Supervised Approach to Improve Classification of Infrequent Discourse Relations using Feature Vector Extension</strong>,
+Proceedings of the Empirical Methods in Natural Language Processing (EMNLP 2010), pp. 399-409, Massachusetts, USA. (2010.10) URL.
+<a href="https://aclanthology.org/D10-1039/"><img src="../images/PDF.png" width="30" height ="10"></a>
+<a href = "javascript:unhide('Hernault-2010-a-ab73');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "Hernault-2010-a-ab73" class="hidden">
+<pre style="text-align: left">
+@inproceedings{Hernault-2010-a-ab73,
+	author = {Hugo Hernault, Danushka Bollegala, and Mitsuru Ishizuka},
+	title = {A Semi-Supervised Approach to Improve Classification of Infrequent Discourse Relations using Feature Vector Extension},
+	booktitle = {Proceedings of the Empirical Methods in Natural Language Processing (EMNLP 2010), pp. 399-409, Massachusetts, USA. (2010.10) URL},
+	year = {2010},
+	url = {https://aclanthology.org/D10-1039/}
+}
+</pre></div></li>
+
+<li>Hugo Hernault, Danushka Bollegala, and Mitsuru Ishizuka:
+<strong>Towards Semi-Supervised Classification of Discourse Relations using Feature Correlations</strong>,
+Proceesings of the 11th Annual SIGdial Meeting on Discourse and Dialogue (SIGDIAL 2010) (short paper), pp.55-58, Tokyo, Japan. (2010.09) URL.
+<a href="https://aclanthology.org/W10-4309/"><img src="../images/PDF.png" width="30" height ="10"></a>
+<a href = "javascript:unhide('Hernault-2010-towards-d908');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "Hernault-2010-towards-d908" class="hidden">
+<pre style="text-align: left">
+@inproceedings{Hernault-2010-towards-d908,
+	author = {Hugo Hernault, Danushka Bollegala, and Mitsuru Ishizuka},
+	title = {Towards Semi-Supervised Classification of Discourse Relations using Feature Correlations},
+	booktitle = {Proceesings of the 11th Annual SIGdial Meeting on Discourse and Dialogue (SIGDIAL 2010) (short paper), pp.55-58, Tokyo, Japan. (2010.09) URL},
+	year = {2010},
+	url = {https://aclanthology.org/W10-4309/}
+}
+</pre></div></li>
+
+<li>Nugyen Duc, Danushka Bollegala, and Mitsuru Ishizuka:
+<strong>Using Relational Similarity between Word Pairs for Latent Relational Search on the Web</strong>,
+Proceedings of the IEEE/WIC/ACM International Conference on Web Intelligence (WI 2010) (short paper), pp. 196-199, Toronto, Canada. (2010.08).
+<a href="./papers/WI_2010.pdf"><img src="../images/PDF.png" width="30" height ="10"></a>
+<a href = "javascript:unhide('Duc-2010-using-79d9');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "Duc-2010-using-79d9" class="hidden">
+<pre style="text-align: left">
+@inproceedings{Duc-2010-using-79d9,
+	author = {Nugyen Duc, Danushka Bollegala, and Mitsuru Ishizuka},
+	title = {Using Relational Similarity between Word Pairs for Latent Relational Search on the Web},
+	booktitle = {Proceedings of the IEEE/WIC/ACM International Conference on Web Intelligence (WI 2010) (short paper), pp. 196-199, Toronto, Canada. (2010.08)},
+	year = {2010},
+	url = {./papers/WI_2010.pdf}
+}
+</pre></div></li>
+
+<li>Tomokazu Goto, Nugyen Duc, Danushka Bollegala, and Mitsuru Ishizuka:
+<strong>Exploiting Symmetry in Relational Similarity for Ranking Relational Search Results</strong>,
+Proceedings of the 11th Pacific Rim International Conference on Artificial Intelligence (PRICAI 2010) (short paper), pp. 595-600, Daegu, South Korea. (2010.08).
+<a href="./papers/PRICAI_2010_paper.pdf"><img src="../images/PDF.png" width="30" height ="10"></a>
+<a href = "javascript:unhide('Goto-2010-exploiti-ac8c');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "Goto-2010-exploiti-ac8c" class="hidden">
+<pre style="text-align: left">
+@inproceedings{Goto-2010-exploiti-ac8c,
+	author = {Tomokazu Goto, Nugyen Duc, Danushka Bollegala, and Mitsuru Ishizuka},
+	title = {Exploiting Symmetry in Relational Similarity for Ranking Relational Search Results},
+	booktitle = {Proceedings of the 11th Pacific Rim International Conference on Artificial Intelligence (PRICAI 2010) (short paper), pp. 595-600, Daegu, South Korea. (2010.08)},
+	year = {2010},
+	url = {./papers/PRICAI_2010_paper.pdf}
+}
+</pre></div></li>
+
+<li>Danushka Bollegala, Yutaka Matsuo and Mitsuru Ishizuka:
+<strong>Relational Duality: Unsupervised Extraction of Semantic Relations between Entities on the Web</strong>,
+Proceedings of the 19th International World Wide Web Conference (WWW 2010), pp. 151-160, North Carolina, USA. (2010.04).
+<a href="./papers/WWW2010.pdf"><img src="../images/PDF.png" width="30" height ="10"></a>
+<a href = "javascript:unhide('Bollegala-2010-relation-36f5');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "Bollegala-2010-relation-36f5" class="hidden">
+<pre style="text-align: left">
+@inproceedings{Bollegala-2010-relation-36f5,
+	author = {Danushka Bollegala, Yutaka Matsuo and Mitsuru Ishizuka},
+	title = {Relational Duality: Unsupervised Extraction of Semantic Relations between Entities on the Web},
+	booktitle = {Proceedings of the 19th International World Wide Web Conference (WWW 2010), pp. 151-160, North Carolina, USA. (2010.04)},
+	year = {2010},
+	url = {./papers/WWW2010.pdf}
+}
+</pre></div></li>
+
+<li>Hugo Hernault, Danushka Bollegala and Mitsuru Ishizuka:
+<strong>A Sequential Model for Discourse Segmentation</strong>,
+Proceedings of the 11th International Conference on Intelligent Text Processing and Computational Linguistics (CICLing 2010), Lecture Notes in Computer Science, vol. 6008/2010, pp. 315-326, Romania. (2010.03).
+<a href="./papers/CICLing2010.pdf"><img src="../images/PDF.png" width="30" height ="10"></a>
+<a href = "javascript:unhide('Hernault-2010-a-c0c3');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "Hernault-2010-a-c0c3" class="hidden">
+<pre style="text-align: left">
+@inproceedings{Hernault-2010-a-c0c3,
+	author = {Hugo Hernault, Danushka Bollegala and Mitsuru Ishizuka},
+	title = {A Sequential Model for Discourse Segmentation},
+	booktitle = {Proceedings of the 11th International Conference on Intelligent Text Processing and Computational Linguistics (CICLing 2010), Lecture Notes in Computer Science, vol. 6008/2010, pp. 315-326, Romania. (2010.03)},
+	year = {2010},
+	url = {./papers/CICLing2010.pdf}
+}
+</pre></div></li>
+
+	<h2>2009</h2>
+
+<li>Danushka Bollegala, Yutaka Matsuo and Mitsuru Ishizuka:
+<strong>A Relational Model of Semantic Similarity between Words using Automatically Extracted Lexical Pattern Clusters from the Web</strong>,
+Proceedings of Empirical Methods in Natural Language Processing (EMNLP 2009), pp. 803-812, Singapore (2009.08). URL.
+<a href="https://aclanthology.org/D09-1084/"><img src="../images/PDF.png" width="30" height ="10"></a>
+<a href = "javascript:unhide('Bollegala-2009-a-72df');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "Bollegala-2009-a-72df" class="hidden">
+<pre style="text-align: left">
+@inproceedings{Bollegala-2009-a-72df,
+	author = {Danushka Bollegala, Yutaka Matsuo and Mitsuru Ishizuka},
+	title = {A Relational Model of Semantic Similarity between Words using Automatically Extracted Lexical Pattern Clusters from the Web},
+	booktitle = {Proceedings of Empirical Methods in Natural Language Processing (EMNLP 2009), pp. 803-812, Singapore (2009.08). URL},
+	year = {2009},
+	url = {https://aclanthology.org/D09-1084/}
+}
+</pre></div></li>
+
+<li>Danushka Bollegala, Yutaka Matsuo and Mitsuru Ishizuka:
+<strong>Measuring the Similarity between Implicit Semantic Relations from the Web</strong>,
+Proceedings of the 18th International World Wide Web Conference (WWW 2009), pp. 651-660, Madrid, Spain (2009.04).
+<a href="./papers/danu_www_2009.pdf"><img src="../images/PDF.png" width="30" height ="10"></a>
+<a href = "javascript:unhide('Bollegala-2009-measurin-6b7b');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "Bollegala-2009-measurin-6b7b" class="hidden">
+<pre style="text-align: left">
+@inproceedings{Bollegala-2009-measurin-6b7b,
+	author = {Danushka Bollegala, Yutaka Matsuo and Mitsuru Ishizuka},
+	title = {Measuring the Similarity between Implicit Semantic Relations from the Web},
+	booktitle = {Proceedings of the 18th International World Wide Web Conference (WWW 2009), pp. 651-660, Madrid, Spain (2009.04)},
+	year = {2009},
+	url = {./papers/danu_www_2009.pdf}
+}
+</pre></div></li>
+
+<li>Keigo Watanabe, Danushka Bollegala, Yutaka Matsuo and Mitsuru Ishizuka:
+<strong>A Two-Step Approach to Extracting Atrtibutes for People on the Web</strong>,
+Proceedings (online) of the Second Web People Search Task (WePS2) Workshop at 18th International World Wide Web Conference (WWW 2009) , Madrid, Spain (2009.04).
+<a href="http://nlp.uned.es/weps/weps-2-papers/"><img src="../images/PDF.png" width="30" height ="10"></a>
+<a href = "javascript:unhide('Watanabe-2009-a-5e17');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "Watanabe-2009-a-5e17" class="hidden">
+<pre style="text-align: left">
+@inproceedings{Watanabe-2009-a-5e17,
+	author = {Keigo Watanabe, Danushka Bollegala, Yutaka Matsuo and Mitsuru Ishizuka},
+	title = {A Two-Step Approach to Extracting Atrtibutes for People on the Web},
+	booktitle = {Proceedings (online) of the Second Web People Search Task (WePS2) Workshop at 18th International World Wide Web Conference (WWW 2009) , Madrid, Spain (2009.04)},
+	year = {2009},
+	url = {http://nlp.uned.es/weps/weps-2-papers/}
+}
+</pre></div></li>
+
+<li>Danushka Bollegala, Yutaka Matsuo and Mitsuru Ishizuka:
+<strong>Measuring the Similarity between Implicit Semantic Relations using Web Search Engines</strong>,
+Proceedings of the Second ACM International Conference on Web Search and Data Mining (WSDM 2009), pp. 104-113, Barcelona, Spain (2009.02).
+<a href="./papers/danu_wsdm_2009.pdf"><img src="../images/PDF.png" width="30" height ="10"></a>
+<a href = "javascript:unhide('Bollegala-2009-measurin-b411');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "Bollegala-2009-measurin-b411" class="hidden">
+<pre style="text-align: left">
+@inproceedings{Bollegala-2009-measurin-b411,
+	author = {Danushka Bollegala, Yutaka Matsuo and Mitsuru Ishizuka},
+	title = {Measuring the Similarity between Implicit Semantic Relations using Web Search Engines},
+	booktitle = {Proceedings of the Second ACM International Conference on Web Search and Data Mining (WSDM 2009), pp. 104-113, Barcelona, Spain (2009.02)},
+	year = {2009},
+	url = {./papers/danu_wsdm_2009.pdf}
+}
+</pre></div></li>
+
+	<h2>2008</h2>
+
+<li>Danushka Bollegala, Taiki Honma, Yutaka Matsuo and Mitsuru Ishizuka:
+<strong>Automatically Extracting Personal Name Aliases from the Web</strong>,
+Proceedings of the 6th International Conference on Natural Language Processing (GoTAL 2008), Advances in Natural Language Processing Springer LNCS 5221, pp. 77-88, Gothenburg, Sweeden (2008.08)..
+<a href="./papers/GoTAL2008.pdf"><img src="../images/PDF.png" width="30" height ="10"></a>
+<a href = "javascript:unhide('Bollegala-2008-automati-121c');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "Bollegala-2008-automati-121c" class="hidden">
+<pre style="text-align: left">
+@inproceedings{Bollegala-2008-automati-121c,
+	author = {Danushka Bollegala, Taiki Honma, Yutaka Matsuo and Mitsuru Ishizuka},
+	title = {Automatically Extracting Personal Name Aliases from the Web},
+	booktitle = {Proceedings of the 6th International Conference on Natural Language Processing (GoTAL 2008), Advances in Natural Language Processing Springer LNCS 5221, pp. 77-88, Gothenburg, Sweeden (2008.08).},
+	year = {2008},
+	url = {./papers/GoTAL2008.pdf}
+}
+</pre></div></li>
+
+<li>Danushka Bollegala, Yutaka Matsuo and Mitsuru Ishizuka:
+<strong>WWW sits the SAT: Measuring Relational Similarity from the Web</strong>,
+Proceedings of the 18th European Conference on Artificial Intelligence (ECAI 2008), pp. 333-337, Patras, Greece (2008.07).
+<a href="./papers/ECAI2008.pdf"><img src="../images/PDF.png" width="30" height ="10"></a>
+<a href = "javascript:unhide('Bollegala-2008-www-0069');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "Bollegala-2008-www-0069" class="hidden">
+<pre style="text-align: left">
+@inproceedings{Bollegala-2008-www-0069,
+	author = {Danushka Bollegala, Yutaka Matsuo and Mitsuru Ishizuka},
+	title = {WWW sits the SAT: Measuring Relational Similarity from the Web},
+	booktitle = {Proceedings of the 18th European Conference on Artificial Intelligence (ECAI 2008), pp. 333-337, Patras, Greece (2008.07)},
+	year = {2008},
+	url = {./papers/ECAI2008.pdf}
+}
+</pre></div></li>
+
+<li>Danushka Bollegala, Taiki Honma, Yutaka Matsuo and Mitsuru Ishizuka:
+<strong>Mining for Personal Name Aliases on the Web</strong>,
+Proceedings of 17th International World Wide Web Conference (WWW 2008), Vol.II, pp. 1107-1108, Beijing, China (2008.04).
+<a href="./papers/WWW2008.pdf"><img src="../images/PDF.png" width="30" height ="10"></a>
+<a href = "javascript:unhide('Bollegala-2008-mining-c6a1');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "Bollegala-2008-mining-c6a1" class="hidden">
+<pre style="text-align: left">
+@inproceedings{Bollegala-2008-mining-c6a1,
+	author = {Danushka Bollegala, Taiki Honma, Yutaka Matsuo and Mitsuru Ishizuka},
+	title = {Mining for Personal Name Aliases on the Web},
+	booktitle = {Proceedings of 17th International World Wide Web Conference (WWW 2008), Vol.II, pp. 1107-1108, Beijing, China (2008.04)},
+	year = {2008},
+	url = {./papers/WWW2008.pdf}
+}
+</pre></div></li>
+
+<li>Danushka Bollegala, Taiki Honma, Yutaka Matsuo and Mitsuru Ishizuka:
+<strong>Identification of Personal Name Aliases on the Web</strong>,
+Online Proceedings of WWW 2008 Workshop on Social Web Search and Mining (SWSM 2008) , 8 pages, Beijing, China (2008.04).
+<a href="http://keg.cs.tsinghua.edu.cn/SWSM2008/#program"><img src="../images/PDF.png" width="30" height ="10"></a>
+<a href = "javascript:unhide('Bollegala-2008-identifi-140e');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "Bollegala-2008-identifi-140e" class="hidden">
+<pre style="text-align: left">
+@inproceedings{Bollegala-2008-identifi-140e,
+	author = {Danushka Bollegala, Taiki Honma, Yutaka Matsuo and Mitsuru Ishizuka},
+	title = {Identification of Personal Name Aliases on the Web},
+	booktitle = {Online Proceedings of WWW 2008 Workshop on Social Web Search and Mining (SWSM 2008) , 8 pages, Beijing, China (2008.04)},
+	year = {2008},
+	url = {http://keg.cs.tsinghua.edu.cn/SWSM2008/#program}
+}
+</pre></div></li>
+
+<li>Danushka Bollegala, Yutaka Matsuo and Mitsuru Ishizuka:
+<strong>A Co-occurrence Graph-based Approach for Personal Name Alias Extraction from Anchor Texts</strong>,
+Proceedings of 3rd International Joint Conferences on Natural Language Processing (IJCNLP 2008), Vol.II, pp. 865-870, Hyderabad, India (2008.1) URL.
+<a href="https://aclanthology.org/I08-2123/"><img src="../images/PDF.png" width="30" height ="10"></a>
+<a href = "javascript:unhide('Bollegala-2008-a-17cd');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "Bollegala-2008-a-17cd" class="hidden">
+<pre style="text-align: left">
+@inproceedings{Bollegala-2008-a-17cd,
+	author = {Danushka Bollegala, Yutaka Matsuo and Mitsuru Ishizuka},
+	title = {A Co-occurrence Graph-based Approach for Personal Name Alias Extraction from Anchor Texts},
+	booktitle = {Proceedings of 3rd International Joint Conferences on Natural Language Processing (IJCNLP 2008), Vol.II, pp. 865-870, Hyderabad, India (2008.1) URL},
+	year = {2008},
+	url = {https://aclanthology.org/I08-2123/}
+}
+</pre></div></li>
+
+	<h2>2007</h2>
+
+<li>Danushka Bollegala, Yutaka Matsuo and Mitsuru Ishizuka:
+<strong>Measuring Semantic Similarity between Words Using Web Search Engines</strong>,
+Proceedings of the 16th International World Wide Web Conference (WWW 2007) , pp. 757-766, Banff, Canada (2007.5).
+<a href="http://www2007.org/proceedings.html"><img src="../images/PDF.png" width="30" height ="10"></a>
+<a href = "javascript:unhide('Bollegala-2007-measurin-3d25');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "Bollegala-2007-measurin-3d25" class="hidden">
+<pre style="text-align: left">
+@inproceedings{Bollegala-2007-measurin-3d25,
+	author = {Danushka Bollegala, Yutaka Matsuo and Mitsuru Ishizuka},
+	title = {Measuring Semantic Similarity between Words Using Web Search Engines},
+	booktitle = {Proceedings of the 16th International World Wide Web Conference (WWW 2007) , pp. 757-766, Banff, Canada (2007.5)},
+	year = {2007},
+	url = {http://www2007.org/proceedings.html}
+}
+</pre></div></li>
+
+<li>Danushka Bollegala, Yutaka Matsuo and Mitsuru Ishizuka:
+<strong>An Integrated Approach to Measuring Semantic Similarity between Words Using Information Available on the Web</strong>,
+Proceedings of the North American Chapter of the Association for Computational Linguistics (HLT-NAACL 2007), pp. 340-347, Rochester, New York (2007.4) URL.
+<a href="https://aclanthology.org/N07-1043/"><img src="../images/PDF.png" width="30" height ="10"></a>
+<a href = "javascript:unhide('Bollegala-2007-an-d798');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "Bollegala-2007-an-d798" class="hidden">
+<pre style="text-align: left">
+@inproceedings{Bollegala-2007-an-d798,
+	author = {Danushka Bollegala, Yutaka Matsuo and Mitsuru Ishizuka},
+	title = {An Integrated Approach to Measuring Semantic Similarity between Words Using Information Available on the Web},
+	booktitle = {Proceedings of the North American Chapter of the Association for Computational Linguistics (HLT-NAACL 2007), pp. 340-347, Rochester, New York (2007.4) URL},
+	year = {2007},
+	url = {https://aclanthology.org/N07-1043/}
+}
+</pre></div></li>
+
+	<h2>2006</h2>
+
+<li>Danushka Bollegala, Yutaka Matsuo and Mitsuru Ishizuka:
+<strong>Disambiguating Personal Names on the Web using Automatically Extracted Key Phrases</strong>,
+Proceedings of the European Conference of Artificial Intelligence (ECAI2006), pp. 553-557, Italy (2006.8).
+<a href="./papers/ECAI06_danushka.pdf"><img src="../images/PDF.png" width="30" height ="10"></a>
+<a href = "javascript:unhide('Bollegala-2006-disambig-6ce2');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "Bollegala-2006-disambig-6ce2" class="hidden">
+<pre style="text-align: left">
+@inproceedings{Bollegala-2006-disambig-6ce2,
+	author = {Danushka Bollegala, Yutaka Matsuo and Mitsuru Ishizuka},
+	title = {Disambiguating Personal Names on the Web using Automatically Extracted Key Phrases},
+	booktitle = {Proceedings of the European Conference of Artificial Intelligence (ECAI2006), pp. 553-557, Italy (2006.8)},
+	year = {2006},
+	url = {./papers/ECAI06_danushka.pdf}
+}
+</pre></div></li>
+
+<li>Danushka Bollegala, Yutaka Matsuo and Mitsuru Ishizuka:
+<strong>Extracting Key Phrases to Disambiguate Personal Name Queries in Web Search</strong>,
+Proceedings of the Workshop "How can Computational Linguistics improve Information Retreival?", at the joint 21st International Conference on Computational Linguistics and the 44th Annual Meeting of the Association for Computational Linguistics (COLING-ACL 2006), pp.17-24 , Sydney, Australia, (2006.07).
+<a href="./papers/CLLIR.pdf"><img src="../images/PDF.png" width="30" height ="10"></a>
+<a href = "javascript:unhide('Bollegala-2006-extracti-5014');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "Bollegala-2006-extracti-5014" class="hidden">
+<pre style="text-align: left">
+@inproceedings{Bollegala-2006-extracti-5014,
+	author = {Danushka Bollegala, Yutaka Matsuo and Mitsuru Ishizuka},
+	title = {Extracting Key Phrases to Disambiguate Personal Name Queries in Web Search},
+	booktitle = {Proceedings of the Workshop "How can Computational Linguistics improve Information Retreival?", at the joint 21st International Conference on Computational Linguistics and the 44th Annual Meeting of the Association for Computational Linguistics (COLING-ACL 2006), pp.17-24 , Sydney, Australia, (2006.07)},
+	year = {2006},
+	url = {./papers/CLLIR.pdf}
+}
+</pre></div></li>
+
+<li>Danushka Bollegala, Naoaki Okazaki and Mitsuru Ishizuka:
+<strong>A bottom-up approach to Sentence Ordering for Multi-document Summarization</strong>,
+Proceedings of the joint 21st International Conference on Computational Linguistics and the 44th Annual Meeting of the Association for Computational Linguistics (COLING-ACL 2006), pp. 385-392, Sydney, Australia. (2006.07).
+<a href="https://aclanthology.org/P06-1049/"><img src="../images/PDF.png" width="30" height ="10"></a>
+<a href = "javascript:unhide('Bollegala-2006-a-eb02');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "Bollegala-2006-a-eb02" class="hidden">
+<pre style="text-align: left">
+@inproceedings{Bollegala-2006-a-eb02,
+	author = {Danushka Bollegala, Naoaki Okazaki and Mitsuru Ishizuka},
+	title = {A bottom-up approach to Sentence Ordering for Multi-document Summarization},
+	booktitle = {Proceedings of the joint 21st International Conference on Computational Linguistics and the 44th Annual Meeting of the Association for Computational Linguistics (COLING-ACL 2006), pp. 385-392, Sydney, Australia. (2006.07)},
+	year = {2006},
+	url = {https://aclanthology.org/P06-1049/}
+}
+</pre></div></li>
+
+<li>Yutaka Matsuo, Masahiro Hamasaki, Hideaki Takeda, Junichiro Mori, Danushka Bollegala, Hiroyuki Nakamura, Takuichi Nishimura, Koiti Hashida and Mitsuru Ishizuka:
+<strong>Spinning Multiple Social Networks for Semantic Web</strong>,
+Proceedings of the 21st National Conference on Artificial Intelligence (AAAI 2006), pp 1381-1387, Boston, MA, USA,(2006.07).
+<a href="./papers/AAAI_2006.pdf"><img src="../images/PDF.png" width="30" height ="10"></a>
+<a href = "javascript:unhide('Matsuo-2006-spinning-43ff');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "Matsuo-2006-spinning-43ff" class="hidden">
+<pre style="text-align: left">
+@inproceedings{Matsuo-2006-spinning-43ff,
+	author = {Yutaka Matsuo, Masahiro Hamasaki, Hideaki Takeda, Junichiro Mori, Danushka Bollegala, Hiroyuki Nakamura, Takuichi Nishimura, Koiti Hashida and Mitsuru Ishizuka},
+	title = {Spinning Multiple Social Networks for Semantic Web},
+	booktitle = {Proceedings of the 21st National Conference on Artificial Intelligence (AAAI 2006), pp 1381-1387, Boston, MA, USA,(2006.07)},
+	year = {2006},
+	url = {./papers/AAAI_2006.pdf}
+}
+</pre></div></li>
+
+<li>Danushka Bollegala, Yutaka Matsuo and Mitsuru Ishizuka:
+<strong>Extracting Key Phrases to Disambiguate Personal Names on the Web</strong>,
+Proceedings of the 7th International Conference on Intelligent Text Processing and Computational Linguistics (CICLing 2006), pp. 223-234, Mexico City, Mexico, (2006.02).
+<a href="./papers/CICLing_2006.pdf"><img src="../images/PDF.png" width="30" height ="10"></a>
+<a href = "javascript:unhide('Bollegala-2006-extracti-2db4');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "Bollegala-2006-extracti-2db4" class="hidden">
+<pre style="text-align: left">
+@inproceedings{Bollegala-2006-extracti-2db4,
+	author = {Danushka Bollegala, Yutaka Matsuo and Mitsuru Ishizuka},
+	title = {Extracting Key Phrases to Disambiguate Personal Names on the Web},
+	booktitle = {Proceedings of the 7th International Conference on Intelligent Text Processing and Computational Linguistics (CICLing 2006), pp. 223-234, Mexico City, Mexico, (2006.02)},
+	year = {2006},
+	url = {./papers/CICLing_2006.pdf}
+}
+</pre></div></li>
+
+	<h2>2005</h2>
+
+<li>Danushka Bollegala, Naoaki Okazaki and Mitsuru Ishizuka:
+<strong>A Machine Learning Approach to Sentence Ordering for Multi-document Summarization and its Evaluation</strong>,
+Proceedings of the 2nd International Joint Conference on Natural Language Processing (IJCNLP 2005), pp. 624-635, Jeju, South Korea, (2005.10).
+<a href="https://aclanthology.org/I05-1055/"><img src="../images/PDF.png" width="30" height ="10"></a>
+<a href = "javascript:unhide('Bollegala-2005-a-8d04');" class="bibtex"><img src="../images/bib.png"  width="30" height ="10"></a>
+<div id = "Bollegala-2005-a-8d04" class="hidden">
+<pre style="text-align: left">
+@inproceedings{Bollegala-2005-a-8d04,
+	author = {Danushka Bollegala, Naoaki Okazaki and Mitsuru Ishizuka},
+	title = {A Machine Learning Approach to Sentence Ordering for Multi-document Summarization and its Evaluation},
+	booktitle = {Proceedings of the 2nd International Joint Conference on Natural Language Processing (IJCNLP 2005), pp. 624-635, Jeju, South Korea, (2005.10)},
+	year = {2005},
+	url = {https://aclanthology.org/I05-1055/}
+}
+</pre></div></li>
+
 
 [Go to the Home Page]({{ '/' | absolute_url }})

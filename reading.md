@@ -17,7 +17,7 @@ We meet on a weely basis to discuss recent research papers. Here is the schedule
 | 10/07/26 | ACL update |
 | 03/07/26| ACL 2026 (San Diego) |
 | 26/06/26| Mike |
-| 19/06/26| Huda |
+| 19/06/26| Huda | [Filter-then-Generate: Large Language Models with Structure-Text Adapter for Knowledge Graph Completion](https://aclanthology.org/2025.coling-main.740/)
 | 12/06/26| Tianhui | [Agentic Reward Modeling: Integrating Human Preferences with Verifiable Correctness Signals for Reliable Reward Systems](https://aclanthology.org/2025.acl-long.775/)
 | 29/05/26|   Procheta | [Compute Optimal Tokenization](https://co-tok.github.io/paper.pdf)
 | 22/04/26|   Lingfang | [Simple Factuality Probes Detect Hallucinations in Long-Form Natural Language Generation](https://aclanthology.org/2025.findings-emnlp.880/)

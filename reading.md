@@ -16,7 +16,7 @@ We meet on a weely basis to discuss recent research papers. Here is the schedule
 | 14/08/26 | Resuming NLP seminars after the summer break
 | 10/07/26 | ACL update |
 | 03/07/26| ACL 2026 (San Diego) |
-| 26/06/26| Mike |
+| 26/06/26| Mike | [Benchmarking LLMs' Judgments with No Gold Standard](https://openreview.net/forum?id=uE84MGbKD7)
 | 19/06/26| Huda | [Filter-then-Generate: Large Language Models with Structure-Text Adapter for Knowledge Graph Completion](https://aclanthology.org/2025.coling-main.740/)
 | 12/06/26| Tianhui | [Agentic Reward Modeling: Integrating Human Preferences with Verifiable Correctness Signals for Reliable Reward Systems](https://aclanthology.org/2025.acl-long.775/)
 | 29/05/26|   Procheta | [Compute Optimal Tokenization](https://co-tok.github.io/paper.pdf)

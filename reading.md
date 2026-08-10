@@ -13,7 +13,7 @@ We meet on a weely basis to discuss recent research papers. Here is the schedule
 
 | Date | Speaker | Title 
 | ----- | ------- | -----
-| 14/08/26 | Resuming NLP seminars after the summer break
+| 04/09/26 | Resuming NLP seminars after the summer break
 | 10/07/26 | ACL update |
 | 03/07/26| ACL 2026 (San Diego) |
 | 26/06/26| Mike | [Benchmarking LLMs' Judgments with No Gold Standard](https://openreview.net/forum?id=uE84MGbKD7)

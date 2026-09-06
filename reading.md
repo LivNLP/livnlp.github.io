@@ -21,7 +21,7 @@ We meet on a weely basis to discuss recent research papers. Here is the schedule
 | 25/09/26 | Jodie|
 | 18/09/26 | Huda |
 | 11/09/26 | Charan|
-| 04/09/26 | Keren|
+| 04/09/26 | Keren| [One fish, two fish, but not the whole sea: Alignment reduces language models’ conceptual diversity](https://aclanthology.org/2025.naacl-long.561/)
 | 10/07/26 | ACL update |
 | 03/07/26| ACL 2026 (San Diego) |
 | 26/06/26| Mike | [Benchmarking LLMs' Judgments with No Gold Standard](https://openreview.net/forum?id=uE84MGbKD7)

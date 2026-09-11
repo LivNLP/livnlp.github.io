@@ -20,7 +20,7 @@ We meet on a weely basis to discuss recent research papers. Here is the schedule
 | 02/10/26 | Mike|
 | 25/09/26 | Jodie|
 | 18/09/26 | Huda |
-| 11/09/26 | Charan|
+| 11/09/26 | Charan| [Mind the (DH) Gap! A Contrast in Risky Choices Between Reasoning and Conversational LLMs](https://aclanthology.org/2026.acl-long.479/)
 | 04/09/26 | Keren| [One fish, two fish, but not the whole sea: Alignment reduces language models’ conceptual diversity](https://aclanthology.org/2025.naacl-long.561/)
 | 10/07/26 | ACL update |
 | 03/07/26| ACL 2026 (San Diego) |

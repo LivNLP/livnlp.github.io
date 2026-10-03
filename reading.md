@@ -18,8 +18,8 @@ We meet on a weely basis to discuss recent research papers. Here is the schedule
 | 16/10/26 | Tulika|
 | 09/10/26 | Procheta|
 | 02/10/26 | Mike|
-| 25/09/26 | Jodie|
-| 18/09/26 | Huda |
+| 25/09/26 | Jodie| [EigenBench: A Comparative Behavioral Measure of Value Alignment](https://arxiv.org/abs/2509.01938)
+| 18/09/26 | Huda | [Does Pre-trained Language Model Actually Infer Unseen Links in Knowledge Graph Completion?](https://aclanthology.org/2024.naacl-long.447/)
 | 11/09/26 | Charan| [Mind the (DH) Gap! A Contrast in Risky Choices Between Reasoning and Conversational LLMs](https://aclanthology.org/2026.acl-long.479/)
 | 04/09/26 | Keren| [One fish, two fish, but not the whole sea: Alignment reduces language models’ conceptual diversity](https://aclanthology.org/2025.naacl-long.561/)
 | 10/07/26 | ACL update |

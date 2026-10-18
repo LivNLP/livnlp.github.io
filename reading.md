@@ -13,11 +13,11 @@ We meet on a weely basis to discuss recent research papers. Here is the schedule
 
 | Date | Speaker | Title 
 | ----- | ------- | -----
-| 30/10/26 | Lingfang|
-| 23/10/26 | Tianhui|
-| 16/10/26 | Tulika|
-| 09/10/26 | Procheta|
-| 02/10/26 | Mike|
+| 13/11/26 | Lingfang|
+| 06/11/26 | Tianhui|
+| 30/10/26 | Tulika|
+| 23/10/26 | Mike|
+| 16/10/26 | Procheta| [GitSwarm: Decentralized Compounding Inference](https://arxiv.org/abs/2610.04862v1)
 | 25/09/26 | Jodie| [EigenBench: A Comparative Behavioral Measure of Value Alignment](https://arxiv.org/abs/2509.01938)
 | 18/09/26 | Huda | [Does Pre-trained Language Model Actually Infer Unseen Links in Knowledge Graph Completion?](https://aclanthology.org/2024.naacl-long.447/)
 | 11/09/26 | Charan| [Mind the (DH) Gap! A Contrast in Risky Choices Between Reasoning and Conversational LLMs](https://aclanthology.org/2026.acl-long.479/)

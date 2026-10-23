@@ -16,7 +16,7 @@ We meet on a weely basis to discuss recent research papers. Here is the schedule
 | 13/11/26 | Lingfang|
 | 06/11/26 | Tianhui|
 | 30/10/26 | Tulika|
-| 23/10/26 | Mike|
+| 23/10/26 | Mike| [When Facts Change: Temporal Knowledge Conflict Resolution in LLMs](https://aclanthology.org/2026.findings-acl.103.pdf)
 | 16/10/26 | Procheta| [GitSwarm: Decentralized Compounding Inference](https://arxiv.org/abs/2610.04862v1)
 | 25/09/26 | Jodie| [EigenBench: A Comparative Behavioral Measure of Value Alignment](https://arxiv.org/abs/2509.01938)
 | 18/09/26 | Huda | [Does Pre-trained Language Model Actually Infer Unseen Links in Knowledge Graph Completion?](https://aclanthology.org/2024.naacl-long.447/)

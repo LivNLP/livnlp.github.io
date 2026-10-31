@@ -13,7 +13,11 @@ We meet on a weely basis to discuss recent research papers. Here is the schedule
 
 | Date | Speaker | Title 
 | ----- | ------- | -----
-| 13/11/26 | Lingfang|
+| 11/12/26 | Charan|
+| 04/12/26 | Keren|
+| 27/11/26 | Danushka|
+| 20/11/26 | Lingfang|
+| 13/11/26 | AACL (no meeting)|
 | 06/11/26 | Tianhui|
 | 30/10/26 | Tulika| [Multi-turn Evaluation of Anthropomorphic Behaviours in Large Language Models](https://arxiv.org/abs/2502.07077)
 | 23/10/26 | Mike| [When Facts Change: Temporal Knowledge Conflict Resolution in LLMs](https://aclanthology.org/2026.findings-acl.103.pdf)
